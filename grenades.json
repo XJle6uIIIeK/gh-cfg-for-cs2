@@ -918,19 +918,6 @@
         },
         {
             "Nade": "smoke",
-            "Name": "Bench To Window",
-            "Position": {
-                "X": -1071.9688,
-                "Y": -788.9686,
-                "Z": -263.96875
-            },
-            "Viewangle": {
-                "X": -26.234665,
-                "Y": 96.77615
-            }
-        },
-        {
-            "Nade": "smoke",
             "Name": "Garbage To Default",
             "Position": {
                 "X": -1022.86816,
@@ -2621,19 +2608,20 @@
                 "Y": 0.22213745
             }
         },
-        {
-            "Nade": "incendiary",
-            "Name": "Apps To Default",
-            "Position": {
-                "X": -1334.8784,
-                "Y": 815.96857,
-                "Z": -79.96875
-            },
-            "Viewangle": {
-                "X": -2.27417,
-                "Y": -152.89777
-            }
+      {
+        "Nade": "incendiary",
+        "Name": "Apps To Default",
+        "Position": {
+          "X": -1334.8784,
+          "Y": 815.96857,
+          "Z": -79.96875
         },
+        "Throw type": "StandTrow",
+        "Viewangle": {
+          "X": -2.27417,
+          "Y": -152.89777
+        }
+      },
         {
             "Nade": "incendiary",
             "Name": "Apps To Close B",
@@ -2851,7 +2839,7 @@
             "Position": {
                 "X": 460.972,
                 "Y": -1436.0313,
-                "Z": -175.96875
+              "Z": -175.96875
             },
             "Viewangle": {
                 "X": -10.655365,
@@ -3111,46 +3099,7 @@
                 "Y": 104.83087
             }
         },
-        {
-            "Nade": "HE",
-            "Name": "Truck To Apps",
-            "Position": {
-                "X": -2325.3108,
-                "Y": 812.5424,
-                "Z": -119.6568
-            },
-            "Viewangle": {
-                "X": -10.131805,
-                "Y": -6.8115234
-            }
-        },
-        {
-            "Nade": "HE",
-            "Name": "Van To Apps",
-            "Position": {
-                "X": -2189.9033,
-                "Y": 803.0426,
-                "Z": -126.17517
-            },
-            "Viewangle": {
-                "X": -14.091675,
-                "Y": -6.41568
-            }
-        },
-        {
-            "Nade": "HE",
-            "Name": "Van Bumper To Apps",
-            "Position": {
-                "X": -2192.5034,
-                "Y": 708.0692,
-                "Z": -101.79144
-            },
-            "Throw type": "JumpTrow",
-            "Viewangle": {
-                "X": 14.552429,
-                "Y": 0.2506256
-            }
-        },
+
         {
             "Nade": "HE",
             "Name": "Default To Market",
@@ -3159,28 +3108,26 @@
                 "Y": 450.03125,
                 "Z": -159.96875
             },
-            "Throw type": "StandTrow",
-            "Throw type": "JumpTrow",
+            "Throw type": "LMB+RMB+JumpTrow",
             "Viewangle": {
                 "X": 6.698227,
                 "Y": -86.53965
             }
         },
-        {
-            "Nade": "HE",
-            "Name": "Default To Market Door",
-            "Position": {
-                "X": -1969.0322,
-                "Y": 450.03125,
-                "Z": -159.96875
-            },
-            "Throw type": "StandTrow",
-            "Throw type": "JumpTrow",
-            "Viewangle": {
-                "X": 8.414154,
-                "Y": -116.89968
-            }
+      {
+        "Nade": "HE",
+        "Name": "Default To Market Door",
+        "Position": {
+          "X": -1969.0322,
+          "Y": 450.03125,
+          "Z": -159.96875
         },
+        "Throw type": "LMB+RMB+JumpTrow",
+        "Viewangle": {
+          "X": 8.414154,
+          "Y": -116.89968
+        }
+      },
         {
             "Nade": "HE",
             "Name": "Apps To Default",
@@ -3194,84 +3141,20 @@
                 "Y": -153.03235
             }
         },
-        {
-            "Nade": "HE",
-            "Name": "Apps To Close B",
-            "Position": {
-                "X": -1471.9688,
-                "Y": 664.0316,
-                "Z": -47.96875
-            },
-            "Viewangle": {
-                "X": -7.755661,
-                "Y": 109.48563
-            }
+      {
+        "Nade": "HE",
+        "Name": "Under To Jungle",
+        "Position": {
+          "X": -1011.0851,
+          "Y": -302.9137,
+          "Z": -367.96875
         },
-        {
-            "Nade": "HE",
-            "Name": "Apps To Under",
-            "Position": {
-                "X": -1247.9688,
-                "Y": -924.03143,
-                "Z": -167.96875
-            },
-            "Viewangle": {
-                "X": 5.444412,
-                "Y": 57.97554
-            }
-        },
-        {
-            "Nade": "HE",
-            "Name": "Window To Under",
-            "Position": {
-                "X": -1185.135,
-                "Y": -950.18994,
-                "Z": -167.96875
-            },
-            "Viewangle": {
-                "X": -0.29766846,
-                "Y": 76.98361
-            }
-        },
-        {
-            "Nade": "HE",
-            "Name": "Under To Jungle",
-            "Position": {
-                "X": -1011.0851,
-                "Y": -302.9137,
-                "Z": -367.96875
-            },
-            "Viewangle": {
-                "X": -27.88536,
-                "Y": -104.15623
-            }
-        },
-        {
-            "Nade": "HE",
-            "Name": "Under To Window",
-            "Position": {
-                "X": -1011.0851,
-                "Y": -302.9137,
-                "Z": -367.96875
-            },
-            "Viewangle": {
-                "X": -30.459595,
-                "Y": -102.96833
-            }
-        },
-        {
-            "Nade": "HE",
-            "Name": "Under To Window",
-            "Position": {
-                "X": -1037.203,
-                "Y": -360.8858,
-                "Z": -355.52216
-            },
-            "Viewangle": {
-                "X": -40.953247,
-                "Y": -101.97853
-            }
-        },
+        "Throw type": "StandTrow",
+        "Viewangle": {
+          "X": -27.88536,
+          "Y": -104.15623
+        }
+      },
         {
             "Nade": "HE",
             "Name": "Bench To Window",
@@ -3285,202 +3168,20 @@
                 "Y": 96.849304
             }
         },
-        {
-            "Nade": "HE",
-            "Name": "Jungle To Tetris",
-            "Position": {
-                "X": -1119.9688,
-                "Y": -1527.9667,
-                "Z": -159.04962
-            },
-            "Viewangle": {
-                "X": -15.741348,
-                "Y": 0.38760376
-            }
+      {
+        "Nade": "HE",
+        "Name": "Jungle To Under Balcony",
+        "Position": {
+          "X": -704.9974,
+          "Y": -1334.9937,
+          "Z": -167.96875
         },
-        {
-            "Nade": "HE",
-            "Name": "Jungle To Tetris",
-            "Position": {
-                "X": -1119.9688,
-                "Y": -1527.9667,
-                "Z": -159.04962
-            },
-            "Viewangle": {
-                "X": -19.173553,
-                "Y": 0.38760376
-            }
-        },
-        {
-            "Nade": "HE",
-            "Name": "Jungle To Ramp",
-            "Position": {
-                "X": -789.75964,
-                "Y": -1535.8473,
-                "Z": -167.96875
-            },
-            "Viewangle": {
-                "X": -12.111389,
-                "Y": -0.99838257
-            }
-        },
-        {
-            "Nade": "HE",
-            "Name": "Jungle To Palace",
-            "Position": {
-                "X": -691.87836,
-                "Y": -1398.0537,
-                "Z": -167.96875
-            },
-            "Throw type": "JumpTrow",
-            "Viewangle": {
-                "X": 5.642853,
-                "Y": -47.594482
-            }
-        },
-        {
-            "Nade": "HE",
-            "Name": "Stairs To Palace",
-            "Position": {
-                "X": -668.52966,
-                "Y": -1387.2609,
-                "Z": -167.96875
-            },
-            "Viewangle": {
-                "X": -16.599304,
-                "Y": -47.528564
-            }
-        },
-        {
-            "Nade": "HE",
-            "Name": "Jungle To Under Balcony",
-            "Position": {
-                "X": -704.9974,
-                "Y": -1334.9937,
-                "Z": -167.96875
-            },
-            "Viewangle": {
-                "X": -11.583023,
-                "Y": -39.872467
-            }
-        },
-        {
-            "Nade": "HE",
-            "Name": "Con To Default",
-            "Position": {
-                "X": -665.8632,
-                "Y": -1171.789,
-                "Z": -167.96875
-            },
-            "Viewangle": {
-                "X": -14.553101,
-                "Y": -69.44046
-            }
-        },
-        {
-            "Nade": "HE",
-            "Name": "Stairs To Firebox",
-            "Position": {
-                "X": -518.5976,
-                "Y": -1373.6392,
-                "Z": -129.84863
-            },
-            "Viewangle": {
-                "X": -12.77092,
-                "Y": -76.37077
-            }
-        },
-        {
-            "Nade": "HE",
-            "Name": "Ramp To Sandwich",
-            "Position": {
-                "X": 460.9687,
-                "Y": -1436.0287,
-                "Z": -175.96875
-            },
-            "Viewangle": {
-                "X": -10.659149,
-                "Y": -172.13654
-            }
-        },
-        {
-            "Nade": "HE",
-            "Name": "Tetris To Under Balcony",
-            "Position": {
-                "X": -142.96814,
-                "Y": -1462.4929,
-                "Z": -69.175354
-            },
-            "Viewangle": {
-                "X": -5.378845,
-                "Y": -66.14044
-            }
-        },
-        {
-            "Nade": "HE",
-            "Name": "Palace To Under Balcony",
-            "Position": {
-                "X": 19.06513,
-                "Y": -2363.0156,
-                "Z": -39.96875
-            },
-            "Viewangle": {
-                "X": 5.1810913,
-                "Y": 78.303345
-            }
-        },
-        {
-            "Nade": "HE",
-            "Name": "Ct To Firebox",
-            "Position": {
-                "X": -1212.1307,
-                "Y": -2281.214,
-                "Z": -190.84662
-            },
-            "Viewangle": {
-                "X": -13.431122,
-                "Y": -5.7805176
-            }
-        },
-        {
-            "Nade": "HE",
-            "Name": "Firebox To Tetris",
-            "Position": {
-                "X": -284.21826,
-                "Y": -2412.9263,
-                "Z": -163.96875
-            },
-            "Viewangle": {
-                "X": -15.2789,
-                "Y": 81.17731
-            }
-        },
-        {
-            "Nade": "HE",
-            "Name": "Firebox To Ramp",
-            "Position": {
-                "X": -284.21826,
-                "Y": -2412.9263,
-                "Z": -163.96875
-            },
-            "Viewangle": {
-                "X": -13.761063,
-                "Y": 63.885162
-            }
-        },
-        {
-            "Nade": "HE",
-            "Name": "Firebox To Stairs",
-            "Position": {
-                "X": -284.21826,
-                "Y": -2412.9263,
-                "Z": -163.96875
-            },
-            "Viewangle": {
-                "X": -14.7508545,
-                "Y": 104.21115
-            }
-        },
+        "Throw type": "StandTrow",
+        "Viewangle": {
+          "X": -11.583023,
+          "Y": -39.872467
+        }
+      },
         {
             "Nade": "HE",
             "Name": "Sandwich To Ramp",
@@ -3495,19 +3196,20 @@
                 "Y": -104.21665
             }
         },
-        {
-            "Nade": "HE",
-            "Name": "Shadow To Palace",
-            "Position": {
-                "X": 151.96745,
-                "Y": -2071.9688,
-                "Z": -167.96875
-            },
-            "Viewangle": {
-                "X": -33.561172,
-                "Y": 104.80545
-            }
+      {
+        "Nade": "HE",
+        "Name": "Shadow To Palace",
+        "Position": {
+          "X": 151.96745,
+          "Y": -2071.9688,
+          "Z": -167.96875
         },
+        "Throw type": "StandTrow",
+        "Viewangle": {
+          "X": -33.561172,
+          "Y": 104.80545
+        }
+      },
         {
             "Nade": "smoke",
             "Name": "Ct To Ramp",
@@ -4723,20 +4425,6 @@
             }
         },
         {
-            "Nade": "HE",
-            "Name": "Market To Main",
-            "Position": {
-                "X": -2411.9695,
-                "Y": -247.96765,
-                "Z": -164.99402
-            },
-            "Throw type": "JumpTrow",
-            "Viewangle": {
-                "X": 7.9527283,
-                "Y": 65.07271
-            }
-        },
-        {
             "Nade": "incendiary",
             "Name": "Market To Main",
             "Position": {
@@ -4775,20 +4463,6 @@
             "Viewangle": {
                 "X": 5.2466583,
                 "Y": 50.02487
-            }
-        },
-        {
-            "Nade": "HE",
-            "Name": "Market To Apps Window",
-            "Position": {
-                "X": -2411.9688,
-                "Y": -247.96875,
-                "Z": -164.9942
-            },
-            "Throw type": "JumpTrow",
-            "Viewangle": {
-                "X": 5.7746887,
-                "Y": 55.106735
             }
         },
         {
@@ -5102,8 +4776,7 @@
                 "Y": -924.03314,
                 "Z": -167.96875
             },
-            "Throw type": "JumpTrow",
-            "Throw type": "JumpTrow",
+            "Throw type": "RMB+JumpTrow",
             "Viewangle": {
                 "X": 22.540161,
                 "Y": 58.521088
@@ -5780,19 +5453,6 @@
             }
         },
         {
-            "Nade": "HE",
-            "Name": "Crouch To Short",
-            "Position": {
-                "X": -1311.9685,
-                "Y": -1022.93616,
-                "Z": -167.96875
-            },
-            "Viewangle": {
-                "X": -3.9598846,
-                "Y": 57.30435
-            }
-        },
-        {
             "Nade": "smoke",
             "Name": "Window To Under",
             "Position": {
@@ -5803,45 +5463,6 @@
             "Viewangle": {
                 "X": -5.2140503,
                 "Y": 116.63843
-            }
-        },
-        {
-            "Nade": "smoke",
-            "Name": "Short To Ct",
-            "Position": {
-                "X": -496.03125,
-                "Y": -1309.0321,
-                "Z": -159.96875
-            },
-            "Viewangle": {
-                "X": -42.701797,
-                "Y": -98.917465
-            }
-        },
-        {
-            "Nade": "incendiary",
-            "Name": "Short To Ct",
-            "Position": {
-                "X": -496.03125,
-                "Y": -1309.0321,
-                "Z": -159.96875
-            },
-            "Viewangle": {
-                "X": -10.691757,
-                "Y": -108.35575
-            }
-        },
-        {
-            "Nade": "HE",
-            "Name": "Short To Ct",
-            "Position": {
-                "X": -496.03125,
-                "Y": -1309.0321,
-                "Z": -159.96875
-            },
-            "Viewangle": {
-                "X": -11.6819,
-                "Y": -108.35575
             }
         },
         {
@@ -5962,19 +5583,6 @@
             "Viewangle": {
                 "X": -29.897919,
                 "Y": -58.52623
-            }
-        },
-        {
-            "Nade": "smoke",
-            "Name": "Bench To Apps",
-            "Position": {
-                "X": -2635.9685,
-                "Y": 104.028534,
-                "Z": -161.50525
-            },
-            "Viewangle": {
-                "X": -20.723648,
-                "Y": 32.35611
             }
         },
         {
@@ -6154,32 +5762,6 @@
             }
         },
         {
-            "Nade": "HE",
-            "Name": "Apps To Market",
-            "Position": {
-                "X": -1952.0297,
-                "Y": 683.7756,
-                "Z": -46.911682
-            },
-            "Viewangle": {
-                "X": -4.8841095,
-                "Y": -88.402176
-            }
-        },
-        {
-            "Nade": "HE",
-            "Name": "Apps To Deep Market",
-            "Position": {
-                "X": -1952.0297,
-                "Y": 683.7756,
-                "Z": -46.911682
-            },
-            "Viewangle": {
-                "X": -7.7879333,
-                "Y": -88.27
-            }
-        },
-        {
             "Nade": "molotov",
             "Name": "Apps To Deep Market",
             "Position": {
@@ -6328,33 +5910,7 @@
             }
         },
         {
-            "Nade": "HE",
-            "Name": "Con To Default",
-            "Position": {
-                "X": -618.0323,
-                "Y": -1274.642,
-                "Z": -167.96875
-            },
-            "Viewangle": {
-                "X": -13.200073,
-                "Y": -70.38254
-            }
-        },
-        {
             "Nade": "molotov",
-            "Name": "Palace To Under",
-            "Position": {
-                "X": 16.037615,
-                "Y": -2359.5552,
-                "Z": -39.96875
-            },
-            "Viewangle": {
-                "X": 9.504211,
-                "Y": 74.061584
-            }
-        },
-        {
-            "Nade": "HE",
             "Name": "Palace To Under",
             "Position": {
                 "X": 16.037615,
