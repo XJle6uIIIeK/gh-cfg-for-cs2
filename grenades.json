@@ -1,175 +1,175 @@
 {
     "de_mirage": [
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Ct to Palace",
             "Position": {
                 "X": -2031.9706,
                 "Y": -1766.1841,
                 "Z": -298.14417
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -29.435806,
                 "Y": -9.992065
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Ct to Palace",
             "Position": {
                 "X": -2031.9706,
                 "Y": -1766.1841,
                 "Z": -298.14417
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -46.19992,
                 "Y": -11.246216
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Ct to Palace",
             "Position": {
                 "X": -2026.399,
                 "Y": -2029.9688,
                 "Z": -299.1206
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -46.068085,
                 "Y": -3.7882233
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Ct to Tetris",
             "Position": {
                 "X": -2026.399,
                 "Y": -2029.9688,
                 "Z": -299.1206
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -52.602196,
                 "Y": 15.616028
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Ct to Ramp",
             "Position": {
                 "X": -2026.399,
                 "Y": -2029.9688,
                 "Z": -299.1206
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -12.936066,
                 "Y": 12.580032
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Ct to Palace",
             "Position": {
                 "X": -2026.399,
                 "Y": -2029.9688,
                 "Z": -299.1206
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -34.583923,
                 "Y": -3.1280212
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Ct to Ramp",
             "Position": {
                 "X": -1710.9688,
                 "Y": -1208.0328,
                 "Z": -255.0774
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -55.242004,
                 "Y": -10.586014
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Ct to Apps",
             "Position": {
                 "X": -1542.0837,
                 "Y": -1201.9081,
                 "Z": -253.70245
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -52.536278,
                 "Y": 97.78589
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Market to Palace",
             "Position": {
                 "X": -1711.9688,
                 "Y": -761.03156,
                 "Z": -167.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -24.156189,
                 "Y": -36.655884
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Market to Stairs",
             "Position": {
                 "X": -1711.9688,
                 "Y": -761.03156,
                 "Z": -167.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -65.0758,
                 "Y": -33.619873
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Market to Palace",
             "Position": {
                 "X": -1711.9688,
                 "Y": -761.03156,
                 "Z": -167.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -34.980133,
                 "Y": -36.7218
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Market to Apps",
             "Position": {
                 "X": -1957.3323,
                 "Y": -321.37524,
                 "Z": -167.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": 5.8079834,
                 "Y": 71.98001
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Market to Apps",
             "Position": {
                 "X": -1999.9688,
@@ -182,21 +182,21 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Ct to Top Mid",
             "Position": {
                 "X": -1547.9779,
                 "Y": -2407.9688,
                 "Z": -240.01154
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -35.309723,
                 "Y": 49.34166
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Garbage to Apps",
             "Position": {
                 "X": -2415.9685,
@@ -209,21 +209,21 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Market to Short",
             "Position": {
                 "X": -2217.7622,
                 "Y": -47.910156,
                 "Z": -165.71875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -62.963676,
                 "Y": -12.500381
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Default to Market Door",
             "Position": {
                 "X": -1969.0469,
@@ -236,21 +236,21 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Default to Market Window",
             "Position": {
                 "X": -1969.0469,
                 "Y": 450.0351,
                 "Z": -159.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -8.415863,
                 "Y": -140.21027
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Apps to Gated Window",
             "Position": {
                 "X": -1230.361,
@@ -263,7 +263,7 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Desert to Arches",
             "Position": {
                 "X": -784.9785,
@@ -276,7 +276,7 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Desert to Bench",
             "Position": {
                 "X": -735.8968,
@@ -289,7 +289,7 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Bench to Default",
             "Position": {
                 "X": -735.8968,
@@ -302,35 +302,35 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Desert to Arches",
             "Position": {
                 "X": -728.0043,
                 "Y": 524.03534,
                 "Z": -77.39581
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -26.301956,
                 "Y": 148.77344
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Desert to Arches",
             "Position": {
                 "X": -702.8837,
                 "Y": 520.9809,
                 "Z": -76.877075
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -27.687958,
                 "Y": 143.99164
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Desert to Default",
             "Position": {
                 "X": -624.21954,
@@ -343,7 +343,7 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Desert to Bench",
             "Position": {
                 "X": -601.425,
@@ -356,7 +356,7 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Desert to Arches",
             "Position": {
                 "X": -601.425,
@@ -369,7 +369,7 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Desert to Bench",
             "Position": {
                 "X": -545.9049,
@@ -382,7 +382,7 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Desert to Default",
             "Position": {
                 "X": -540.64435,
@@ -395,7 +395,7 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Desert to Bench",
             "Position": {
                 "X": -545.8425,
@@ -408,7 +408,7 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Desert to Default",
             "Position": {
                 "X": -545.8425,
@@ -421,7 +421,7 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Desert to Site Default",
             "Position": {
                 "X": -504.71887,
@@ -434,7 +434,7 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Desert to Con",
             "Position": {
                 "X": -460.9444,
@@ -447,119 +447,119 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Desert to Jungle",
             "Position": {
                 "X": -460.9444,
                 "Y": 782.9485,
                 "Z": -71.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -47.68582,
                 "Y": -94.172745
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Desert to Jungle",
             "Position": {
                 "X": -370.97424,
                 "Y": 887.96765,
                 "Z": -79.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -40.689926,
                 "Y": -96.28452
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Desert to Short",
             "Position": {
                 "X": -370.97424,
                 "Y": 887.96765,
                 "Z": -79.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -42.9998,
                 "Y": -93.644714
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Desert to Stairs",
             "Position": {
                 "X": -351.96875,
                 "Y": 887.96686,
                 "Z": -124.97455
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -40.62401,
                 "Y": -93.512535
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Desert to Jungle",
             "Position": {
                 "X": -351.96875,
                 "Y": 887.96686,
                 "Z": -124.97455
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -42.01001,
                 "Y": -97.01065
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Desert to Market Door",
             "Position": {
                 "X": -246.90063,
                 "Y": 887.967,
                 "Z": -132.5954
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -42.00966,
                 "Y": -151.1966
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Desert to Market Door",
             "Position": {
                 "X": -160.03125,
                 "Y": 887.9685,
                 "Z": -135.32813
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -46.035797,
                 "Y": -153.04471
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Desert to Market Window",
             "Position": {
                 "X": -160.03125,
                 "Y": 887.9685,
                 "Z": -135.32813
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -50.91957,
                 "Y": -146.70868
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Desert to Window",
             "Position": {
                 "X": -291.44,
@@ -572,63 +572,63 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Desert to Market Window",
             "Position": {
                 "X": -161.03412,
                 "Y": 468.8551,
                 "Z": -68.87903
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -59.63173,
                 "Y": -158.25874
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Desert to Window",
             "Position": {
                 "X": -161.03412,
                 "Y": 468.8551,
                 "Z": -68.87903
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -66.09959,
                 "Y": -130.53886
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Desert to Market Door",
             "Position": {
                 "X": -161.03412,
                 "Y": 468.8551,
                 "Z": -68.87903
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -19.437561,
                 "Y": -161.55876
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Desert to Bench",
             "Position": {
                 "X": -154.73883,
                 "Y": 409.6928,
                 "Z": -42.543457
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -50.98584,
                 "Y": -179.70886
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Desert to Arches",
             "Position": {
                 "X": -148.03125,
@@ -641,35 +641,35 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Desert to Market Door",
             "Position": {
                 "X": -160.09052,
                 "Y": 759.9743,
                 "Z": -134.5863
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -46.959686,
                 "Y": -154.1011
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Ladder to Ramp",
             "Position": {
                 "X": -911.2775,
                 "Y": -30.03125,
                 "Z": -167.7749
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -58.707504,
                 "Y": -53.415184
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Top Mid to Short",
             "Position": {
                 "X": 360.07312,
@@ -682,7 +682,7 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Top Mid to Window",
             "Position": {
                 "X": 343.30185,
@@ -695,189 +695,189 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Tv room to Right Arch",
             "Position": {
                 "X": 496.0539,
                 "Y": 679.9683,
                 "Z": -135.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -51.645355,
                 "Y": -172.21515
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Tv room to Arches",
             "Position": {
                 "X": 445.96854,
                 "Y": 626.96875,
                 "Z": -210.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -58.047295,
                 "Y": -170.63107
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Side Alley to Short",
             "Position": {
                 "X": 926.16534,
                 "Y": 639.94446,
                 "Z": -247.49963
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -27.423248,
                 "Y": -153.93288
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Tv room to Arches",
             "Position": {
                 "X": 690.8701,
                 "Y": 562.9682,
                 "Z": -123.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -47.35553,
                 "Y": -173.46896
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Tv room to Arches",
             "Position": {
                 "X": 492.31088,
                 "Y": 563.4536,
                 "Z": -123.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -58.971176,
                 "Y": -173.00687
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Side Alley to Short",
             "Position": {
                 "X": 931.36066,
                 "Y": 574.66876,
                 "Z": -250.34485
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -44.18701,
                 "Y": -158.45065
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Side Alley to Con",
             "Position": {
                 "X": 1135.9688,
                 "Y": 647.97546,
                 "Z": -259.4673
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -31.11911,
                 "Y": -140.99683
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Pillar to Market Door",
             "Position": {
                 "X": 97.017784,
                 "Y": -933.9678,
                 "Z": -39.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -31.713074,
                 "Y": 164.3548
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Pillar to Market Window",
             "Position": {
                 "X": 97.017784,
                 "Y": -933.9678,
                 "Z": -39.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -53.163185,
                 "Y": 159.8006
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Pillar to Apps",
             "Position": {
                 "X": 97.017784,
                 "Y": -933.9678,
                 "Z": -39.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -31.778992,
                 "Y": 138.08649
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Pillar to Short",
             "Position": {
                 "X": 146.03209,
                 "Y": -935.80536,
                 "Z": -166.88403
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -66.890945,
                 "Y": 145.34671
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Pillar to Under",
             "Position": {
                 "X": 146.0315,
                 "Y": -935.8058,
                 "Z": -166.88397
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -71.5107,
                 "Y": 161.12067
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Pillar to Window",
             "Position": {
                 "X": 146.0315,
                 "Y": -935.8058,
                 "Z": -166.88397
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -70.65273,
                 "Y": 168.4465
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Under to Window",
             "Position": {
                 "X": -968.03265,
@@ -890,7 +890,7 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Under to Jungle",
             "Position": {
                 "X": -968.03644,
@@ -903,21 +903,21 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Jungle to Ramp",
             "Position": {
                 "X": -1275.9686,
                 "Y": -1526.9688,
                 "Z": -147.46423
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -67.74891,
                 "Y": 0.050125122
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Bench to Window",
             "Position": {
                 "X": -1071.9688,
@@ -930,7 +930,7 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Garbage to Default",
             "Position": {
                 "X": -1022.86816,
@@ -943,7 +943,7 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Tripple to Ramp",
             "Position": {
                 "X": -783.9667,
@@ -956,7 +956,7 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Default to Jungle Cross",
             "Position": {
                 "X": -313.41187,
@@ -969,7 +969,7 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Default to Stairs",
             "Position": {
                 "X": -313.41187,
@@ -982,21 +982,21 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Default to Stairs",
             "Position": {
                 "X": -253.96875,
                 "Y": -2134.0754,
                 "Z": -172.94696
             },
-            "Throw type": 2,
+            "Throw type": "2",
             "Viewangle": {
                 "X": -42.866592,
                 "Y": 111.26062
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Default to Deep Jungle",
             "Position": {
                 "X": -253.96875,
@@ -1009,7 +1009,7 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Default to Con",
             "Position": {
                 "X": -253.96875,
@@ -1022,7 +1022,7 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Default to Deep Jungle",
             "Position": {
                 "X": -253.96875,
@@ -1035,7 +1035,7 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Firebox to Stairs",
             "Position": {
                 "X": -284.21875,
@@ -1048,7 +1048,7 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Firebox to Con",
             "Position": {
                 "X": -284.21875,
@@ -1061,7 +1061,7 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Tetris to Jungle",
             "Position": {
                 "X": -30.206848,
@@ -1074,7 +1074,7 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Tetris to Stairs",
             "Position": {
                 "X": -30.206848,
@@ -1087,7 +1087,7 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Corner to Jungle Cross",
             "Position": {
                 "X": 181.96875,
@@ -1100,36 +1100,36 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Ramp to Stairs",
             "Position": {
                 "X": 181.96875,
                 "Y": -1717.9688,
                 "Z": -167.96875
             },
-            "Throw type": 2,
-            "Type": 1,
+            "Throw type": "2",
+            "Throw type": "1",
             "Viewangle": {
                 "X": 6.962921,
                 "Y": 159.9685
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Palace to Site",
             "Position": {
                 "X": 16.035088,
                 "Y": -2254.4397,
                 "Z": -39.96875
             },
-            "Throw type": 2,
+            "Throw type": "2",
             "Viewangle": {
                 "X": -15.014877,
                 "Y": 22.424805
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Palace to Stairs",
             "Position": {
                 "X": 117.81029,
@@ -1142,7 +1142,7 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Palace to Con",
             "Position": {
                 "X": 118.983345,
@@ -1155,77 +1155,77 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "T spawn to Window",
             "Position": {
                 "X": 1422.9688,
                 "Y": 36.46866,
                 "Z": -167.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -34.880905,
                 "Y": -164.19308
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "T spawn to Window",
             "Position": {
                 "X": 1422.9688,
                 "Y": 36.46866,
                 "Z": -167.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -20.624771,
                 "Y": -164.0609
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "T spawn to Con",
             "Position": {
                 "X": 1422.9688,
                 "Y": 36.46866,
                 "Z": -167.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -20.360748,
                 "Y": -158.12106
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "T spawn to Window",
             "Position": {
                 "X": 1389.4706,
                 "Y": 70.96781,
                 "Z": -167.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -30.194885,
                 "Y": -163.13702
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "T spawn to Short",
             "Position": {
                 "X": 1422.9702,
                 "Y": -55.951904,
                 "Z": -167.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -45.37491,
                 "Y": -177.26132
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Insta Short",
             "Position": {
                 "X": 1277.7955,
@@ -1238,49 +1238,49 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Insta Con",
             "Position": {
                 "X": 1277.7955,
                 "Y": 29.6298,
                 "Z": -167.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -51.182556,
                 "Y": -156.2074
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Insta Catwalk",
             "Position": {
                 "X": 1277.7955,
                 "Y": 29.6298,
                 "Z": -167.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -41.94272,
                 "Y": -171.71735
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Insta Catwalk",
             "Position": {
                 "X": 1131.9249,
                 "Y": 34.774975,
                 "Z": -164.79309
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -60.356483,
                 "Y": -166.83322
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Insta Short",
             "Position": {
                 "X": 1131.9249,
@@ -1293,49 +1293,49 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Insta Window",
             "Position": {
                 "X": 1217.9932,
                 "Y": -15.884399,
                 "Z": -163.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -44.5166,
                 "Y": -163.66539
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Insta Con",
             "Position": {
                 "X": 1217.9932,
                 "Y": -15.884399,
                 "Z": -163.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -52.964745,
                 "Y": -156.73508
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Insta Catwalk",
             "Position": {
                 "X": 1217.9932,
                 "Y": -15.884399,
                 "Z": -163.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -59.234505,
                 "Y": -167.22943
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Insta Short",
             "Position": {
                 "X": 1217.9932,
@@ -1348,21 +1348,21 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Insta Catwalk",
             "Position": {
                 "X": 1220.5629,
                 "Y": -113.62634,
                 "Z": -163.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -61.016693,
                 "Y": -170.39761
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Insta Short",
             "Position": {
                 "X": 1220.5629,
@@ -1375,49 +1375,49 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Insta Con",
             "Position": {
                 "X": 1220.5629,
                 "Y": -113.62634,
                 "Z": -163.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -53.1625,
                 "Y": -159.83734
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Insta Window",
             "Position": {
                 "X": 1220.5629,
                 "Y": -113.62634,
                 "Z": -163.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -46.100693,
                 "Y": -165.90935
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Insta Catwalk",
             "Position": {
                 "X": 1212.1224,
                 "Y": -210.43567,
                 "Z": -163.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -59.036407,
                 "Y": -174.48932
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Insta Short",
             "Position": {
                 "X": 1212.1224,
@@ -1430,77 +1430,77 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Insta Con",
             "Position": {
                 "X": 1212.1224,
                 "Y": -210.43567,
                 "Z": -163.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -56.33068,
                 "Y": -162.74152
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Insta Window",
             "Position": {
                 "X": 1212.1224,
                 "Y": -210.43567,
                 "Z": -163.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -46.298447,
                 "Y": -168.08739
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "T to Window",
             "Position": {
                 "X": 1343.6049,
                 "Y": -181.41724,
                 "Z": -167.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -40.490448,
                 "Y": -168.21957
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "T to Catwalk",
             "Position": {
                 "X": 1450.9662,
                 "Y": -153.06946,
                 "Z": -147.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -30.788498,
                 "Y": -172.44347
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "T to Window",
             "Position": {
                 "X": 1450.9662,
                 "Y": -153.06946,
                 "Z": -147.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -34.814636,
                 "Y": -168.28549
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "T to Short",
             "Position": {
                 "X": 1450.9662,
@@ -1513,21 +1513,21 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "T to Con",
             "Position": {
                 "X": 1450.9662,
                 "Y": -153.06946,
                 "Z": -147.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -15.938416,
                 "Y": -162.41158
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Insta Short",
             "Position": {
                 "X": 1220.4772,
@@ -1540,63 +1540,63 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Insta Catwalk",
             "Position": {
                 "X": 1220.4772,
                 "Y": -304.45654,
                 "Z": -164.81561
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -59.762535,
                 "Y": -177.52533
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Insta Con",
             "Position": {
                 "X": 1220.4772,
                 "Y": -304.45654,
                 "Z": -164.81561
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -58.31028,
                 "Y": -164.78737
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "T to Window",
             "Position": {
                 "X": 1299.6404,
                 "Y": -354.40662,
                 "Z": -167.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -43.79013,
                 "Y": -171.51924
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "T to Catwalk",
             "Position": {
                 "X": 1422.922,
                 "Y": -367.97205,
                 "Z": -167.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -47.221985,
                 "Y": 177.62079
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "T to Short",
             "Position": {
                 "X": 1422.922,
@@ -1609,259 +1609,259 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "T to Window",
             "Position": {
                 "X": 1422.922,
                 "Y": -367.97205,
                 "Z": -167.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -39.829895,
                 "Y": -172.87537
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "T to Con",
             "Position": {
                 "X": 1391.9661,
                 "Y": -790.0812,
                 "Z": -167.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -50.38983,
                 "Y": -165.87914
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "T to Short",
             "Position": {
                 "X": 1391.9661,
                 "Y": -790.0812,
                 "Z": -167.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -53.29399,
                 "Y": 169.37073
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "T to Jungle",
             "Position": {
                 "X": 1391.9661,
                 "Y": -790.0812,
                 "Z": -167.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -33.823822,
                 "Y": -159.21318
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "T to Ct",
             "Position": {
                 "X": 1391.9661,
                 "Y": -790.0812,
                 "Z": -167.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -11.977844,
                 "Y": -144.42935
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Fence to Jungle",
             "Position": {
                 "X": 1256.9377,
                 "Y": -871.97095,
                 "Z": -143.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -54.943657,
                 "Y": -158.48773
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Fence to Short",
             "Position": {
                 "X": 1256.9377,
                 "Y": -871.97095,
                 "Z": -143.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -56.131897,
                 "Y": 166.13629
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Fence to Ct",
             "Position": {
                 "X": 1256.9377,
                 "Y": -871.97095,
                 "Z": -143.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -21.67981,
                 "Y": -143.90167
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Fecne to Ct",
             "Position": {
                 "X": 1280.0337,
                 "Y": -927.32886,
                 "Z": -167.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -22.603683,
                 "Y": -146.0138
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Palace Entrance to Short",
             "Position": {
                 "X": 1398.9686,
                 "Y": -1255.9688,
                 "Z": -167.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -26.035538,
                 "Y": 156.36807
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Top Fence to Catwalk",
             "Position": {
                 "X": 1261.6873,
                 "Y": -888.3469,
                 "Z": -45.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -39.56555,
                 "Y": 165.806
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Top Fence to Con",
             "Position": {
                 "X": 1261.6873,
                 "Y": -888.3469,
                 "Z": -45.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -44.185303,
                 "Y": -169.50977
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Top Fence to Jungle",
             "Position": {
                 "X": 1261.6873,
                 "Y": -888.3469,
                 "Z": -45.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -24.517365,
                 "Y": -162.44797
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Top Fence to Ct",
             "Position": {
                 "X": 1261.6873,
                 "Y": -888.3469,
                 "Z": -45.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -29.995422,
                 "Y": -147.13611
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Top Fence to Ct",
             "Position": {
                 "X": 1261.6873,
                 "Y": -888.3469,
                 "Z": -45.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -4.7172546,
                 "Y": -144.56189
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "T staircase to Catwalk",
             "Position": {
                 "X": 1239.9668,
                 "Y": -1159.9688,
                 "Z": -246.39447
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -35.011017,
                 "Y": 156.76392
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "T staircase to Window",
             "Position": {
                 "X": 1239.9668,
                 "Y": -1159.9688,
                 "Z": -246.39447
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -43.459167,
                 "Y": 168.44617
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "T staircase to Stairs",
             "Position": {
                 "X": 1239.9684,
                 "Y": -1128.1879,
                 "Z": -254.24536
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -58.507004,
                 "Y": -167.0018
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Step to Stairs",
             "Position": {
                 "X": 1151.508,
@@ -1874,175 +1874,175 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "T staircase to Jungle",
             "Position": {
                 "X": 1127.9685,
                 "Y": -1183.9688,
                 "Z": -256.07043
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -29.137115,
                 "Y": -169.048
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Alley to Jungle ",
             "Position": {
                 "X": 1090.6417,
                 "Y": -1014.0862,
                 "Z": -257.69336
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -25.57309,
                 "Y": -164.49417
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Alley to Ct",
             "Position": {
                 "X": 1090.6417,
                 "Y": -1014.0862,
                 "Z": -257.69336
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -29.467041,
                 "Y": -143.638
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "T staircase to Ct",
             "Position": {
                 "X": 1105.4197,
                 "Y": -1009.3789,
                 "Z": -257.11694
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -27.553024,
                 "Y": -144.62814
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Door to Triple",
             "Position": {
                 "X": 935.9597,
                 "Y": -1032.0848,
                 "Z": -255.47876
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -28.740921,
                 "Y": -150.76607
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Door to Triple ",
             "Position": {
                 "X": 906.17523,
                 "Y": -1036.0304,
                 "Z": -251.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -26.6288,
                 "Y": -148.45619
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Door to Jungle",
             "Position": {
                 "X": 906.17523,
                 "Y": -1036.0304,
                 "Z": -251.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -56.724815,
                 "Y": -161.3919
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Door to Stairs",
             "Position": {
                 "X": 906.17523,
                 "Y": -1036.0304,
                 "Z": -251.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -65.76691,
                 "Y": -159.54414
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Top Alley to Ct",
             "Position": {
                 "X": 783.40594,
                 "Y": -1204.328,
                 "Z": -108.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -9.7332,
                 "Y": -149.90811
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Top Alley to Jungle",
             "Position": {
                 "X": 783.40594,
                 "Y": -1204.328,
                 "Z": -108.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -66.55895,
                 "Y": -163.6362
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Top Alley to Stairs",
             "Position": {
                 "X": 783.40594,
                 "Y": -1204.328,
                 "Z": -108.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -69.26502,
                 "Y": -163.90022
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Steps to Stairs",
             "Position": {
                 "X": 682.09784,
                 "Y": -1130.0283,
                 "Z": -127.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -70.32108,
                 "Y": -160.79831
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Top Alley to Jungle",
             "Position": {
                 "X": 815.9676,
@@ -2055,7 +2055,7 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Top Alley to Jungle",
             "Position": {
                 "X": 815.96857,
@@ -2068,7 +2068,7 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Top Alley to Jungle",
             "Position": {
                 "X": 814.9687,
@@ -2081,36 +2081,36 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Top Alley to Stairs",
             "Position": {
                 "X": 814.9687,
                 "Y": -1548.979,
                 "Z": -108.96875
             },
-            "Throw type": 2,
-            "Type": 1,
+            "Throw type": "2",
+            "Throw type": "1",
             "Viewangle": {
                 "X": -3.3968353,
                 "Y": -179.80637
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Top Alley to Jungle",
             "Position": {
                 "X": 814.9687,
                 "Y": -1548.979,
                 "Z": -108.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -67.28508,
                 "Y": -176.30826
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Top Alley to Stairs",
             "Position": {
                 "X": 814.9687,
@@ -2123,7 +2123,7 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Lower Alley to Stairs",
             "Position": {
                 "X": 743.9675,
@@ -2136,49 +2136,49 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Lower Alley to Jungle",
             "Position": {
                 "X": 743.9675,
                 "Y": -1400.2759,
                 "Z": -260.71448
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -68.27522,
                 "Y": -171.22604
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Lower Alley to Stairs",
             "Position": {
                 "X": 743.9675,
                 "Y": -1400.2759,
                 "Z": -260.71448
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -69.793396,
                 "Y": -171.75407
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Sandwich to Ramp",
             "Position": {
                 "X": 151.96617,
                 "Y": -1914.0313,
                 "Z": -167.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -6.961212,
                 "Y": -104.33235
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Shadow to Palace",
             "Position": {
                 "X": 151.96875,
@@ -2191,7 +2191,7 @@
             }
         },
         {
-            "Nade": 43,
+            "Nade": "43",
             "Name": "Van to Apps",
             "Position": {
                 "X": -2114.0313,
@@ -2204,7 +2204,7 @@
             }
         },
         {
-            "Nade": 43,
+            "Nade": "43",
             "Name": "Van to Apps",
             "Position": {
                 "X": -2114.0313,
@@ -2217,7 +2217,7 @@
             }
         },
         {
-            "Nade": 43,
+            "Nade": "43",
             "Name": "Van to Apps",
             "Position": {
                 "X": -2114.0313,
@@ -2230,35 +2230,35 @@
             }
         },
         {
-            "Nade": 43,
+            "Nade": "43",
             "Name": "Van to Apps",
             "Position": {
                 "X": -2114.0313,
                 "Y": 831.96875,
                 "Z": -121.504456
             },
-            "Throw type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -70.18925,
                 "Y": -29.386368
             }
         },
         {
-            "Nade": 43,
+            "Nade": "43",
             "Name": "Van to Apps",
             "Position": {
                 "X": -2114.0313,
                 "Y": 831.96875,
                 "Z": -121.504456
             },
-            "Throw type": 2,
+            "Throw type": "2",
             "Viewangle": {
                 "X": -62.401314,
                 "Y": 35.09549
             }
         },
         {
-            "Nade": 43,
+            "Nade": "43",
             "Name": "Apps to Close B",
             "Position": {
                 "X": -1471.9688,
@@ -2271,7 +2271,7 @@
             }
         },
         {
-            "Nade": 43,
+            "Nade": "43",
             "Name": "Top Mid to Con",
             "Position": {
                 "X": 176.03514,
@@ -2284,7 +2284,7 @@
             }
         },
         {
-            "Nade": 43,
+            "Nade": "43",
             "Name": "T to A",
             "Position": {
                 "X": 865.854,
@@ -2297,7 +2297,7 @@
             }
         },
         {
-            "Nade": 43,
+            "Nade": "43",
             "Name": "T to A",
             "Position": {
                 "X": 865.854,
@@ -2310,21 +2310,21 @@
             }
         },
         {
-            "Nade": 43,
+            "Nade": "43",
             "Name": "Sandwich to Ramp",
             "Position": {
                 "X": 151.96938,
                 "Y": -1914.0302,
                 "Z": -167.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -6.961212,
                 "Y": -104.23073
             }
         },
         {
-            "Nade": 43,
+            "Nade": "43",
             "Name": "Shadow to Palace",
             "Position": {
                 "X": 151.96875,
@@ -2337,21 +2337,21 @@
             }
         },
         {
-            "Nade": 43,
+            "Nade": "43",
             "Name": "Ct to A",
             "Position": {
                 "X": -1022.8666,
                 "Y": -2269.5212,
                 "Z": -167.96875
             },
-            "Throw type": 2,
+            "Throw type": "2",
             "Viewangle": {
                 "X": -74.74342,
                 "Y": 5.8272095
             }
         },
         {
-            "Nade": 43,
+            "Nade": "43",
             "Name": "Ct to A",
             "Position": {
                 "X": -1022.8666,
@@ -2364,7 +2364,7 @@
             }
         },
         {
-            "Nade": 43,
+            "Nade": "43",
             "Name": "Stairs Pop Flash",
             "Position": {
                 "X": -497.1947,
@@ -2377,35 +2377,35 @@
             }
         },
         {
-            "Nade": 43,
+            "Nade": "43",
             "Name": "Stairs Pop Flash",
             "Position": {
                 "X": -497.1947,
                 "Y": -1384.3506,
                 "Z": -121.27954
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -12.571106,
                 "Y": 90.01306
             }
         },
         {
-            "Nade": 43,
+            "Nade": "43",
             "Name": "Stairs Pop Flash",
             "Position": {
                 "X": -509.9225,
                 "Y": -1358.4573,
                 "Z": -141.99414
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -23.329132,
                 "Y": 88.098694
             }
         },
         {
-            "Nade": 43,
+            "Nade": "43",
             "Name": "Stairs Pop Flash",
             "Position": {
                 "X": -509.9225,
@@ -2418,21 +2418,21 @@
             }
         },
         {
-            "Nade": 43,
+            "Nade": "43",
             "Name": "Stairs Pop Flash",
             "Position": {
                 "X": -509.9225,
                 "Y": -1358.4573,
                 "Z": -141.99414
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -30.457184,
                 "Y": 88.62671
             }
         },
         {
-            "Nade": 43,
+            "Nade": "43",
             "Name": "Stairs Pop Flash",
             "Position": {
                 "X": -509.9225,
@@ -2445,21 +2445,21 @@
             }
         },
         {
-            "Nade": 43,
+            "Nade": "43",
             "Name": "Stairs Pop Flash",
             "Position": {
                 "X": -504.9944,
                 "Y": -1324.7181,
                 "Z": -159.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -27.618942,
                 "Y": 88.032776
             }
         },
         {
-            "Nade": 43,
+            "Nade": "43",
             "Name": "Stairs Pop Flash",
             "Position": {
                 "X": -504.9944,
@@ -2472,21 +2472,21 @@
             }
         },
         {
-            "Nade": 43,
+            "Nade": "43",
             "Name": "Stairs Pop Flash",
             "Position": {
                 "X": -504.9944,
                 "Y": -1324.7181,
                 "Z": -159.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -47.683075,
                 "Y": 86.84485
             }
         },
         {
-            "Nade": 43,
+            "Nade": "43",
             "Name": "Jungle to Ramp",
             "Position": {
                 "X": -791.7212,
@@ -2499,21 +2499,21 @@
             }
         },
         {
-            "Nade": 43,
+            "Nade": "43",
             "Name": "Jungle to Ramp",
             "Position": {
                 "X": -1119.9679,
                 "Y": -1527.9688,
                 "Z": -159.0495
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": 7.955139,
                 "Y": 0.054595947
             }
         },
         {
-            "Nade": 43,
+            "Nade": "43",
             "Name": "Window Flash",
             "Position": {
                 "X": -1120.0314,
@@ -2526,7 +2526,7 @@
             }
         },
         {
-            "Nade": 43,
+            "Nade": "43",
             "Name": "Bench to Window",
             "Position": {
                 "X": -1071.9688,
@@ -2539,7 +2539,7 @@
             }
         },
         {
-            "Nade": 43,
+            "Nade": "43",
             "Name": "Under to Window",
             "Position": {
                 "X": -1037.187,
@@ -2559,8 +2559,8 @@
                 "Y": 450.03125,
                 "Z": -159.96875
             },
-            "Throw type": 2,
-            "Type": 1,
+            "Throw type": "2",
+            "Throw type": "1",
             "Viewangle": {
                 "X": 6.6354065,
                 "Y": -86.53759
@@ -2574,8 +2574,8 @@
                 "Y": 450.03125,
                 "Z": -159.96875
             },
-            "Throw type": 2,
-            "Type": 1,
+            "Throw type": "2",
+            "Throw type": "1",
             "Viewangle": {
                 "X": 9.407379,
                 "Y": -115.379105
@@ -2615,7 +2615,7 @@
                 "Y": 711.04144,
                 "Z": -101.79144
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": 14.555847,
                 "Y": 0.22213745
@@ -2681,7 +2681,7 @@
                 "Y": -868.93726,
                 "Z": -249.49646
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": 5.777771,
                 "Y": 37.554016
@@ -2747,7 +2747,7 @@
                 "Y": -1393.6555,
                 "Z": -167.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": 5.646286,
                 "Y": -47.585907
@@ -2787,7 +2787,7 @@
                 "Y": -1527.9688,
                 "Z": -159.04944
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": 6.9001007,
                 "Y": 0.1980896
@@ -2892,7 +2892,7 @@
                 "Y": -1375.9113,
                 "Z": -128.031
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": 11.846008,
                 "Y": -76.944466
@@ -2906,7 +2906,7 @@
                 "Y": -1375.9113,
                 "Z": -128.031
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": 17.588074,
                 "Y": -75.62439
@@ -2946,8 +2946,8 @@
                 "Y": -2282.3572,
                 "Z": -191.18188
             },
-            "Throw type": 2,
-            "Type": 1,
+            "Throw type": "2",
+            "Throw type": "1",
             "Viewangle": {
                 "X": 3.2660217,
                 "Y": 5.1954956
@@ -2961,7 +2961,7 @@
                 "Y": -2544.5957,
                 "Z": -167.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": 3.992157,
                 "Y": 52.319305
@@ -3092,7 +3092,7 @@
                 "Y": -1914.0319,
                 "Z": -167.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -6.897705,
                 "Y": -104.32308
@@ -3112,7 +3112,7 @@
             }
         },
         {
-            "Nade": 44,
+            "Nade": "44",
             "Name": "Truck to Apps",
             "Position": {
                 "X": -2325.3108,
@@ -3125,7 +3125,7 @@
             }
         },
         {
-            "Nade": 44,
+            "Nade": "44",
             "Name": "Van to Apps",
             "Position": {
                 "X": -2189.9033,
@@ -3138,51 +3138,51 @@
             }
         },
         {
-            "Nade": 44,
+            "Nade": "44",
             "Name": "Van Bumper to Apps",
             "Position": {
                 "X": -2192.5034,
                 "Y": 708.0692,
                 "Z": -101.79144
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": 14.552429,
                 "Y": 0.2506256
             }
         },
         {
-            "Nade": 44,
+            "Nade": "44",
             "Name": "Default to Market",
             "Position": {
                 "X": -1969.0322,
                 "Y": 450.03125,
                 "Z": -159.96875
             },
-            "Throw type": 2,
-            "Type": 1,
+            "Throw type": "2",
+            "Throw type": "1",
             "Viewangle": {
                 "X": 6.698227,
                 "Y": -86.53965
             }
         },
         {
-            "Nade": 44,
+            "Nade": "44",
             "Name": "Default to Market Door",
             "Position": {
                 "X": -1969.0322,
                 "Y": 450.03125,
                 "Z": -159.96875
             },
-            "Throw type": 2,
-            "Type": 1,
+            "Throw type": "2",
+            "Throw type": "1",
             "Viewangle": {
                 "X": 8.414154,
                 "Y": -116.89968
             }
         },
         {
-            "Nade": 44,
+            "Nade": "44",
             "Name": "Apps to Default",
             "Position": {
                 "X": -1334.2634,
@@ -3195,7 +3195,7 @@
             }
         },
         {
-            "Nade": 44,
+            "Nade": "44",
             "Name": "Apps to Close B",
             "Position": {
                 "X": -1471.9688,
@@ -3208,7 +3208,7 @@
             }
         },
         {
-            "Nade": 44,
+            "Nade": "44",
             "Name": "Apps to Under",
             "Position": {
                 "X": -1247.9688,
@@ -3221,7 +3221,7 @@
             }
         },
         {
-            "Nade": 44,
+            "Nade": "44",
             "Name": "Window to Under",
             "Position": {
                 "X": -1185.135,
@@ -3234,7 +3234,7 @@
             }
         },
         {
-            "Nade": 44,
+            "Nade": "44",
             "Name": "Under to Jungle",
             "Position": {
                 "X": -1011.0851,
@@ -3247,7 +3247,7 @@
             }
         },
         {
-            "Nade": 44,
+            "Nade": "44",
             "Name": "Under to Window",
             "Position": {
                 "X": -1011.0851,
@@ -3260,7 +3260,7 @@
             }
         },
         {
-            "Nade": 44,
+            "Nade": "44",
             "Name": "Under to Window",
             "Position": {
                 "X": -1037.203,
@@ -3273,7 +3273,7 @@
             }
         },
         {
-            "Nade": 44,
+            "Nade": "44",
             "Name": "Bench to Window",
             "Position": {
                 "X": -1071.9683,
@@ -3286,7 +3286,7 @@
             }
         },
         {
-            "Nade": 44,
+            "Nade": "44",
             "Name": "Jungle to Tetris",
             "Position": {
                 "X": -1119.9688,
@@ -3299,7 +3299,7 @@
             }
         },
         {
-            "Nade": 44,
+            "Nade": "44",
             "Name": "Jungle to Tetris",
             "Position": {
                 "X": -1119.9688,
@@ -3312,7 +3312,7 @@
             }
         },
         {
-            "Nade": 44,
+            "Nade": "44",
             "Name": "Jungle to Ramp",
             "Position": {
                 "X": -789.75964,
@@ -3325,21 +3325,21 @@
             }
         },
         {
-            "Nade": 44,
+            "Nade": "44",
             "Name": "Jungle to Palace",
             "Position": {
                 "X": -691.87836,
                 "Y": -1398.0537,
                 "Z": -167.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": 5.642853,
                 "Y": -47.594482
             }
         },
         {
-            "Nade": 44,
+            "Nade": "44",
             "Name": "Stairs to Palace",
             "Position": {
                 "X": -668.52966,
@@ -3352,7 +3352,7 @@
             }
         },
         {
-            "Nade": 44,
+            "Nade": "44",
             "Name": "Jungle to Under Balcony",
             "Position": {
                 "X": -704.9974,
@@ -3365,7 +3365,7 @@
             }
         },
         {
-            "Nade": 44,
+            "Nade": "44",
             "Name": "Con to Default",
             "Position": {
                 "X": -665.8632,
@@ -3378,7 +3378,7 @@
             }
         },
         {
-            "Nade": 44,
+            "Nade": "44",
             "Name": "Stairs to Firebox",
             "Position": {
                 "X": -518.5976,
@@ -3391,7 +3391,7 @@
             }
         },
         {
-            "Nade": 44,
+            "Nade": "44",
             "Name": "Ramp to Sandwich",
             "Position": {
                 "X": 460.9687,
@@ -3404,7 +3404,7 @@
             }
         },
         {
-            "Nade": 44,
+            "Nade": "44",
             "Name": "Tetris to Under Balcony",
             "Position": {
                 "X": -142.96814,
@@ -3417,7 +3417,7 @@
             }
         },
         {
-            "Nade": 44,
+            "Nade": "44",
             "Name": "Palace to Under Balcony",
             "Position": {
                 "X": 19.06513,
@@ -3430,7 +3430,7 @@
             }
         },
         {
-            "Nade": 44,
+            "Nade": "44",
             "Name": "Ct to Firebox",
             "Position": {
                 "X": -1212.1307,
@@ -3443,7 +3443,7 @@
             }
         },
         {
-            "Nade": 44,
+            "Nade": "44",
             "Name": "Firebox to Tetris",
             "Position": {
                 "X": -284.21826,
@@ -3456,7 +3456,7 @@
             }
         },
         {
-            "Nade": 44,
+            "Nade": "44",
             "Name": "Firebox to Ramp",
             "Position": {
                 "X": -284.21826,
@@ -3469,7 +3469,7 @@
             }
         },
         {
-            "Nade": 44,
+            "Nade": "44",
             "Name": "Firebox to Stairs",
             "Position": {
                 "X": -284.21826,
@@ -3482,21 +3482,21 @@
             }
         },
         {
-            "Nade": 44,
+            "Nade": "44",
             "Name": "Sandwich to Ramp",
             "Position": {
                 "X": 151.96767,
                 "Y": -1914.2426,
                 "Z": -167.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -6.962921,
                 "Y": -104.21665
             }
         },
         {
-            "Nade": 44,
+            "Nade": "44",
             "Name": "Shadow to Palace",
             "Position": {
                 "X": 151.96745,
@@ -3509,364 +3509,364 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Ct to Ramp",
             "Position": {
                 "X": -2031.971,
                 "Y": -1766.4891,
                 "Z": -300.43164
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -37.22374,
                 "Y": 4.503708
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Ct to Ramp",
             "Position": {
                 "X": -2031.9705,
                 "Y": -1766.489,
                 "Z": -300.43152
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -23.957748,
                 "Y": 5.29541
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Ct to Ramp",
             "Position": {
                 "X": -2026.3966,
                 "Y": -2029.9675,
                 "Z": -299.12
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -23.16571,
                 "Y": 11.565521
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Ct to Palace",
             "Position": {
                 "X": -2026.3966,
                 "Y": -2029.9675,
                 "Z": -299.12
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -19.403564,
                 "Y": -2.8224487
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Ct to Ramp",
             "Position": {
                 "X": -1748.2006,
                 "Y": -1735.6642,
                 "Z": -264.82043
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -52.07348,
                 "Y": 4.569275
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Ct to Tetris",
             "Position": {
                 "X": -1746.2266,
                 "Y": -1737.941,
                 "Z": -264.87256
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -62.76558,
                 "Y": 6.5495605
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Ct to Palace",
             "Position": {
                 "X": -1746.2266,
                 "Y": -1737.941,
                 "Z": -264.87256
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -49.037476,
                 "Y": -12.854691
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Ct to Top Mid",
             "Position": {
                 "X": -1746.2266,
                 "Y": -1737.941,
                 "Z": -264.87256
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -46.991608,
                 "Y": 23.511429
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Ct to Top Mid (Right)",
             "Position": {
                 "X": -1710.9684,
                 "Y": -1208.0313,
                 "Z": -255.07703
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -57.551537,
                 "Y": 11.037476
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Ct to Chair",
             "Position": {
                 "X": -1710.9684,
                 "Y": -1208.0313,
                 "Z": -255.07703
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -65.60314,
                 "Y": 14.073486
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Ct to Apps",
             "Position": {
                 "X": -1676.803,
                 "Y": -1208.0326,
                 "Z": -255.07733
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -52.667084,
                 "Y": 88.45575
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Ct to Ramp",
             "Position": {
                 "X": -1711.441,
                 "Y": -1180.2106,
                 "Z": -187.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -52.40307,
                 "Y": -10.214539
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Ct to Palace",
             "Position": {
                 "X": -1711.441,
                 "Y": -1180.2106,
                 "Z": -187.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -44.35112,
                 "Y": -28.496475
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Ct to Top Mid Right",
             "Position": {
                 "X": -1711.441,
                 "Y": -1180.2106,
                 "Z": -187.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -35.77115,
                 "Y": 8.133316
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Ct to Palace",
             "Position": {
                 "X": -1773.6216,
                 "Y": -2029.9702,
                 "Z": -264.7599
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -52.79892,
                 "Y": -4.0766144
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Ct to Palace",
             "Position": {
                 "X": -1547.8643,
                 "Y": -2407.9673,
                 "Z": -240.01917
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -6.2690735,
                 "Y": 9.321213
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Ct to Top Mid Right",
             "Position": {
                 "X": -1547.9817,
                 "Y": -2407.9692,
                 "Z": -240.01123
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -42.10681,
                 "Y": 41.85962
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "T to Short",
             "Position": {
                 "X": 875.9656,
                 "Y": -1208.8365,
                 "Z": -108.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -50.48871,
                 "Y": 153.63348
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "T to Window",
             "Position": {
                 "X": 875.9656,
                 "Y": -1208.8365,
                 "Z": -108.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -55.76866,
                 "Y": 165.51349
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "T to Tetris Stairs Block ",
             "Position": {
                 "X": 827.82336,
                 "Y": -1255.3915,
                 "Z": -108.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -32.668533,
                 "Y": -146.04263
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "StairCase to Stairs",
             "Position": {
                 "X": 560.8314,
                 "Y": -1128.0313,
                 "Z": -127.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -71.80664,
                 "Y": -156.86623
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "StairCase to Tripple",
             "Position": {
                 "X": 560.8314,
                 "Y": -1128.0313,
                 "Z": -127.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -65.734634,
                 "Y": -141.22409
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Fance to Window",
             "Position": {
                 "X": 1253.9874,
                 "Y": -1190.5416,
                 "Z": -45.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -25.474548,
                 "Y": 167.7221
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Fence to Short",
             "Position": {
                 "X": 1253.9874,
                 "Y": -1190.5416,
                 "Z": -45.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -4.288788,
                 "Y": 155.24814
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "First Stair to Window",
             "Position": {
                 "X": 1239.972,
                 "Y": -1219.9686,
                 "Z": -201.97174
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -44.08676,
                 "Y": 166.99597
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "First Stair to Short",
             "Position": {
                 "X": 1239.972,
                 "Y": -1219.9686,
                 "Z": -201.97174
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -34.12079,
                 "Y": 157.29367
@@ -3880,7 +3880,7 @@
                 "Y": -696.77435,
                 "Z": -167.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": 4.159363,
                 "Y": 1.071167
@@ -3894,42 +3894,42 @@
                 "Y": -551.0253,
                 "Z": -167.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": 4.2915344,
                 "Y": -4.472809
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Crouch to Default",
             "Position": {
                 "X": -1431.5028,
                 "Y": -870.8024,
                 "Z": -111.22955
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -58.738403,
                 "Y": -49.779053
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Crouch to Default",
             "Position": {
                 "X": -1431.5028,
                 "Y": -870.8024,
                 "Z": -111.22955
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -68.86986,
                 "Y": 114.891235
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Crouch to Palace",
             "Position": {
                 "X": -1431.5028,
@@ -3942,357 +3942,357 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Crouch to Ramp",
             "Position": {
                 "X": -1431.5028,
                 "Y": -870.8024,
                 "Z": -111.22955
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -59.03572,
                 "Y": -20.606918
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Crouch to Tetris",
             "Position": {
                 "X": -1431.5028,
                 "Y": -870.8024,
                 "Z": -111.22955
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -67.417946,
                 "Y": -29.252808
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Crouch to Palace",
             "Position": {
                 "X": -1459.9015,
                 "Y": -918.97974,
                 "Z": -167.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -55.603867,
                 "Y": -38.852814
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Crouch to Ramp",
             "Position": {
                 "X": -1459.9015,
                 "Y": -918.97974,
                 "Z": -167.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -58.04592,
                 "Y": -19.184875
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Crouch to Tetris",
             "Position": {
                 "X": -1459.9015,
                 "Y": -918.97974,
                 "Z": -167.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -66.69216,
                 "Y": -26.444778
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Crouch to Default",
             "Position": {
                 "X": -1459.9015,
                 "Y": -918.97974,
                 "Z": -167.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -61.214104,
                 "Y": -48.422928
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Crouch to Default",
             "Position": {
                 "X": -1459.9015,
                 "Y": -918.97974,
                 "Z": -167.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -67.22019,
                 "Y": 112.15497
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Crouch to Apps",
             "Position": {
                 "X": -1462.78,
                 "Y": -1173.9685,
                 "Z": -167.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -55.340195,
                 "Y": 95.65521
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Crouch to Default",
             "Position": {
                 "X": -1462.78,
                 "Y": -1173.9685,
                 "Z": -167.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -53.82202,
                 "Y": 104.16928
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Crouch to Top Mid Right",
             "Position": {
                 "X": -1462.78,
                 "Y": -1173.9685,
                 "Z": -167.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -62.666016,
                 "Y": 11.57135
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Market to Palace",
             "Position": {
                 "X": -1711.9585,
                 "Y": -968.00275,
                 "Z": -190.69922
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -40.819702,
                 "Y": -32.876587
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Market to Default",
             "Position": {
                 "X": -1711.9585,
                 "Y": -968.00275,
                 "Z": -190.69922
             },
-            "Type": 3,
+            "Throw type": "3",
             "Viewangle": {
                 "X": -58.837624,
                 "Y": -41.25882
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Market to Ramp",
             "Position": {
                 "X": -1711.9585,
                 "Y": -968.00275,
                 "Z": -190.69922
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -52.30385,
                 "Y": -16.838608
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Market to Tetris",
             "Position": {
                 "X": -1711.9585,
                 "Y": -968.00275,
                 "Z": -190.69922
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -61.939888,
                 "Y": -20.996582
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Market to Palace",
             "Position": {
                 "X": -1711.9667,
                 "Y": -895.9891,
                 "Z": -175.69543
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -38.90602,
                 "Y": -34.592163
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Market to Default",
             "Position": {
                 "X": -1711.9667,
                 "Y": -895.9891,
                 "Z": -175.69543
             },
-            "Type": 3,
+            "Throw type": "3",
             "Viewangle": {
                 "X": -55.07618,
                 "Y": -43.17215
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Market to Ramp",
             "Position": {
                 "X": -1711.9667,
                 "Y": -895.9891,
                 "Z": -175.69543
             },
-            "Type": 3,
+            "Throw type": "3",
             "Viewangle": {
                 "X": -51.578064,
                 "Y": -17.696228
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Market to Tetris",
             "Position": {
                 "X": -1711.9667,
                 "Y": -895.9891,
                 "Z": -175.69543
             },
-            "Type": 3,
+            "Throw type": "3",
             "Viewangle": {
                 "X": -61.6103,
                 "Y": -23.57048
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Market to Top Mid Right",
             "Position": {
                 "X": -1711.9667,
                 "Y": -895.9891,
                 "Z": -175.69543
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -36.39804,
                 "Y": 0.9815674
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Ct to Palace",
             "Position": {
                 "X": -2031.9688,
                 "Y": -1962.0225,
                 "Z": -300.43115
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -32.50409,
                 "Y": -4.9884796
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Ct to Ramp",
             "Position": {
                 "X": -2031.9688,
                 "Y": -1962.0225,
                 "Z": -300.43115
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -28.940048,
                 "Y": 9.861603
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Ct to Palace",
             "Position": {
                 "X": -2031.9686,
                 "Y": -1819.9756,
                 "Z": -300.4311
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -37.91588,
                 "Y": -9.248077
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Ct to Ramp",
             "Position": {
                 "X": -2031.9686,
                 "Y": -1819.9756,
                 "Z": -300.4311
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -37.256012,
                 "Y": 6.3277893
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Ct to Ramp",
             "Position": {
                 "X": -2031.9686,
                 "Y": -1819.9756,
                 "Z": -300.4311
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -26.69574,
                 "Y": 6.525879
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Ct to Ramp",
             "Position": {
                 "X": -902.03125,
                 "Y": -2603.0774,
                 "Z": -167.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -64.84371,
                 "Y": 43.61743
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Connector to Palace",
             "Position": {
                 "X": -709.9677,
@@ -4305,7 +4305,7 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Jungle to Ramp",
             "Position": {
                 "X": -1119.9683,
@@ -4318,21 +4318,21 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Short to Palace",
             "Position": {
                 "X": -903.97266,
                 "Y": -499.96973,
                 "Z": -93.98602
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -56.263733,
                 "Y": -60.98751
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Short to Ramp",
             "Position": {
                 "X": -903.97266,
@@ -4345,365 +4345,365 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Short to Default",
             "Position": {
                 "X": -903.96875,
                 "Y": -427.9007,
                 "Z": -158.55273
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -29.269638,
                 "Y": -75.639496
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Short to Palace",
             "Position": {
                 "X": -903.96875,
                 "Y": -427.9007,
                 "Z": -158.55273
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -27.355621,
                 "Y": -59.40342
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Short to Ramp",
             "Position": {
                 "X": -903.96875,
                 "Y": -427.9007,
                 "Z": -158.55273
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -64.05201,
                 "Y": -43.95938
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Short to Palace",
             "Position": {
                 "X": -830.6982,
                 "Y": -490.7309,
                 "Z": -163.72449
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -47.683746,
                 "Y": -60.789413
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Short to Ramp",
             "Position": {
                 "X": -830.6982,
                 "Y": -490.7309,
                 "Z": -163.72449
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -65.6361,
                 "Y": -44.685516
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Under Window to Ramp",
             "Position": {
                 "X": -1071.9663,
                 "Y": -647.96875,
                 "Z": -263.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -63.194046,
                 "Y": -34.059677
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "T to Short",
             "Position": {
                 "X": 1359.6827,
                 "Y": 519.96875,
                 "Z": -258.83752
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -39.634216,
                 "Y": -160.6177
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "T to Con",
             "Position": {
                 "X": 1359.6827,
                 "Y": 519.96875,
                 "Z": -258.83752
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -37.25807,
                 "Y": -146.29565
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "StairCase to Stairs",
             "Position": {
                 "X": 592.03125,
                 "Y": -1200.0314,
                 "Z": -223.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -71.842,
                 "Y": -159.23138
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "StairCase to Tripple",
             "Position": {
                 "X": 592.03125,
                 "Y": -1200.0314,
                 "Z": -223.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -65.90183,
                 "Y": -144.71123
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "StairCase to Jungle",
             "Position": {
                 "X": 592.03125,
                 "Y": -1200.0314,
                 "Z": -223.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -69.26777,
                 "Y": -160.22118
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Staircase to Short",
             "Position": {
                 "X": 592.0313,
                 "Y": -1200.0282,
                 "Z": -223.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -65.10944,
                 "Y": 149.42126
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Staircase to Short",
             "Position": {
                 "X": 621.5247,
                 "Y": -1200.0313,
                 "Z": -255.20367
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -64.1193,
                 "Y": 148.89359
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Staircase to Stairs",
             "Position": {
                 "X": 621.5247,
                 "Y": -1200.0313,
                 "Z": -255.20367
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -71.577644,
                 "Y": -162.00269
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Staircase to Jungle",
             "Position": {
                 "X": 621.5247,
                 "Y": -1200.0313,
                 "Z": -255.20367
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -68.93749,
                 "Y": -161.47464
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Staircase to Tripple",
             "Position": {
                 "X": 621.5247,
                 "Y": -1200.0313,
                 "Z": -255.20367
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -64.84577,
                 "Y": -144.51279
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "T to Short",
             "Position": {
                 "X": 1259.287,
                 "Y": -416.9734,
                 "Z": -163.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -56.397972,
                 "Y": 177.86694
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "T to Window",
             "Position": {
                 "X": 1259.287,
                 "Y": -416.9734,
                 "Z": -163.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -46.365738,
                 "Y": -173.81711
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "T to Short",
             "Position": {
                 "X": 1422.9653,
                 "Y": -248.03125,
                 "Z": -167.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -36.069824,
                 "Y": -178.70053
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "T to Window",
             "Position": {
                 "X": 1422.9653,
                 "Y": -248.03125,
                 "Z": -167.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -38.643723,
                 "Y": -170.18646
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "T to Short",
             "Position": {
                 "X": 1422.9653,
                 "Y": -248.03125,
                 "Z": -167.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -27.291748,
                 "Y": -174.74063
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "T to Short",
             "Position": {
                 "X": 1331.0063,
                 "Y": 114.80984,
                 "Z": -167.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -36.927795,
                 "Y": -169.55681
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "T to Window",
             "Position": {
                 "X": 1331.0063,
                 "Y": 114.80984,
                 "Z": -167.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -36.795624,
                 "Y": -161.70296
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Desert to Default",
             "Position": {
                 "X": -473.88696,
                 "Y": 622.0432,
                 "Z": -80.65088
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -53.493805,
                 "Y": -175.49698
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Desert to Bench",
             "Position": {
                 "X": -473.88696,
                 "Y": 622.0432,
                 "Z": -80.65088
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -45.17784,
                 "Y": -173.91289
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Desert to Arches",
             "Position": {
                 "X": -473.88696,
                 "Y": 622.0432,
                 "Z": -80.65088
             },
-            "Throw type": 2,
-            "Type": 1,
+            "Throw type": "2",
+            "Throw type": "1",
             "Viewangle": {
                 "X": -56.265793,
                 "Y": -167.70905
@@ -4723,14 +4723,14 @@
             }
         },
         {
-            "Nade": 44,
+            "Nade": "44",
             "Name": "Market to Main",
             "Position": {
                 "X": -2411.9695,
                 "Y": -247.96765,
                 "Z": -164.99402
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": 7.9527283,
                 "Y": 65.07271
@@ -4744,7 +4744,7 @@
                 "Y": -247.96765,
                 "Z": -164.99402
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": 7.9527283,
                 "Y": 65.07271
@@ -4771,21 +4771,21 @@
                 "Y": -247.96875,
                 "Z": -164.9942
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": 5.2466583,
                 "Y": 50.02487
             }
         },
         {
-            "Nade": 44,
+            "Nade": "44",
             "Name": "Market to Apps Window",
             "Position": {
                 "X": -2411.9688,
                 "Y": -247.96875,
                 "Z": -164.9942
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": 5.7746887,
                 "Y": 55.106735
@@ -4799,21 +4799,21 @@
                 "Y": -247.96875,
                 "Z": -164.9942
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": 5.7746887,
                 "Y": 55.106735
             }
         },
         {
-            "Nade": 43,
+            "Nade": "43",
             "Name": "Market to Apps",
             "Position": {
                 "X": -2411.9688,
                 "Y": -247.96875,
                 "Z": -164.9942
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": 7.9527283,
                 "Y": 64.94087
@@ -4833,14 +4833,14 @@
             }
         },
         {
-            "Nade": 44,
+            "Nade": "44",
             "Name": "Connector to Palace",
             "Position": {
                 "X": -660.4669,
                 "Y": -1313.9481,
                 "Z": -167.96875
             },
-            "Type": 3,
+            "Throw type": "3",
             "Viewangle": {
                 "X": 5.3784943,
                 "Y": -50.75717
@@ -4854,7 +4854,7 @@
                 "Y": -1313.9481,
                 "Z": -167.96875
             },
-            "Type": 3,
+            "Throw type": "3",
             "Viewangle": {
                 "X": 5.3784943,
                 "Y": -50.75717
@@ -4868,42 +4868,42 @@
                 "Y": -115.75818,
                 "Z": -161.7721
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": 4.3220825,
                 "Y": 61.052734
             }
         },
         {
-            "Nade": 44,
+            "Nade": "44",
             "Name": "Garbage to Main",
             "Position": {
                 "X": -2415.9688,
                 "Y": -115.75818,
                 "Z": -161.7721
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": 6.4997864,
                 "Y": 61.316757
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Ct to Desert",
             "Position": {
                 "X": -1710.9688,
                 "Y": -1208.0313,
                 "Z": -255.07703
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -39.137756,
                 "Y": 67.558014
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Ct to Window",
             "Position": {
                 "X": -1488.1682,
@@ -4916,7 +4916,7 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Crouch to Site Block (Retake)",
             "Position": {
                 "X": -1434.0303,
@@ -4929,7 +4929,7 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Crouch to Short Block (Retake",
             "Position": {
                 "X": -1434.0303,
@@ -4942,49 +4942,49 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Crouch to Apps",
             "Position": {
                 "X": -1434.0303,
                 "Y": -1173.969,
                 "Z": -167.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -54.515877,
                 "Y": 100.88812
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Crouch to Apps",
             "Position": {
                 "X": -1434.0303,
                 "Y": -1173.969,
                 "Z": -167.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -54.97799,
                 "Y": 95.87186
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Market to Apps",
             "Position": {
                 "X": -1711.9678,
                 "Y": -761.03125,
                 "Z": -167.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -27.785797,
                 "Y": -38.89984
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "B site to Desert",
             "Position": {
                 "X": -1862.9673,
@@ -4997,77 +4997,77 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Van to Con",
             "Position": {
                 "X": -2364.125,
                 "Y": 808.3841,
                 "Z": -80.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -18.14975,
                 "Y": -42.75775
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Desert to Market Window",
             "Position": {
                 "X": -161.03229,
                 "Y": 576.3819,
                 "Z": -69.767334
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -7.6557617,
                 "Y": -153.3743
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Desert to Inside Market Window",
             "Position": {
                 "X": -161.03229,
                 "Y": 576.3819,
                 "Z": -69.767334
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -7.8538513,
                 "Y": -154.69437
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Desert to B Door",
             "Position": {
                 "X": -161.03229,
                 "Y": 576.3819,
                 "Z": -69.767334
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -46.793854,
                 "Y": -158.91827
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Desert to Stairs",
             "Position": {
                 "X": -351.96777,
                 "Y": 887.96875,
                 "Z": -124.97461
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -15.773956,
                 "Y": -93.64403
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Desert to Arch",
             "Position": {
                 "X": -604.43994,
@@ -5080,37 +5080,37 @@
             }
         },
         {
-            "Nade": 46,
+            "Nade": "46",
             "Name": "Window to Under",
             "Position": {
                 "X": -1247.967,
                 "Y": -924.03125,
                 "Z": -167.96875
             },
-            "Throw type": 1,
-            "Type": 1,
+            "Throw type": "1",
+            "Throw type": "1",
             "Viewangle": {
                 "X": 22.572098,
                 "Y": 58.45517
             }
         },
         {
-            "Nade": 44,
+            "Nade": "44",
             "Name": "Window to Under",
             "Position": {
                 "X": -1247.9688,
                 "Y": -924.03314,
                 "Z": -167.96875
             },
-            "Throw type": 1,
-            "Type": 1,
+            "Throw type": "1",
+            "Throw type": "1",
             "Viewangle": {
                 "X": 22.540161,
                 "Y": 58.521088
             }
         },
         {
-            "Nade": 46,
+            "Nade": "46",
             "Name": "Window to Under",
             "Position": {
                 "X": -1247.9688,
@@ -5123,7 +5123,7 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Top Mid to Window",
             "Position": {
                 "X": 343.30304,
@@ -5136,7 +5136,7 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Top Mid to Under",
             "Position": {
                 "X": 343.30304,
@@ -5149,7 +5149,7 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Top Mid to Con",
             "Position": {
                 "X": 343.30304,
@@ -5162,7 +5162,7 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Tetris to Balcony Cubby",
             "Position": {
                 "X": -77.32312,
@@ -5175,7 +5175,7 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Tetris to Con",
             "Position": {
                 "X": -77.32312,
@@ -5188,21 +5188,21 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Tetris to Jungle",
             "Position": {
                 "X": -77.32312,
                 "Y": -1475.5326,
                 "Z": -167.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -74.01798,
                 "Y": 174.25449
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Tetris to Cross",
             "Position": {
                 "X": -77.32312,
@@ -5215,7 +5215,7 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Tetris to Stairs",
             "Position": {
                 "X": -77.32312,
@@ -5228,21 +5228,21 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Tetris to Stairs",
             "Position": {
                 "X": -91.09387,
                 "Y": -1418.0305,
                 "Z": -115.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -33.49388,
                 "Y": -63.777695
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Tetris to Deep Jungle",
             "Position": {
                 "X": -30.468628,
@@ -5255,7 +5255,7 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Ramp to Jungle",
             "Position": {
                 "X": 181.96675,
@@ -5268,50 +5268,50 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Ramp to Con",
             "Position": {
                 "X": 181.96675,
                 "Y": -1717.9688,
                 "Z": -167.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": 3.5980225,
                 "Y": 163.10028
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Ramp to Jugnle",
             "Position": {
                 "X": 181.96675,
                 "Y": -1717.9688,
                 "Z": -167.96875
             },
-            "Throw type": 2,
-            "Type": 1,
+            "Throw type": "2",
+            "Throw type": "1",
             "Viewangle": {
                 "X": -5.906189,
                 "Y": 164.55255
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Palace to Arches",
             "Position": {
                 "X": 46.97016,
                 "Y": -1811.9688,
                 "Z": -63.09375
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -35.144226,
                 "Y": 125.48001
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Palace Cubby to Stairs",
             "Position": {
                 "X": 151.96875,
@@ -5324,7 +5324,7 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Top Alley to Con",
             "Position": {
                 "X": 758.6096,
@@ -5337,21 +5337,21 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Top Alley to Window",
             "Position": {
                 "X": 1126.547,
                 "Y": -1209.8475,
                 "Z": -108.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -21.35022,
                 "Y": 165.87225
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Garbage to Short",
             "Position": {
                 "X": 1422.8971,
@@ -5364,49 +5364,49 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "T to Arch",
             "Position": {
                 "X": 742.0991,
                 "Y": 510.07373,
                 "Z": -255.45782
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -49.664032,
                 "Y": 179.63608
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Desert to Bench",
             "Position": {
                 "X": -190.38208,
                 "Y": 729.67725,
                 "Z": -125.207275
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -49.7303,
                 "Y": -172.6419
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Desert to Bench",
             "Position": {
                 "X": -172.87695,
                 "Y": 689.40515,
                 "Z": -71.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -49.201935,
                 "Y": -173.89572
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Desert to Arch",
             "Position": {
                 "X": -172.87695,
@@ -5419,148 +5419,148 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Desert to Window",
             "Position": {
                 "X": -172.87695,
                 "Y": 689.40515,
                 "Z": -71.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -62.46826,
                 "Y": -123.34007
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Desert to Market Door",
             "Position": {
                 "X": -172.87695,
                 "Y": 689.40515,
                 "Z": -71.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -47.485992,
                 "Y": -156.07623
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Mid to Ct",
             "Position": {
                 "X": -833.4983,
                 "Y": -499.96606,
                 "Z": -143.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -47.22232,
                 "Y": -90.07622
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Mid to Bench",
             "Position": {
                 "X": -833.4983,
                 "Y": -499.96606,
                 "Z": -143.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -59.96029,
                 "Y": 152.24579
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "T to Window",
             "Position": {
                 "X": 1231.5074,
                 "Y": -40.799072,
                 "Z": -166.46954
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -43.032074,
                 "Y": -164.39186
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "T to Widnow ",
             "Position": {
                 "X": 1318.8529,
                 "Y": -227.55518,
                 "Z": -167.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -42.30594,
                 "Y": -169.34222
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "T to Window",
             "Position": {
                 "X": 1242.0471,
                 "Y": -137.34412,
                 "Z": -167.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -43.890045,
                 "Y": -166.63617
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "T to Window",
             "Position": {
                 "X": 1159.9724,
                 "Y": 39.168312,
                 "Z": -164.47699
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -46.39801,
                 "Y": -161.81763
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "T to Short",
             "Position": {
                 "X": 1236.7954,
                 "Y": 512.68335,
                 "Z": -262.37726
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -46.26584,
                 "Y": -159.6389
             }
         },
         {
-            "Nade": 43,
+            "Nade": "43",
             "Name": "Mid Pop Flash",
             "Position": {
                 "X": -1247.9688,
                 "Y": -924.0345,
                 "Z": -167.96875
             },
-            "Throw type": 1,
-            "Type": 1,
+            "Throw type": "1",
+            "Throw type": "1",
             "Viewangle": {
                 "X": 22.572098,
                 "Y": 57.60373
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Under to Cross",
             "Position": {
                 "X": -1047.9677,
@@ -5573,49 +5573,49 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Mid to Jungle",
             "Position": {
                 "X": 502.9654,
                 "Y": -64.41321,
                 "Z": -160.00208
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -14.850082,
                 "Y": -135.35019
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "T to Con",
             "Position": {
                 "X": 1239.9677,
                 "Y": -1253.9688,
                 "Z": -151.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -17.490234,
                 "Y": -178.44785
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "T to Con",
             "Position": {
                 "X": 1206.2831,
                 "Y": -211.031,
                 "Z": -163.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -54.91207,
                 "Y": -162.24026
             }
         },
         {
-            "Nade": 43,
+            "Nade": "43",
             "Name": "Door to Ct Flash",
             "Position": {
                 "X": 834.8342,
@@ -5628,36 +5628,36 @@
             }
         },
         {
-            "Nade": 46,
+            "Nade": "46",
             "Name": "Tetris to Ct",
             "Position": {
                 "X": -30.4682,
                 "Y": -1418.0313,
                 "Z": -167.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": 3.1678467,
                 "Y": -130.7222
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Tetris to Ct",
             "Position": {
                 "X": -30.46875,
                 "Y": -1418.0313,
                 "Z": -167.96875
             },
-            "Throw type": 2,
-            "Type": 1,
+            "Throw type": "2",
+            "Throw type": "1",
             "Viewangle": {
                 "X": -13.200073,
                 "Y": -130.85403
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Con to Jungle",
             "Position": {
                 "X": -807.96875,
@@ -5670,22 +5670,22 @@
             }
         },
         {
-            "Nade": 43,
+            "Nade": "43",
             "Name": "Bench to Window",
             "Position": {
                 "X": -801.96875,
                 "Y": -788.96454,
                 "Z": -261.96875
             },
-            "Throw type": 1,
-            "Type": 1,
+            "Throw type": "1",
+            "Throw type": "1",
             "Viewangle": {
                 "X": 7.8538513,
                 "Y": 161.16602
             }
         },
         {
-            "Nade": 43,
+            "Nade": "43",
             "Name": "Bench to Short Flash",
             "Position": {
                 "X": -895.7152,
@@ -5698,63 +5698,63 @@
             }
         },
         {
-            "Nade": 46,
+            "Nade": "46",
             "Name": "Apps to Van",
             "Position": {
                 "X": -1137.7079,
                 "Y": 719.7343,
                 "Z": -79.96875
             },
-            "Type": 2,
+            "Throw type": "2",
             "Viewangle": {
                 "X": -11.615982,
                 "Y": -179.99382
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Ct to Bench Block (retake)",
             "Position": {
                 "X": -1464.0316,
                 "Y": -1792.8312,
                 "Z": -261.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -22.044067,
                 "Y": 120.73013
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Ct to B Short Block (retake)",
             "Position": {
                 "X": -1464.0316,
                 "Y": -1792.8312,
                 "Z": -261.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -41.249878,
                 "Y": 101.52432
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Ct to Apps",
             "Position": {
                 "X": -1710.9669,
                 "Y": -1501.2714,
                 "Z": -258.32104
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -27.917969,
                 "Y": 87.730286
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Crouch to Short",
             "Position": {
                 "X": -1311.9685,
@@ -5780,7 +5780,7 @@
             }
         },
         {
-            "Nade": 44,
+            "Nade": "44",
             "Name": "Crouch to Short",
             "Position": {
                 "X": -1311.9685,
@@ -5793,7 +5793,7 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Window to Under",
             "Position": {
                 "X": -1120.0313,
@@ -5806,7 +5806,7 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Short to Ct",
             "Position": {
                 "X": -496.03125,
@@ -5832,7 +5832,7 @@
             }
         },
         {
-            "Nade": 44,
+            "Nade": "44",
             "Name": "Short to Ct",
             "Position": {
                 "X": -496.03125,
@@ -5845,7 +5845,7 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Short to Ct",
             "Position": {
                 "X": -496.03125,
@@ -5858,49 +5858,49 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "T to Arches",
             "Position": {
                 "X": 445.96875,
                 "Y": 571.9687,
                 "Z": -257.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -56.825752,
                 "Y": -173.89366
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "T to Arches (left)",
             "Position": {
                 "X": 445.96875,
                 "Y": 571.9687,
                 "Z": -257.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -56.03405,
                 "Y": -166.43567
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Side Alley to Jungle",
             "Position": {
                 "X": 399.42578,
                 "Y": 279.06033,
                 "Z": -254.72913
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -29.435806,
                 "Y": -127.49565
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Con to Mid",
             "Position": {
                 "X": -709.9692,
@@ -5913,7 +5913,7 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Con to Lower Con (block)",
             "Position": {
                 "X": -709.9692,
@@ -5926,7 +5926,7 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Short to Under",
             "Position": {
                 "X": -752.03125,
@@ -5939,7 +5939,7 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Short to Short (Block)",
             "Position": {
                 "X": -752.03125,
@@ -5952,7 +5952,7 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Short to Short (block)",
             "Position": {
                 "X": -1042.345,
@@ -5965,7 +5965,7 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Bench to Apps",
             "Position": {
                 "X": -2635.9685,
@@ -5991,7 +5991,7 @@
             }
         },
         {
-            "Nade": 44,
+            "Nade": "44",
             "Name": "Bench to Apps",
             "Position": {
                 "X": -2635.9685,
@@ -6004,7 +6004,7 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Ct to Ramp",
             "Position": {
                 "X": -879.89746,
@@ -6017,7 +6017,7 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Ct to Midsite Cross",
             "Position": {
                 "X": -1046.523,
@@ -6030,35 +6030,35 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Ct to Cross",
             "Position": {
                 "X": -1046.523,
                 "Y": -2232.0313,
                 "Z": -167.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -18.083832,
                 "Y": -37.598297
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Ct to Default",
             "Position": {
                 "X": -1046.523,
                 "Y": -2232.0313,
                 "Z": -167.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -78.86982,
                 "Y": 1.9360046
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Ct to Top Con",
             "Position": {
                 "X": -1022.8683,
@@ -6071,77 +6071,77 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Under to Palace",
             "Position": {
                 "X": -1071.9668,
                 "Y": -380.0332,
                 "Z": -263.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -33.065765,
                 "Y": -57.30194
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Under to Cross",
             "Position": {
                 "X": -1047.9683,
                 "Y": -313.57813,
                 "Z": -367.96875
             },
-            "Type": 2,
+            "Throw type": "2",
             "Viewangle": {
                 "X": -45.27603,
                 "Y": -47.335968
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "T to Con",
             "Position": {
                 "X": 393.9687,
                 "Y": 679.96875,
                 "Z": -257.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -56.4299,
                 "Y": -125.978165
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "T to Short",
             "Position": {
                 "X": 393.9687,
                 "Y": 679.96875,
                 "Z": -257.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -64.086,
                 "Y": -143.00629
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "T to Short",
             "Position": {
                 "X": 393.9687,
                 "Y": 679.96875,
                 "Z": -257.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -59.795837,
                 "Y": -145.31616
             }
         },
         {
-            "Nade": 46,
+            "Nade": "46",
             "Name": "Apps to Market",
             "Position": {
                 "X": -1952.0297,
@@ -6154,7 +6154,7 @@
             }
         },
         {
-            "Nade": 44,
+            "Nade": "44",
             "Name": "Apps to Market",
             "Position": {
                 "X": -1952.0297,
@@ -6167,7 +6167,7 @@
             }
         },
         {
-            "Nade": 44,
+            "Nade": "44",
             "Name": "Apps to Deep Market",
             "Position": {
                 "X": -1952.0297,
@@ -6180,7 +6180,7 @@
             }
         },
         {
-            "Nade": 46,
+            "Nade": "46",
             "Name": "Apps to Deep Market",
             "Position": {
                 "X": -1952.0297,
@@ -6193,7 +6193,7 @@
             }
         },
         {
-            "Nade": 46,
+            "Nade": "46",
             "Name": "Garbage to Apps",
             "Position": {
                 "X": -2415.9631,
@@ -6206,35 +6206,35 @@
             }
         },
         {
-            "Nade": 44,
+            "Nade": "44",
             "Name": "Garbage to Apps",
             "Position": {
                 "X": -2415.9631,
                 "Y": -115.757324,
                 "Z": -161.77252
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": 5.9401703,
                 "Y": 50.365784
             }
         },
         {
-            "Nade": 46,
+            "Nade": "46",
             "Name": "Garbage to Apps",
             "Position": {
                 "X": -2415.9631,
                 "Y": -115.757324,
                 "Z": -161.77252
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": 4.290161,
                 "Y": 43.9635
             }
         },
         {
-            "Nade": 43,
+            "Nade": "43",
             "Name": "Mid Push flash",
             "Position": {
                 "X": 236.03215,
@@ -6247,7 +6247,7 @@
             }
         },
         {
-            "Nade": 43,
+            "Nade": "43",
             "Name": "Mid Push Flash",
             "Position": {
                 "X": 398.96884,
@@ -6260,21 +6260,21 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Tetris to Jungle",
             "Position": {
                 "X": -30.46875,
                 "Y": -1418.0316,
                 "Z": -167.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -33.725967,
                 "Y": -72.78992
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Tetris to Ct",
             "Position": {
                 "X": -30.46875,
@@ -6287,35 +6287,35 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Tetris to Midsite",
             "Position": {
                 "X": -30.46875,
                 "Y": -1418.0316,
                 "Z": -167.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": 13.85994,
                 "Y": -136.48007
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "T to Window",
             "Position": {
                 "X": 1281.0177,
                 "Y": 31.879143,
                 "Z": -167.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -40.1279,
                 "Y": -162.77618
             }
         },
         {
-            "Nade": 46,
+            "Nade": "46",
             "Name": "Con to Default",
             "Position": {
                 "X": -618.0323,
@@ -6328,7 +6328,7 @@
             }
         },
         {
-            "Nade": 44,
+            "Nade": "44",
             "Name": "Con to Default",
             "Position": {
                 "X": -618.0323,
@@ -6341,7 +6341,7 @@
             }
         },
         {
-            "Nade": 46,
+            "Nade": "46",
             "Name": "Palace to Under",
             "Position": {
                 "X": 16.037615,
@@ -6354,7 +6354,7 @@
             }
         },
         {
-            "Nade": 44,
+            "Nade": "44",
             "Name": "Palace to Under",
             "Position": {
                 "X": 16.037615,
@@ -6367,91 +6367,91 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "T to Market Window",
             "Position": {
                 "X": 420.3308,
                 "Y": 350.03134,
                 "Z": -251.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -43.69194,
                 "Y": -165.58525
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "T to Arches",
             "Position": {
                 "X": 420.3308,
                 "Y": 350.03134,
                 "Z": -251.96875
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -46.727936,
                 "Y": -179.97322
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Desert to Bench",
             "Position": {
                 "X": -291.9746,
                 "Y": 655.97034,
                 "Z": -79.93921
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -34.64984,
                 "Y": -172.41394
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Desert to Bench",
             "Position": {
                 "X": -291.9746,
                 "Y": 655.97034,
                 "Z": -79.93921
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -21.053925,
                 "Y": -173.79993
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Desert to Jungle Cross",
             "Position": {
                 "X": -291.9746,
                 "Y": 655.97034,
                 "Z": -79.93921
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -51.149933,
                 "Y": -99.8798
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Desert to Tripple",
             "Position": {
                 "X": -291.9746,
                 "Y": 655.97034,
                 "Z": -79.93921
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -26.267624,
                 "Y": -99.15367
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Desert to Default",
             "Position": {
                 "X": -291.9746,
@@ -6464,71 +6464,71 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Desert to Bench",
             "Position": {
                 "X": -291.9746,
                 "Y": 655.97034,
                 "Z": -79.93921
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -53.063965,
                 "Y": -173.00789
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Desert to Arches",
             "Position": {
                 "X": -291.9746,
                 "Y": 655.97034,
                 "Z": -79.93921
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -71.675835,
                 "Y": -165.8139
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Desert to Short",
             "Position": {
                 "X": -291.9746,
                 "Y": 655.97034,
                 "Z": -79.93921
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -73.524284,
                 "Y": -118.49201
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Ct to Ramp",
             "Position": {
                 "X": -2026.3951,
                 "Y": -2029.9688,
                 "Z": -299.1197
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -30.42595,
                 "Y": 11.438141
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Jungle Oneway",
             "Position": {
                 "X": -992.03125,
                 "Y": -1304.8337,
                 "Z": -155.61658
             },
-            "Throw type": 1,
-            "Type": 1,
+            "Throw type": "1",
+            "Throw type": "1",
             "Viewangle": {
                 "X": -11.880005,
                 "Y": -80.26611
@@ -6561,49 +6561,49 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "T to Jungle Cross",
             "Position": {
                 "X": 1239.6141,
                 "Y": -1024.3397,
                 "Z": -257.5628
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -20.922089,
                 "Y": -163.53802
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "T to Tripple",
             "Position": {
                 "X": 1239.6141,
                 "Y": -1024.3397,
                 "Z": -257.5628
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -24.024017,
                 "Y": -150.40387
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "T to Tripple",
             "Position": {
                 "X": 1239.6141,
                 "Y": -1024.3397,
                 "Z": -257.5628
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -17.42398,
                 "Y": -153.7698
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Desert to Short",
             "Position": {
                 "X": -160.03125,
@@ -6616,43 +6616,43 @@
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Desert to Jungle Cross",
             "Position": {
                 "X": -160.03125,
                 "Y": 887.9683,
                 "Z": -135.32813
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -40.260086,
                 "Y": -101.167946
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Desert to Jungle Short",
             "Position": {
                 "X": -160.03125,
                 "Y": 887.9683,
                 "Z": -135.32813
             },
-            "Throw type": 2,
-            "Type": 1,
+            "Throw type": "2",
+            "Throw type": "1",
             "Viewangle": {
                 "X": -49.763947,
                 "Y": -122.35405
             }
         },
         {
-            "Nade": 45,
+            "Nade": "45",
             "Name": "Desert to Under",
             "Position": {
                 "X": -160.03125,
                 "Y": 887.9683,
                 "Z": -135.32813
             },
-            "Type": 1,
+            "Throw type": "1",
             "Viewangle": {
                 "X": -10.22998,
                 "Y": -120.70404
