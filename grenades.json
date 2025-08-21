@@ -1,8 +1,8 @@
 {
     "de_mirage": [
         {
-            "Nade": "45",
-            "Name": "Ct to Palace",
+            "Nade": "smoke",
+            "Name": "Ct To Palace",
             "Position": {
                 "X": -2031.9706,
                 "Y": -1766.1841,
@@ -15,8 +15,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Ct to Palace",
+            "Nade": "smoke",
+            "Name": "Ct To Palace",
             "Position": {
                 "X": -2031.9706,
                 "Y": -1766.1841,
@@ -29,8 +29,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Ct to Palace",
+            "Nade": "smoke",
+            "Name": "Ct To Palace",
             "Position": {
                 "X": -2026.399,
                 "Y": -2029.9688,
@@ -43,8 +43,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Ct to Tetris",
+            "Nade": "smoke",
+            "Name": "Ct To Tetris",
             "Position": {
                 "X": -2026.399,
                 "Y": -2029.9688,
@@ -57,8 +57,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Ct to Ramp",
+            "Nade": "smoke",
+            "Name": "Ct To Ramp",
             "Position": {
                 "X": -2026.399,
                 "Y": -2029.9688,
@@ -71,8 +71,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Ct to Palace",
+            "Nade": "smoke",
+            "Name": "Ct To Palace",
             "Position": {
                 "X": -2026.399,
                 "Y": -2029.9688,
@@ -85,8 +85,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Ct to Ramp",
+            "Nade": "smoke",
+            "Name": "Ct To Ramp",
             "Position": {
                 "X": -1710.9688,
                 "Y": -1208.0328,
@@ -99,8 +99,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Ct to Apps",
+            "Nade": "smoke",
+            "Name": "Ct To Apps",
             "Position": {
                 "X": -1542.0837,
                 "Y": -1201.9081,
@@ -113,8 +113,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Market to Palace",
+            "Nade": "smoke",
+            "Name": "Market To Palace",
             "Position": {
                 "X": -1711.9688,
                 "Y": -761.03156,
@@ -127,8 +127,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Market to Stairs",
+            "Nade": "smoke",
+            "Name": "Market To Stairs",
             "Position": {
                 "X": -1711.9688,
                 "Y": -761.03156,
@@ -141,8 +141,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Market to Palace",
+            "Nade": "smoke",
+            "Name": "Market To Palace",
             "Position": {
                 "X": -1711.9688,
                 "Y": -761.03156,
@@ -155,8 +155,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Market to Apps",
+            "Nade": "smoke",
+            "Name": "Market To Apps",
             "Position": {
                 "X": -1957.3323,
                 "Y": -321.37524,
@@ -169,8 +169,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Market to Apps",
+            "Nade": "smoke",
+            "Name": "Market To Apps",
             "Position": {
                 "X": -1999.9688,
                 "Y": -247.96753,
@@ -182,8 +182,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Ct to Top Mid",
+            "Nade": "smoke",
+            "Name": "Ct To Top Mid",
             "Position": {
                 "X": -1547.9779,
                 "Y": -2407.9688,
@@ -196,8 +196,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Garbage to Apps",
+            "Nade": "smoke",
+            "Name": "Garbage To Apps",
             "Position": {
                 "X": -2415.9685,
                 "Y": -115.757324,
@@ -209,8 +209,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Market to Short",
+            "Nade": "smoke",
+            "Name": "Market To Short",
             "Position": {
                 "X": -2217.7622,
                 "Y": -47.910156,
@@ -223,8 +223,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Default to Market Door",
+            "Nade": "smoke",
+            "Name": "Default To Market Door",
             "Position": {
                 "X": -1969.0469,
                 "Y": 450.0351,
@@ -236,8 +236,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Default to Market Window",
+            "Nade": "smoke",
+            "Name": "Default To Market Window",
             "Position": {
                 "X": -1969.0469,
                 "Y": 450.0351,
@@ -250,8 +250,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Apps to Gated Window",
+            "Nade": "smoke",
+            "Name": "Apps To Gated Window",
             "Position": {
                 "X": -1230.361,
                 "Y": 801.97186,
@@ -263,8 +263,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Desert to Arches",
+            "Nade": "smoke",
+            "Name": "Desert To Arches",
             "Position": {
                 "X": -784.9785,
                 "Y": 622.9753,
@@ -276,8 +276,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Desert to Bench",
+            "Nade": "smoke",
+            "Name": "Desert To Bench",
             "Position": {
                 "X": -735.8968,
                 "Y": 623.8515,
@@ -289,8 +289,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Bench to Default",
+            "Nade": "smoke",
+            "Name": "Bench To Default",
             "Position": {
                 "X": -735.8968,
                 "Y": 623.8515,
@@ -302,8 +302,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Desert to Arches",
+            "Nade": "smoke",
+            "Name": "Desert To Arches",
             "Position": {
                 "X": -728.0043,
                 "Y": 524.03534,
@@ -316,8 +316,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Desert to Arches",
+            "Nade": "smoke",
+            "Name": "Desert To Arches",
             "Position": {
                 "X": -702.8837,
                 "Y": 520.9809,
@@ -330,8 +330,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Desert to Default",
+            "Nade": "smoke",
+            "Name": "Desert To Default",
             "Position": {
                 "X": -624.21954,
                 "Y": 615.96844,
@@ -343,8 +343,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Desert to Bench",
+            "Nade": "smoke",
+            "Name": "Desert To Bench",
             "Position": {
                 "X": -601.425,
                 "Y": 610.2598,
@@ -356,8 +356,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Desert to Arches",
+            "Nade": "smoke",
+            "Name": "Desert To Arches",
             "Position": {
                 "X": -601.425,
                 "Y": 610.2598,
@@ -369,8 +369,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Desert to Bench",
+            "Nade": "smoke",
+            "Name": "Desert To Bench",
             "Position": {
                 "X": -545.9049,
                 "Y": 580.40027,
@@ -382,8 +382,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Desert to Default",
+            "Nade": "smoke",
+            "Name": "Desert To Default",
             "Position": {
                 "X": -540.64435,
                 "Y": 520.0347,
@@ -395,8 +395,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Desert to Bench",
+            "Nade": "smoke",
+            "Name": "Desert To Bench",
             "Position": {
                 "X": -545.8425,
                 "Y": 562.62024,
@@ -408,8 +408,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Desert to Default",
+            "Nade": "smoke",
+            "Name": "Desert To Default",
             "Position": {
                 "X": -545.8425,
                 "Y": 562.62024,
@@ -421,8 +421,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Desert to Site Default",
+            "Nade": "smoke",
+            "Name": "Desert To Site Default",
             "Position": {
                 "X": -504.71887,
                 "Y": 520.0545,
@@ -434,8 +434,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Desert to Con",
+            "Nade": "smoke",
+            "Name": "Desert To Con",
             "Position": {
                 "X": -460.9444,
                 "Y": 782.9485,
@@ -447,8 +447,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Desert to Jungle",
+            "Nade": "smoke",
+            "Name": "Desert To Jungle",
             "Position": {
                 "X": -460.9444,
                 "Y": 782.9485,
@@ -461,8 +461,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Desert to Jungle",
+            "Nade": "smoke",
+            "Name": "Desert To Jungle",
             "Position": {
                 "X": -370.97424,
                 "Y": 887.96765,
@@ -475,8 +475,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Desert to Short",
+            "Nade": "smoke",
+            "Name": "Desert To Short",
             "Position": {
                 "X": -370.97424,
                 "Y": 887.96765,
@@ -489,8 +489,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Desert to Stairs",
+            "Nade": "smoke",
+            "Name": "Desert To Stairs",
             "Position": {
                 "X": -351.96875,
                 "Y": 887.96686,
@@ -503,8 +503,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Desert to Jungle",
+            "Nade": "smoke",
+            "Name": "Desert To Jungle",
             "Position": {
                 "X": -351.96875,
                 "Y": 887.96686,
@@ -517,8 +517,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Desert to Market Door",
+            "Nade": "smoke",
+            "Name": "Desert To Market Door",
             "Position": {
                 "X": -246.90063,
                 "Y": 887.967,
@@ -531,8 +531,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Desert to Market Door",
+            "Nade": "smoke",
+            "Name": "Desert To Market Door",
             "Position": {
                 "X": -160.03125,
                 "Y": 887.9685,
@@ -545,8 +545,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Desert to Market Window",
+            "Nade": "smoke",
+            "Name": "Desert To Market Window",
             "Position": {
                 "X": -160.03125,
                 "Y": 887.9685,
@@ -559,8 +559,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Desert to Window",
+            "Nade": "smoke",
+            "Name": "Desert To Window",
             "Position": {
                 "X": -291.44,
                 "Y": 601.00684,
@@ -572,8 +572,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Desert to Market Window",
+            "Nade": "smoke",
+            "Name": "Desert To Market Window",
             "Position": {
                 "X": -161.03412,
                 "Y": 468.8551,
@@ -586,8 +586,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Desert to Window",
+            "Nade": "smoke",
+            "Name": "Desert To Window",
             "Position": {
                 "X": -161.03412,
                 "Y": 468.8551,
@@ -600,8 +600,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Desert to Market Door",
+            "Nade": "smoke",
+            "Name": "Desert To Market Door",
             "Position": {
                 "X": -161.03412,
                 "Y": 468.8551,
@@ -614,8 +614,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Desert to Bench",
+            "Nade": "smoke",
+            "Name": "Desert To Bench",
             "Position": {
                 "X": -154.73883,
                 "Y": 409.6928,
@@ -628,8 +628,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Desert to Arches",
+            "Nade": "smoke",
+            "Name": "Desert To Arches",
             "Position": {
                 "X": -148.03125,
                 "Y": 358.0321,
@@ -641,8 +641,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Desert to Market Door",
+            "Nade": "smoke",
+            "Name": "Desert To Market Door",
             "Position": {
                 "X": -160.09052,
                 "Y": 759.9743,
@@ -655,8 +655,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Ladder to Ramp",
+            "Nade": "smoke",
+            "Name": "Ladder To Ramp",
             "Position": {
                 "X": -911.2775,
                 "Y": -30.03125,
@@ -669,8 +669,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Top Mid to Short",
+            "Nade": "smoke",
+            "Name": "Top Mid To Short",
             "Position": {
                 "X": 360.07312,
                 "Y": -691.97107,
@@ -682,8 +682,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Top Mid to Window",
+            "Nade": "smoke",
+            "Name": "Top Mid To Window",
             "Position": {
                 "X": 343.30185,
                 "Y": -621.61957,
@@ -695,8 +695,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Tv room to Right Arch",
+            "Nade": "smoke",
+            "Name": "Tv room To Right Arch",
             "Position": {
                 "X": 496.0539,
                 "Y": 679.9683,
@@ -709,8 +709,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Tv room to Arches",
+            "Nade": "smoke",
+            "Name": "Tv room To Arches",
             "Position": {
                 "X": 445.96854,
                 "Y": 626.96875,
@@ -723,8 +723,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Side Alley to Short",
+            "Nade": "smoke",
+            "Name": "Side Alley To Short",
             "Position": {
                 "X": 926.16534,
                 "Y": 639.94446,
@@ -737,8 +737,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Tv room to Arches",
+            "Nade": "smoke",
+            "Name": "Tv room To Arches",
             "Position": {
                 "X": 690.8701,
                 "Y": 562.9682,
@@ -751,8 +751,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Tv room to Arches",
+            "Nade": "smoke",
+            "Name": "Tv room To Arches",
             "Position": {
                 "X": 492.31088,
                 "Y": 563.4536,
@@ -765,8 +765,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Side Alley to Short",
+            "Nade": "smoke",
+            "Name": "Side Alley To Short",
             "Position": {
                 "X": 931.36066,
                 "Y": 574.66876,
@@ -779,8 +779,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Side Alley to Con",
+            "Nade": "smoke",
+            "Name": "Side Alley To Con",
             "Position": {
                 "X": 1135.9688,
                 "Y": 647.97546,
@@ -793,8 +793,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Pillar to Market Door",
+            "Nade": "smoke",
+            "Name": "Pillar To Market Door",
             "Position": {
                 "X": 97.017784,
                 "Y": -933.9678,
@@ -807,8 +807,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Pillar to Market Window",
+            "Nade": "smoke",
+            "Name": "Pillar To Market Window",
             "Position": {
                 "X": 97.017784,
                 "Y": -933.9678,
@@ -821,8 +821,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Pillar to Apps",
+            "Nade": "smoke",
+            "Name": "Pillar To Apps",
             "Position": {
                 "X": 97.017784,
                 "Y": -933.9678,
@@ -835,8 +835,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Pillar to Short",
+            "Nade": "smoke",
+            "Name": "Pillar To Short",
             "Position": {
                 "X": 146.03209,
                 "Y": -935.80536,
@@ -849,8 +849,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Pillar to Under",
+            "Nade": "smoke",
+            "Name": "Pillar To Under",
             "Position": {
                 "X": 146.0315,
                 "Y": -935.8058,
@@ -863,8 +863,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Pillar to Window",
+            "Nade": "smoke",
+            "Name": "Pillar To Window",
             "Position": {
                 "X": 146.0315,
                 "Y": -935.8058,
@@ -877,8 +877,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Under to Window",
+            "Nade": "smoke",
+            "Name": "Under To Window",
             "Position": {
                 "X": -968.03265,
                 "Y": -310.80023,
@@ -890,8 +890,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Under to Jungle",
+            "Nade": "smoke",
+            "Name": "Under To Jungle",
             "Position": {
                 "X": -968.03644,
                 "Y": -393.286,
@@ -903,8 +903,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Jungle to Ramp",
+            "Nade": "smoke",
+            "Name": "Jungle To Ramp",
             "Position": {
                 "X": -1275.9686,
                 "Y": -1526.9688,
@@ -917,8 +917,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Bench to Window",
+            "Nade": "smoke",
+            "Name": "Bench To Window",
             "Position": {
                 "X": -1071.9688,
                 "Y": -788.9686,
@@ -930,8 +930,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Garbage to Default",
+            "Nade": "smoke",
+            "Name": "Garbage To Default",
             "Position": {
                 "X": -1022.86816,
                 "Y": -2269.5195,
@@ -943,8 +943,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Tripple to Ramp",
+            "Nade": "smoke",
+            "Name": "Tripple To Ramp",
             "Position": {
                 "X": -783.9667,
                 "Y": -2175.9248,
@@ -956,8 +956,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Default to Jungle Cross",
+            "Nade": "smoke",
+            "Name": "Default To Jungle Cross",
             "Position": {
                 "X": -313.41187,
                 "Y": -2166.7795,
@@ -969,8 +969,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Default to Stairs",
+            "Nade": "smoke",
+            "Name": "Default To Stairs",
             "Position": {
                 "X": -313.41187,
                 "Y": -2166.7795,
@@ -982,8 +982,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Default to Stairs",
+            "Nade": "smoke",
+            "Name": "Default To Stairs",
             "Position": {
                 "X": -253.96875,
                 "Y": -2134.0754,
@@ -996,8 +996,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Default to Deep Jungle",
+            "Nade": "smoke",
+            "Name": "Default To Deep Jungle",
             "Position": {
                 "X": -253.96875,
                 "Y": -2134.0754,
@@ -1009,8 +1009,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Default to Con",
+            "Nade": "smoke",
+            "Name": "Default To Con",
             "Position": {
                 "X": -253.96875,
                 "Y": -2134.0754,
@@ -1022,8 +1022,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Default to Deep Jungle",
+            "Nade": "smoke",
+            "Name": "Default To Deep Jungle",
             "Position": {
                 "X": -253.96875,
                 "Y": -2134.0754,
@@ -1035,8 +1035,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Firebox to Stairs",
+            "Nade": "smoke",
+            "Name": "Firebox To Stairs",
             "Position": {
                 "X": -284.21875,
                 "Y": -2412.9685,
@@ -1048,8 +1048,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Firebox to Con",
+            "Nade": "smoke",
+            "Name": "Firebox To Con",
             "Position": {
                 "X": -284.21875,
                 "Y": -2412.9685,
@@ -1061,8 +1061,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Tetris to Jungle",
+            "Nade": "smoke",
+            "Name": "Tetris To Jungle",
             "Position": {
                 "X": -30.206848,
                 "Y": -1418.0314,
@@ -1074,8 +1074,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Tetris to Stairs",
+            "Nade": "smoke",
+            "Name": "Tetris To Stairs",
             "Position": {
                 "X": -30.206848,
                 "Y": -1418.0314,
@@ -1087,8 +1087,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Corner to Jungle Cross",
+            "Nade": "smoke",
+            "Name": "Corner To Jungle Cross",
             "Position": {
                 "X": 181.96875,
                 "Y": -1717.9688,
@@ -1100,8 +1100,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Ramp to Stairs",
+            "Nade": "smoke",
+            "Name": "Ramp To Stairs",
             "Position": {
                 "X": 181.96875,
                 "Y": -1717.9688,
@@ -1115,8 +1115,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Palace to Site",
+            "Nade": "smoke",
+            "Name": "Palace To Site",
             "Position": {
                 "X": 16.035088,
                 "Y": -2254.4397,
@@ -1129,8 +1129,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Palace to Stairs",
+            "Nade": "smoke",
+            "Name": "Palace To Stairs",
             "Position": {
                 "X": 117.81029,
                 "Y": -2280.4395,
@@ -1142,8 +1142,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Palace to Con",
+            "Nade": "smoke",
+            "Name": "Palace To Con",
             "Position": {
                 "X": 118.983345,
                 "Y": -2280.03,
@@ -1155,8 +1155,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "T spawn to Window",
+            "Nade": "smoke",
+            "Name": "T spawn To Window",
             "Position": {
                 "X": 1422.9688,
                 "Y": 36.46866,
@@ -1169,8 +1169,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "T spawn to Window",
+            "Nade": "smoke",
+            "Name": "T spawn To Window",
             "Position": {
                 "X": 1422.9688,
                 "Y": 36.46866,
@@ -1183,8 +1183,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "T spawn to Con",
+            "Nade": "smoke",
+            "Name": "T spawn To Con",
             "Position": {
                 "X": 1422.9688,
                 "Y": 36.46866,
@@ -1197,8 +1197,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "T spawn to Window",
+            "Nade": "smoke",
+            "Name": "T spawn To Window",
             "Position": {
                 "X": 1389.4706,
                 "Y": 70.96781,
@@ -1211,8 +1211,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "T spawn to Short",
+            "Nade": "smoke",
+            "Name": "T spawn To Short",
             "Position": {
                 "X": 1422.9702,
                 "Y": -55.951904,
@@ -1225,7 +1225,7 @@
             }
         },
         {
-            "Nade": "45",
+            "Nade": "smoke",
             "Name": "Insta Short",
             "Position": {
                 "X": 1277.7955,
@@ -1238,7 +1238,7 @@
             }
         },
         {
-            "Nade": "45",
+            "Nade": "smoke",
             "Name": "Insta Con",
             "Position": {
                 "X": 1277.7955,
@@ -1252,7 +1252,7 @@
             }
         },
         {
-            "Nade": "45",
+            "Nade": "smoke",
             "Name": "Insta Catwalk",
             "Position": {
                 "X": 1277.7955,
@@ -1266,7 +1266,7 @@
             }
         },
         {
-            "Nade": "45",
+            "Nade": "smoke",
             "Name": "Insta Catwalk",
             "Position": {
                 "X": 1131.9249,
@@ -1280,7 +1280,7 @@
             }
         },
         {
-            "Nade": "45",
+            "Nade": "smoke",
             "Name": "Insta Short",
             "Position": {
                 "X": 1131.9249,
@@ -1293,7 +1293,7 @@
             }
         },
         {
-            "Nade": "45",
+            "Nade": "smoke",
             "Name": "Insta Window",
             "Position": {
                 "X": 1217.9932,
@@ -1307,7 +1307,7 @@
             }
         },
         {
-            "Nade": "45",
+            "Nade": "smoke",
             "Name": "Insta Con",
             "Position": {
                 "X": 1217.9932,
@@ -1321,7 +1321,7 @@
             }
         },
         {
-            "Nade": "45",
+            "Nade": "smoke",
             "Name": "Insta Catwalk",
             "Position": {
                 "X": 1217.9932,
@@ -1335,7 +1335,7 @@
             }
         },
         {
-            "Nade": "45",
+            "Nade": "smoke",
             "Name": "Insta Short",
             "Position": {
                 "X": 1217.9932,
@@ -1348,7 +1348,7 @@
             }
         },
         {
-            "Nade": "45",
+            "Nade": "smoke",
             "Name": "Insta Catwalk",
             "Position": {
                 "X": 1220.5629,
@@ -1362,7 +1362,7 @@
             }
         },
         {
-            "Nade": "45",
+            "Nade": "smoke",
             "Name": "Insta Short",
             "Position": {
                 "X": 1220.5629,
@@ -1375,7 +1375,7 @@
             }
         },
         {
-            "Nade": "45",
+            "Nade": "smoke",
             "Name": "Insta Con",
             "Position": {
                 "X": 1220.5629,
@@ -1389,7 +1389,7 @@
             }
         },
         {
-            "Nade": "45",
+            "Nade": "smoke",
             "Name": "Insta Window",
             "Position": {
                 "X": 1220.5629,
@@ -1403,7 +1403,7 @@
             }
         },
         {
-            "Nade": "45",
+            "Nade": "smoke",
             "Name": "Insta Catwalk",
             "Position": {
                 "X": 1212.1224,
@@ -1417,7 +1417,7 @@
             }
         },
         {
-            "Nade": "45",
+            "Nade": "smoke",
             "Name": "Insta Short",
             "Position": {
                 "X": 1212.1224,
@@ -1430,7 +1430,7 @@
             }
         },
         {
-            "Nade": "45",
+            "Nade": "smoke",
             "Name": "Insta Con",
             "Position": {
                 "X": 1212.1224,
@@ -1444,7 +1444,7 @@
             }
         },
         {
-            "Nade": "45",
+            "Nade": "smoke",
             "Name": "Insta Window",
             "Position": {
                 "X": 1212.1224,
@@ -1458,8 +1458,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "T to Window",
+            "Nade": "smoke",
+            "Name": "T To Window",
             "Position": {
                 "X": 1343.6049,
                 "Y": -181.41724,
@@ -1472,8 +1472,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "T to Catwalk",
+            "Nade": "smoke",
+            "Name": "T To Catwalk",
             "Position": {
                 "X": 1450.9662,
                 "Y": -153.06946,
@@ -1486,8 +1486,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "T to Window",
+            "Nade": "smoke",
+            "Name": "T To Window",
             "Position": {
                 "X": 1450.9662,
                 "Y": -153.06946,
@@ -1500,8 +1500,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "T to Short",
+            "Nade": "smoke",
+            "Name": "T To Short",
             "Position": {
                 "X": 1450.9662,
                 "Y": -153.06946,
@@ -1513,8 +1513,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "T to Con",
+            "Nade": "smoke",
+            "Name": "T To Con",
             "Position": {
                 "X": 1450.9662,
                 "Y": -153.06946,
@@ -1527,7 +1527,7 @@
             }
         },
         {
-            "Nade": "45",
+            "Nade": "smoke",
             "Name": "Insta Short",
             "Position": {
                 "X": 1220.4772,
@@ -1540,7 +1540,7 @@
             }
         },
         {
-            "Nade": "45",
+            "Nade": "smoke",
             "Name": "Insta Catwalk",
             "Position": {
                 "X": 1220.4772,
@@ -1554,7 +1554,7 @@
             }
         },
         {
-            "Nade": "45",
+            "Nade": "smoke",
             "Name": "Insta Con",
             "Position": {
                 "X": 1220.4772,
@@ -1568,8 +1568,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "T to Window",
+            "Nade": "smoke",
+            "Name": "T To Window",
             "Position": {
                 "X": 1299.6404,
                 "Y": -354.40662,
@@ -1582,8 +1582,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "T to Catwalk",
+            "Nade": "smoke",
+            "Name": "T To Catwalk",
             "Position": {
                 "X": 1422.922,
                 "Y": -367.97205,
@@ -1596,8 +1596,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "T to Short",
+            "Nade": "smoke",
+            "Name": "T To Short",
             "Position": {
                 "X": 1422.922,
                 "Y": -367.97205,
@@ -1609,8 +1609,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "T to Window",
+            "Nade": "smoke",
+            "Name": "T To Window",
             "Position": {
                 "X": 1422.922,
                 "Y": -367.97205,
@@ -1623,8 +1623,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "T to Con",
+            "Nade": "smoke",
+            "Name": "T To Con",
             "Position": {
                 "X": 1391.9661,
                 "Y": -790.0812,
@@ -1637,8 +1637,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "T to Short",
+            "Nade": "smoke",
+            "Name": "T To Short",
             "Position": {
                 "X": 1391.9661,
                 "Y": -790.0812,
@@ -1651,8 +1651,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "T to Jungle",
+            "Nade": "smoke",
+            "Name": "T To Jungle",
             "Position": {
                 "X": 1391.9661,
                 "Y": -790.0812,
@@ -1665,8 +1665,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "T to Ct",
+            "Nade": "smoke",
+            "Name": "T To Ct",
             "Position": {
                 "X": 1391.9661,
                 "Y": -790.0812,
@@ -1679,8 +1679,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Fence to Jungle",
+            "Nade": "smoke",
+            "Name": "Fence To Jungle",
             "Position": {
                 "X": 1256.9377,
                 "Y": -871.97095,
@@ -1693,8 +1693,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Fence to Short",
+            "Nade": "smoke",
+            "Name": "Fence To Short",
             "Position": {
                 "X": 1256.9377,
                 "Y": -871.97095,
@@ -1707,8 +1707,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Fence to Ct",
+            "Nade": "smoke",
+            "Name": "Fence To Ct",
             "Position": {
                 "X": 1256.9377,
                 "Y": -871.97095,
@@ -1721,8 +1721,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Fecne to Ct",
+            "Nade": "smoke",
+            "Name": "Fecne To Ct",
             "Position": {
                 "X": 1280.0337,
                 "Y": -927.32886,
@@ -1735,8 +1735,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Palace Entrance to Short",
+            "Nade": "smoke",
+            "Name": "Palace Entrance To Short",
             "Position": {
                 "X": 1398.9686,
                 "Y": -1255.9688,
@@ -1749,8 +1749,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Top Fence to Catwalk",
+            "Nade": "smoke",
+            "Name": "Top Fence To Catwalk",
             "Position": {
                 "X": 1261.6873,
                 "Y": -888.3469,
@@ -1763,8 +1763,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Top Fence to Con",
+            "Nade": "smoke",
+            "Name": "Top Fence To Con",
             "Position": {
                 "X": 1261.6873,
                 "Y": -888.3469,
@@ -1777,8 +1777,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Top Fence to Jungle",
+            "Nade": "smoke",
+            "Name": "Top Fence To Jungle",
             "Position": {
                 "X": 1261.6873,
                 "Y": -888.3469,
@@ -1791,8 +1791,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Top Fence to Ct",
+            "Nade": "smoke",
+            "Name": "Top Fence To Ct",
             "Position": {
                 "X": 1261.6873,
                 "Y": -888.3469,
@@ -1805,8 +1805,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Top Fence to Ct",
+            "Nade": "smoke",
+            "Name": "Top Fence To Ct",
             "Position": {
                 "X": 1261.6873,
                 "Y": -888.3469,
@@ -1819,8 +1819,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "T staircase to Catwalk",
+            "Nade": "smoke",
+            "Name": "T staircase To Catwalk",
             "Position": {
                 "X": 1239.9668,
                 "Y": -1159.9688,
@@ -1833,8 +1833,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "T staircase to Window",
+            "Nade": "smoke",
+            "Name": "T staircase To Window",
             "Position": {
                 "X": 1239.9668,
                 "Y": -1159.9688,
@@ -1847,8 +1847,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "T staircase to Stairs",
+            "Nade": "smoke",
+            "Name": "T staircase To Stairs",
             "Position": {
                 "X": 1239.9684,
                 "Y": -1128.1879,
@@ -1861,8 +1861,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Step to Stairs",
+            "Nade": "smoke",
+            "Name": "Step To Stairs",
             "Position": {
                 "X": 1151.508,
                 "Y": -1183.9701,
@@ -1874,8 +1874,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "T staircase to Jungle",
+            "Nade": "smoke",
+            "Name": "T staircase To Jungle",
             "Position": {
                 "X": 1127.9685,
                 "Y": -1183.9688,
@@ -1888,8 +1888,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Alley to Jungle ",
+            "Nade": "smoke",
+            "Name": "Alley To Jungle ",
             "Position": {
                 "X": 1090.6417,
                 "Y": -1014.0862,
@@ -1902,8 +1902,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Alley to Ct",
+            "Nade": "smoke",
+            "Name": "Alley To Ct",
             "Position": {
                 "X": 1090.6417,
                 "Y": -1014.0862,
@@ -1916,8 +1916,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "T staircase to Ct",
+            "Nade": "smoke",
+            "Name": "T staircase To Ct",
             "Position": {
                 "X": 1105.4197,
                 "Y": -1009.3789,
@@ -1930,8 +1930,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Door to Triple",
+            "Nade": "smoke",
+            "Name": "Door To Triple",
             "Position": {
                 "X": 935.9597,
                 "Y": -1032.0848,
@@ -1944,8 +1944,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Door to Triple ",
+            "Nade": "smoke",
+            "Name": "Door To Triple ",
             "Position": {
                 "X": 906.17523,
                 "Y": -1036.0304,
@@ -1958,8 +1958,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Door to Jungle",
+            "Nade": "smoke",
+            "Name": "Door To Jungle",
             "Position": {
                 "X": 906.17523,
                 "Y": -1036.0304,
@@ -1972,8 +1972,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Door to Stairs",
+            "Nade": "smoke",
+            "Name": "Door To Stairs",
             "Position": {
                 "X": 906.17523,
                 "Y": -1036.0304,
@@ -1986,8 +1986,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Top Alley to Ct",
+            "Nade": "smoke",
+            "Name": "Top Alley To Ct",
             "Position": {
                 "X": 783.40594,
                 "Y": -1204.328,
@@ -2000,8 +2000,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Top Alley to Jungle",
+            "Nade": "smoke",
+            "Name": "Top Alley To Jungle",
             "Position": {
                 "X": 783.40594,
                 "Y": -1204.328,
@@ -2014,8 +2014,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Top Alley to Stairs",
+            "Nade": "smoke",
+            "Name": "Top Alley To Stairs",
             "Position": {
                 "X": 783.40594,
                 "Y": -1204.328,
@@ -2028,8 +2028,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Steps to Stairs",
+            "Nade": "smoke",
+            "Name": "Steps To Stairs",
             "Position": {
                 "X": 682.09784,
                 "Y": -1130.0283,
@@ -2042,8 +2042,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Top Alley to Jungle",
+            "Nade": "smoke",
+            "Name": "Top Alley To Jungle",
             "Position": {
                 "X": 815.9676,
                 "Y": -1419.458,
@@ -2055,8 +2055,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Top Alley to Jungle",
+            "Nade": "smoke",
+            "Name": "Top Alley To Jungle",
             "Position": {
                 "X": 815.96857,
                 "Y": -1467.0302,
@@ -2068,8 +2068,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Top Alley to Jungle",
+            "Nade": "smoke",
+            "Name": "Top Alley To Jungle",
             "Position": {
                 "X": 814.9687,
                 "Y": -1548.979,
@@ -2081,8 +2081,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Top Alley to Stairs",
+            "Nade": "smoke",
+            "Name": "Top Alley To Stairs",
             "Position": {
                 "X": 814.9687,
                 "Y": -1548.979,
@@ -2096,8 +2096,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Top Alley to Jungle",
+            "Nade": "smoke",
+            "Name": "Top Alley To Jungle",
             "Position": {
                 "X": 814.9687,
                 "Y": -1548.979,
@@ -2110,8 +2110,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Top Alley to Stairs",
+            "Nade": "smoke",
+            "Name": "Top Alley To Stairs",
             "Position": {
                 "X": 814.9687,
                 "Y": -1548.979,
@@ -2123,8 +2123,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Lower Alley to Stairs",
+            "Nade": "smoke",
+            "Name": "Lower Alley To Stairs",
             "Position": {
                 "X": 743.9675,
                 "Y": -1400.2759,
@@ -2136,8 +2136,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Lower Alley to Jungle",
+            "Nade": "smoke",
+            "Name": "Lower Alley To Jungle",
             "Position": {
                 "X": 743.9675,
                 "Y": -1400.2759,
@@ -2150,8 +2150,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Lower Alley to Stairs",
+            "Nade": "smoke",
+            "Name": "Lower Alley To Stairs",
             "Position": {
                 "X": 743.9675,
                 "Y": -1400.2759,
@@ -2164,8 +2164,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Sandwich to Ramp",
+            "Nade": "smoke",
+            "Name": "Sandwich To Ramp",
             "Position": {
                 "X": 151.96617,
                 "Y": -1914.0313,
@@ -2178,8 +2178,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Shadow to Palace",
+            "Nade": "smoke",
+            "Name": "Shadow To Palace",
             "Position": {
                 "X": 151.96875,
                 "Y": -2071.9675,
@@ -2191,8 +2191,8 @@
             }
         },
         {
-            "Nade": "43",
-            "Name": "Van to Apps",
+            "Nade": "flashbang",
+            "Name": "Van To Apps",
             "Position": {
                 "X": -2114.0313,
                 "Y": 831.96875,
@@ -2204,8 +2204,8 @@
             }
         },
         {
-            "Nade": "43",
-            "Name": "Van to Apps",
+            "Nade": "flashbang",
+            "Name": "Van To Apps",
             "Position": {
                 "X": -2114.0313,
                 "Y": 831.96875,
@@ -2217,8 +2217,8 @@
             }
         },
         {
-            "Nade": "43",
-            "Name": "Van to Apps",
+            "Nade": "flashbang",
+            "Name": "Van To Apps",
             "Position": {
                 "X": -2114.0313,
                 "Y": 831.96875,
@@ -2230,8 +2230,8 @@
             }
         },
         {
-            "Nade": "43",
-            "Name": "Van to Apps",
+            "Nade": "flashbang",
+            "Name": "Van To Apps",
             "Position": {
                 "X": -2114.0313,
                 "Y": 831.96875,
@@ -2244,8 +2244,8 @@
             }
         },
         {
-            "Nade": "43",
-            "Name": "Van to Apps",
+            "Nade": "flashbang",
+            "Name": "Van To Apps",
             "Position": {
                 "X": -2114.0313,
                 "Y": 831.96875,
@@ -2258,8 +2258,8 @@
             }
         },
         {
-            "Nade": "43",
-            "Name": "Apps to Close B",
+            "Nade": "flashbang",
+            "Name": "Apps To Close B",
             "Position": {
                 "X": -1471.9688,
                 "Y": 664.0342,
@@ -2271,8 +2271,8 @@
             }
         },
         {
-            "Nade": "43",
-            "Name": "Top Mid to Con",
+            "Nade": "flashbang",
+            "Name": "Top Mid To Con",
             "Position": {
                 "X": 176.03514,
                 "Y": -231.63782,
@@ -2284,8 +2284,8 @@
             }
         },
         {
-            "Nade": "43",
-            "Name": "T to A",
+            "Nade": "flashbang",
+            "Name": "T To A",
             "Position": {
                 "X": 865.854,
                 "Y": -1036.0314,
@@ -2297,8 +2297,8 @@
             }
         },
         {
-            "Nade": "43",
-            "Name": "T to A",
+            "Nade": "flashbang",
+            "Name": "T To A",
             "Position": {
                 "X": 865.854,
                 "Y": -1036.0314,
@@ -2310,8 +2310,8 @@
             }
         },
         {
-            "Nade": "43",
-            "Name": "Sandwich to Ramp",
+            "Nade": "flashbang",
+            "Name": "Sandwich To Ramp",
             "Position": {
                 "X": 151.96938,
                 "Y": -1914.0302,
@@ -2324,8 +2324,8 @@
             }
         },
         {
-            "Nade": "43",
-            "Name": "Shadow to Palace",
+            "Nade": "flashbang",
+            "Name": "Shadow To Palace",
             "Position": {
                 "X": 151.96875,
                 "Y": -2071.9714,
@@ -2337,8 +2337,8 @@
             }
         },
         {
-            "Nade": "43",
-            "Name": "Ct to A",
+            "Nade": "flashbang",
+            "Name": "Ct To A",
             "Position": {
                 "X": -1022.8666,
                 "Y": -2269.5212,
@@ -2351,8 +2351,8 @@
             }
         },
         {
-            "Nade": "43",
-            "Name": "Ct to A",
+            "Nade": "flashbang",
+            "Name": "Ct To A",
             "Position": {
                 "X": -1022.8666,
                 "Y": -2269.5212,
@@ -2364,7 +2364,7 @@
             }
         },
         {
-            "Nade": "43",
+            "Nade": "flashbang",
             "Name": "Stairs Pop Flash",
             "Position": {
                 "X": -497.1947,
@@ -2377,7 +2377,7 @@
             }
         },
         {
-            "Nade": "43",
+            "Nade": "flashbang",
             "Name": "Stairs Pop Flash",
             "Position": {
                 "X": -497.1947,
@@ -2391,7 +2391,7 @@
             }
         },
         {
-            "Nade": "43",
+            "Nade": "flashbang",
             "Name": "Stairs Pop Flash",
             "Position": {
                 "X": -509.9225,
@@ -2405,7 +2405,7 @@
             }
         },
         {
-            "Nade": "43",
+            "Nade": "flashbang",
             "Name": "Stairs Pop Flash",
             "Position": {
                 "X": -509.9225,
@@ -2418,7 +2418,7 @@
             }
         },
         {
-            "Nade": "43",
+            "Nade": "flashbang",
             "Name": "Stairs Pop Flash",
             "Position": {
                 "X": -509.9225,
@@ -2432,7 +2432,7 @@
             }
         },
         {
-            "Nade": "43",
+            "Nade": "flashbang",
             "Name": "Stairs Pop Flash",
             "Position": {
                 "X": -509.9225,
@@ -2445,7 +2445,7 @@
             }
         },
         {
-            "Nade": "43",
+            "Nade": "flashbang",
             "Name": "Stairs Pop Flash",
             "Position": {
                 "X": -504.9944,
@@ -2459,7 +2459,7 @@
             }
         },
         {
-            "Nade": "43",
+            "Nade": "flashbang",
             "Name": "Stairs Pop Flash",
             "Position": {
                 "X": -504.9944,
@@ -2472,7 +2472,7 @@
             }
         },
         {
-            "Nade": "43",
+            "Nade": "flashbang",
             "Name": "Stairs Pop Flash",
             "Position": {
                 "X": -504.9944,
@@ -2486,8 +2486,8 @@
             }
         },
         {
-            "Nade": "43",
-            "Name": "Jungle to Ramp",
+            "Nade": "flashbang",
+            "Name": "Jungle To Ramp",
             "Position": {
                 "X": -791.7212,
                 "Y": -1534.3639,
@@ -2499,8 +2499,8 @@
             }
         },
         {
-            "Nade": "43",
-            "Name": "Jungle to Ramp",
+            "Nade": "flashbang",
+            "Name": "Jungle To Ramp",
             "Position": {
                 "X": -1119.9679,
                 "Y": -1527.9688,
@@ -2513,7 +2513,7 @@
             }
         },
         {
-            "Nade": "43",
+            "Nade": "flashbang",
             "Name": "Window Flash",
             "Position": {
                 "X": -1120.0314,
@@ -2526,8 +2526,8 @@
             }
         },
         {
-            "Nade": "43",
-            "Name": "Bench to Window",
+            "Nade": "flashbang",
+            "Name": "Bench To Window",
             "Position": {
                 "X": -1071.9688,
                 "Y": -788.9686,
@@ -2539,8 +2539,8 @@
             }
         },
         {
-            "Nade": "43",
-            "Name": "Under to Window",
+            "Nade": "flashbang",
+            "Name": "Under To Window",
             "Position": {
                 "X": -1037.187,
                 "Y": -361.3769,
@@ -2552,8 +2552,8 @@
             }
         },
         {
-            "Nade": "48",
-            "Name": "Default to Market Window",
+            "Nade": "incendiary",
+            "Name": "Default To Market Window",
             "Position": {
                 "X": -1969.0314,
                 "Y": 450.03125,
@@ -2567,8 +2567,8 @@
             }
         },
         {
-            "Nade": "48",
-            "Name": "Default to Market Door",
+            "Nade": "incendiary",
+            "Name": "Default To Market Door",
             "Position": {
                 "X": -1969.0314,
                 "Y": 450.03125,
@@ -2582,8 +2582,8 @@
             }
         },
         {
-            "Nade": "48",
-            "Name": "Van to Apps",
+            "Nade": "incendiary",
+            "Name": "Van To Apps",
             "Position": {
                 "X": -2187.9465,
                 "Y": 804.5636,
@@ -2595,8 +2595,8 @@
             }
         },
         {
-            "Nade": "48",
-            "Name": "Truck to Apps",
+            "Nade": "incendiary",
+            "Name": "Truck To Apps",
             "Position": {
                 "X": -2325.3152,
                 "Y": 812.5418,
@@ -2608,8 +2608,8 @@
             }
         },
         {
-            "Nade": "48",
-            "Name": "Van Bumper to Apps",
+            "Nade": "incendiary",
+            "Name": "Van Bumper To Apps",
             "Position": {
                 "X": -2191.9617,
                 "Y": 711.04144,
@@ -2622,8 +2622,8 @@
             }
         },
         {
-            "Nade": "48",
-            "Name": "Apps to Default",
+            "Nade": "incendiary",
+            "Name": "Apps To Default",
             "Position": {
                 "X": -1334.8784,
                 "Y": 815.96857,
@@ -2635,8 +2635,8 @@
             }
         },
         {
-            "Nade": "48",
-            "Name": "Apps to Close B",
+            "Nade": "incendiary",
+            "Name": "Apps To Close B",
             "Position": {
                 "X": -1471.9688,
                 "Y": 664.0329,
@@ -2648,8 +2648,8 @@
             }
         },
         {
-            "Nade": "48",
-            "Name": "Under to Window",
+            "Nade": "incendiary",
+            "Name": "Under To Window",
             "Position": {
                 "X": -1007.4829,
                 "Y": -304.57306,
@@ -2661,8 +2661,8 @@
             }
         },
         {
-            "Nade": "48",
-            "Name": "Bench to Window",
+            "Nade": "incendiary",
+            "Name": "Bench To Window",
             "Position": {
                 "X": -1071.9688,
                 "Y": -788.96796,
@@ -2674,8 +2674,8 @@
             }
         },
         {
-            "Nade": "48",
-            "Name": "Con to Top Mid",
+            "Nade": "incendiary",
+            "Name": "Con To Top Mid",
             "Position": {
                 "X": -703.5978,
                 "Y": -868.93726,
@@ -2688,8 +2688,8 @@
             }
         },
         {
-            "Nade": "48",
-            "Name": "Con to Top Mid",
+            "Nade": "incendiary",
+            "Name": "Con To Top Mid",
             "Position": {
                 "X": -703.5978,
                 "Y": -868.93726,
@@ -2701,8 +2701,8 @@
             }
         },
         {
-            "Nade": "48",
-            "Name": "Con to Default",
+            "Nade": "incendiary",
+            "Name": "Con To Default",
             "Position": {
                 "X": -667.1224,
                 "Y": -1172.9689,
@@ -2714,8 +2714,8 @@
             }
         },
         {
-            "Nade": "48",
-            "Name": "Jungle to Under Balcony",
+            "Nade": "incendiary",
+            "Name": "Jungle To Under Balcony",
             "Position": {
                 "X": -703.5343,
                 "Y": -1339.0168,
@@ -2727,8 +2727,8 @@
             }
         },
         {
-            "Nade": "48",
-            "Name": "Jungle to Under Balcony",
+            "Nade": "incendiary",
+            "Name": "Jungle To Under Balcony",
             "Position": {
                 "X": -703.5343,
                 "Y": -1339.0168,
@@ -2740,8 +2740,8 @@
             }
         },
         {
-            "Nade": "48",
-            "Name": "Jungle to Palace",
+            "Nade": "incendiary",
+            "Name": "Jungle To Palace",
             "Position": {
                 "X": -691.6819,
                 "Y": -1393.6555,
@@ -2754,8 +2754,8 @@
             }
         },
         {
-            "Nade": "48",
-            "Name": "Jungle to Tetris",
+            "Nade": "incendiary",
+            "Name": "Jungle To Tetris",
             "Position": {
                 "X": -1119.9688,
                 "Y": -1527.9688,
@@ -2767,8 +2767,8 @@
             }
         },
         {
-            "Nade": "48",
-            "Name": "Jungle to Tetris",
+            "Nade": "incendiary",
+            "Name": "Jungle To Tetris",
             "Position": {
                 "X": -1119.9688,
                 "Y": -1527.9688,
@@ -2780,8 +2780,8 @@
             }
         },
         {
-            "Nade": "48",
-            "Name": "Jungle to Ramp",
+            "Nade": "incendiary",
+            "Name": "Jungle To Ramp",
             "Position": {
                 "X": -1119.9688,
                 "Y": -1527.9688,
@@ -2794,8 +2794,8 @@
             }
         },
         {
-            "Nade": "48",
-            "Name": "Jungle to Default",
+            "Nade": "incendiary",
+            "Name": "Jungle To Default",
             "Position": {
                 "X": -1056.0887,
                 "Y": -1305.0361,
@@ -2807,8 +2807,8 @@
             }
         },
         {
-            "Nade": "48",
-            "Name": "Jungle to Bench",
+            "Nade": "incendiary",
+            "Name": "Jungle To Bench",
             "Position": {
                 "X": -1176.031,
                 "Y": -1190.5116,
@@ -2820,8 +2820,8 @@
             }
         },
         {
-            "Nade": "48",
-            "Name": "Under to Window",
+            "Nade": "incendiary",
+            "Name": "Under To Window",
             "Position": {
                 "X": -1040.5193,
                 "Y": -363.28302,
@@ -2833,8 +2833,8 @@
             }
         },
         {
-            "Nade": "48",
-            "Name": "Jungle to Ramp",
+            "Nade": "incendiary",
+            "Name": "Jungle To Ramp",
             "Position": {
                 "X": -790.7978,
                 "Y": -1532.1733,
@@ -2846,8 +2846,8 @@
             }
         },
         {
-            "Nade": "48",
-            "Name": "Ramp to Sandwich",
+            "Nade": "incendiary",
+            "Name": "Ramp To Sandwich",
             "Position": {
                 "X": 460.972,
                 "Y": -1436.0313,
@@ -2859,8 +2859,8 @@
             }
         },
         {
-            "Nade": "48",
-            "Name": "Stairs to Firebox",
+            "Nade": "incendiary",
+            "Name": "Stairs To Firebox",
             "Position": {
                 "X": -519.4959,
                 "Y": -1373.6528,
@@ -2872,8 +2872,8 @@
             }
         },
         {
-            "Nade": "48",
-            "Name": "Stairs to Default",
+            "Nade": "incendiary",
+            "Name": "Stairs To Default",
             "Position": {
                 "X": -519.4959,
                 "Y": -1373.6528,
@@ -2885,8 +2885,8 @@
             }
         },
         {
-            "Nade": "48",
-            "Name": "Stairs to Firebox",
+            "Nade": "incendiary",
+            "Name": "Stairs To Firebox",
             "Position": {
                 "X": -518.19147,
                 "Y": -1375.9113,
@@ -2899,8 +2899,8 @@
             }
         },
         {
-            "Nade": "48",
-            "Name": "Stairs to Default",
+            "Nade": "incendiary",
+            "Name": "Stairs To Default",
             "Position": {
                 "X": -518.19147,
                 "Y": -1375.9113,
@@ -2913,8 +2913,8 @@
             }
         },
         {
-            "Nade": "48",
-            "Name": "Ct to Firebox",
+            "Nade": "incendiary",
+            "Name": "Ct To Firebox",
             "Position": {
                 "X": -1211.5217,
                 "Y": -2281.8013,
@@ -2926,8 +2926,8 @@
             }
         },
         {
-            "Nade": "48",
-            "Name": "Ct to Firebox",
+            "Nade": "incendiary",
+            "Name": "Ct To Firebox",
             "Position": {
                 "X": -1211.5217,
                 "Y": -2281.8013,
@@ -2939,8 +2939,8 @@
             }
         },
         {
-            "Nade": "48",
-            "Name": "Ct to Default",
+            "Nade": "incendiary",
+            "Name": "Ct To Default",
             "Position": {
                 "X": -1214.1884,
                 "Y": -2282.3572,
@@ -2954,8 +2954,8 @@
             }
         },
         {
-            "Nade": "48",
-            "Name": "Ct to Tetris",
+            "Nade": "incendiary",
+            "Name": "Ct To Tetris",
             "Position": {
                 "X": -928.93713,
                 "Y": -2544.5957,
@@ -2968,8 +2968,8 @@
             }
         },
         {
-            "Nade": "48",
-            "Name": "Tripple to Ramp",
+            "Nade": "incendiary",
+            "Name": "Tripple To Ramp",
             "Position": {
                 "X": -798.222,
                 "Y": -2223.1528,
@@ -2981,8 +2981,8 @@
             }
         },
         {
-            "Nade": "48",
-            "Name": "Triple to Tetris",
+            "Nade": "incendiary",
+            "Name": "Triple To Tetris",
             "Position": {
                 "X": -798.222,
                 "Y": -2223.1528,
@@ -2994,8 +2994,8 @@
             }
         },
         {
-            "Nade": "48",
-            "Name": "Firebox to Tetris",
+            "Nade": "incendiary",
+            "Name": "Firebox To Tetris",
             "Position": {
                 "X": -284.20538,
                 "Y": -2412.1165,
@@ -3007,8 +3007,8 @@
             }
         },
         {
-            "Nade": "48",
-            "Name": "Firebox to Ramp",
+            "Nade": "incendiary",
+            "Name": "Firebox To Ramp",
             "Position": {
                 "X": -284.20538,
                 "Y": -2412.1165,
@@ -3020,8 +3020,8 @@
             }
         },
         {
-            "Nade": "48",
-            "Name": "Firebox to Stairs",
+            "Nade": "incendiary",
+            "Name": "Firebox To Stairs",
             "Position": {
                 "X": -284.20538,
                 "Y": -2412.1165,
@@ -3033,8 +3033,8 @@
             }
         },
         {
-            "Nade": "48",
-            "Name": "Firebox to Stairs",
+            "Nade": "incendiary",
+            "Name": "Firebox To Stairs",
             "Position": {
                 "X": -284.20538,
                 "Y": -2412.1165,
@@ -3046,8 +3046,8 @@
             }
         },
         {
-            "Nade": "48",
-            "Name": "Firebox to Con",
+            "Nade": "incendiary",
+            "Name": "Firebox To Con",
             "Position": {
                 "X": -284.20538,
                 "Y": -2412.1165,
@@ -3059,8 +3059,8 @@
             }
         },
         {
-            "Nade": "48",
-            "Name": "Tetris to Under Balcony",
+            "Nade": "incendiary",
+            "Name": "Tetris To Under Balcony",
             "Position": {
                 "X": -142.96814,
                 "Y": -1463.0479,
@@ -3072,8 +3072,8 @@
             }
         },
         {
-            "Nade": "48",
-            "Name": "Palace to Under Balcony",
+            "Nade": "incendiary",
+            "Name": "Palace To Under Balcony",
             "Position": {
                 "X": 18.830425,
                 "Y": -2362.777,
@@ -3085,8 +3085,8 @@
             }
         },
         {
-            "Nade": "48",
-            "Name": "Sandwich to Ramp",
+            "Nade": "incendiary",
+            "Name": "Sandwich To Ramp",
             "Position": {
                 "X": 151.96875,
                 "Y": -1914.0319,
@@ -3099,8 +3099,8 @@
             }
         },
         {
-            "Nade": "48",
-            "Name": "Shadow to Palace",
+            "Nade": "incendiary",
+            "Name": "Shadow To Palace",
             "Position": {
                 "X": 151.96875,
                 "Y": -2071.9668,
@@ -3112,8 +3112,8 @@
             }
         },
         {
-            "Nade": "44",
-            "Name": "Truck to Apps",
+            "Nade": "HE",
+            "Name": "Truck To Apps",
             "Position": {
                 "X": -2325.3108,
                 "Y": 812.5424,
@@ -3125,8 +3125,8 @@
             }
         },
         {
-            "Nade": "44",
-            "Name": "Van to Apps",
+            "Nade": "HE",
+            "Name": "Van To Apps",
             "Position": {
                 "X": -2189.9033,
                 "Y": 803.0426,
@@ -3138,8 +3138,8 @@
             }
         },
         {
-            "Nade": "44",
-            "Name": "Van Bumper to Apps",
+            "Nade": "HE",
+            "Name": "Van Bumper To Apps",
             "Position": {
                 "X": -2192.5034,
                 "Y": 708.0692,
@@ -3152,8 +3152,8 @@
             }
         },
         {
-            "Nade": "44",
-            "Name": "Default to Market",
+            "Nade": "HE",
+            "Name": "Default To Market",
             "Position": {
                 "X": -1969.0322,
                 "Y": 450.03125,
@@ -3167,8 +3167,8 @@
             }
         },
         {
-            "Nade": "44",
-            "Name": "Default to Market Door",
+            "Nade": "HE",
+            "Name": "Default To Market Door",
             "Position": {
                 "X": -1969.0322,
                 "Y": 450.03125,
@@ -3182,8 +3182,8 @@
             }
         },
         {
-            "Nade": "44",
-            "Name": "Apps to Default",
+            "Nade": "HE",
+            "Name": "Apps To Default",
             "Position": {
                 "X": -1334.2634,
                 "Y": 814.64996,
@@ -3195,8 +3195,8 @@
             }
         },
         {
-            "Nade": "44",
-            "Name": "Apps to Close B",
+            "Nade": "HE",
+            "Name": "Apps To Close B",
             "Position": {
                 "X": -1471.9688,
                 "Y": 664.0316,
@@ -3208,8 +3208,8 @@
             }
         },
         {
-            "Nade": "44",
-            "Name": "Apps to Under",
+            "Nade": "HE",
+            "Name": "Apps To Under",
             "Position": {
                 "X": -1247.9688,
                 "Y": -924.03143,
@@ -3221,8 +3221,8 @@
             }
         },
         {
-            "Nade": "44",
-            "Name": "Window to Under",
+            "Nade": "HE",
+            "Name": "Window To Under",
             "Position": {
                 "X": -1185.135,
                 "Y": -950.18994,
@@ -3234,8 +3234,8 @@
             }
         },
         {
-            "Nade": "44",
-            "Name": "Under to Jungle",
+            "Nade": "HE",
+            "Name": "Under To Jungle",
             "Position": {
                 "X": -1011.0851,
                 "Y": -302.9137,
@@ -3247,8 +3247,8 @@
             }
         },
         {
-            "Nade": "44",
-            "Name": "Under to Window",
+            "Nade": "HE",
+            "Name": "Under To Window",
             "Position": {
                 "X": -1011.0851,
                 "Y": -302.9137,
@@ -3260,8 +3260,8 @@
             }
         },
         {
-            "Nade": "44",
-            "Name": "Under to Window",
+            "Nade": "HE",
+            "Name": "Under To Window",
             "Position": {
                 "X": -1037.203,
                 "Y": -360.8858,
@@ -3273,8 +3273,8 @@
             }
         },
         {
-            "Nade": "44",
-            "Name": "Bench to Window",
+            "Nade": "HE",
+            "Name": "Bench To Window",
             "Position": {
                 "X": -1071.9683,
                 "Y": -788.94556,
@@ -3286,8 +3286,8 @@
             }
         },
         {
-            "Nade": "44",
-            "Name": "Jungle to Tetris",
+            "Nade": "HE",
+            "Name": "Jungle To Tetris",
             "Position": {
                 "X": -1119.9688,
                 "Y": -1527.9667,
@@ -3299,8 +3299,8 @@
             }
         },
         {
-            "Nade": "44",
-            "Name": "Jungle to Tetris",
+            "Nade": "HE",
+            "Name": "Jungle To Tetris",
             "Position": {
                 "X": -1119.9688,
                 "Y": -1527.9667,
@@ -3312,8 +3312,8 @@
             }
         },
         {
-            "Nade": "44",
-            "Name": "Jungle to Ramp",
+            "Nade": "HE",
+            "Name": "Jungle To Ramp",
             "Position": {
                 "X": -789.75964,
                 "Y": -1535.8473,
@@ -3325,8 +3325,8 @@
             }
         },
         {
-            "Nade": "44",
-            "Name": "Jungle to Palace",
+            "Nade": "HE",
+            "Name": "Jungle To Palace",
             "Position": {
                 "X": -691.87836,
                 "Y": -1398.0537,
@@ -3339,8 +3339,8 @@
             }
         },
         {
-            "Nade": "44",
-            "Name": "Stairs to Palace",
+            "Nade": "HE",
+            "Name": "Stairs To Palace",
             "Position": {
                 "X": -668.52966,
                 "Y": -1387.2609,
@@ -3352,8 +3352,8 @@
             }
         },
         {
-            "Nade": "44",
-            "Name": "Jungle to Under Balcony",
+            "Nade": "HE",
+            "Name": "Jungle To Under Balcony",
             "Position": {
                 "X": -704.9974,
                 "Y": -1334.9937,
@@ -3365,8 +3365,8 @@
             }
         },
         {
-            "Nade": "44",
-            "Name": "Con to Default",
+            "Nade": "HE",
+            "Name": "Con To Default",
             "Position": {
                 "X": -665.8632,
                 "Y": -1171.789,
@@ -3378,8 +3378,8 @@
             }
         },
         {
-            "Nade": "44",
-            "Name": "Stairs to Firebox",
+            "Nade": "HE",
+            "Name": "Stairs To Firebox",
             "Position": {
                 "X": -518.5976,
                 "Y": -1373.6392,
@@ -3391,8 +3391,8 @@
             }
         },
         {
-            "Nade": "44",
-            "Name": "Ramp to Sandwich",
+            "Nade": "HE",
+            "Name": "Ramp To Sandwich",
             "Position": {
                 "X": 460.9687,
                 "Y": -1436.0287,
@@ -3404,8 +3404,8 @@
             }
         },
         {
-            "Nade": "44",
-            "Name": "Tetris to Under Balcony",
+            "Nade": "HE",
+            "Name": "Tetris To Under Balcony",
             "Position": {
                 "X": -142.96814,
                 "Y": -1462.4929,
@@ -3417,8 +3417,8 @@
             }
         },
         {
-            "Nade": "44",
-            "Name": "Palace to Under Balcony",
+            "Nade": "HE",
+            "Name": "Palace To Under Balcony",
             "Position": {
                 "X": 19.06513,
                 "Y": -2363.0156,
@@ -3430,8 +3430,8 @@
             }
         },
         {
-            "Nade": "44",
-            "Name": "Ct to Firebox",
+            "Nade": "HE",
+            "Name": "Ct To Firebox",
             "Position": {
                 "X": -1212.1307,
                 "Y": -2281.214,
@@ -3443,8 +3443,8 @@
             }
         },
         {
-            "Nade": "44",
-            "Name": "Firebox to Tetris",
+            "Nade": "HE",
+            "Name": "Firebox To Tetris",
             "Position": {
                 "X": -284.21826,
                 "Y": -2412.9263,
@@ -3456,8 +3456,8 @@
             }
         },
         {
-            "Nade": "44",
-            "Name": "Firebox to Ramp",
+            "Nade": "HE",
+            "Name": "Firebox To Ramp",
             "Position": {
                 "X": -284.21826,
                 "Y": -2412.9263,
@@ -3469,8 +3469,8 @@
             }
         },
         {
-            "Nade": "44",
-            "Name": "Firebox to Stairs",
+            "Nade": "HE",
+            "Name": "Firebox To Stairs",
             "Position": {
                 "X": -284.21826,
                 "Y": -2412.9263,
@@ -3482,8 +3482,8 @@
             }
         },
         {
-            "Nade": "44",
-            "Name": "Sandwich to Ramp",
+            "Nade": "HE",
+            "Name": "Sandwich To Ramp",
             "Position": {
                 "X": 151.96767,
                 "Y": -1914.2426,
@@ -3496,8 +3496,8 @@
             }
         },
         {
-            "Nade": "44",
-            "Name": "Shadow to Palace",
+            "Nade": "HE",
+            "Name": "Shadow To Palace",
             "Position": {
                 "X": 151.96745,
                 "Y": -2071.9688,
@@ -3509,8 +3509,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Ct to Ramp",
+            "Nade": "smoke",
+            "Name": "Ct To Ramp",
             "Position": {
                 "X": -2031.971,
                 "Y": -1766.4891,
@@ -3523,8 +3523,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Ct to Ramp",
+            "Nade": "smoke",
+            "Name": "Ct To Ramp",
             "Position": {
                 "X": -2031.9705,
                 "Y": -1766.489,
@@ -3537,8 +3537,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Ct to Ramp",
+            "Nade": "smoke",
+            "Name": "Ct To Ramp",
             "Position": {
                 "X": -2026.3966,
                 "Y": -2029.9675,
@@ -3551,8 +3551,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Ct to Palace",
+            "Nade": "smoke",
+            "Name": "Ct To Palace",
             "Position": {
                 "X": -2026.3966,
                 "Y": -2029.9675,
@@ -3565,8 +3565,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Ct to Ramp",
+            "Nade": "smoke",
+            "Name": "Ct To Ramp",
             "Position": {
                 "X": -1748.2006,
                 "Y": -1735.6642,
@@ -3579,8 +3579,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Ct to Tetris",
+            "Nade": "smoke",
+            "Name": "Ct To Tetris",
             "Position": {
                 "X": -1746.2266,
                 "Y": -1737.941,
@@ -3593,8 +3593,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Ct to Palace",
+            "Nade": "smoke",
+            "Name": "Ct To Palace",
             "Position": {
                 "X": -1746.2266,
                 "Y": -1737.941,
@@ -3607,8 +3607,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Ct to Top Mid",
+            "Nade": "smoke",
+            "Name": "Ct To Top Mid",
             "Position": {
                 "X": -1746.2266,
                 "Y": -1737.941,
@@ -3621,8 +3621,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Ct to Top Mid (Right)",
+            "Nade": "smoke",
+            "Name": "Ct To Top Mid (Right)",
             "Position": {
                 "X": -1710.9684,
                 "Y": -1208.0313,
@@ -3635,8 +3635,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Ct to Chair",
+            "Nade": "smoke",
+            "Name": "Ct To Chair",
             "Position": {
                 "X": -1710.9684,
                 "Y": -1208.0313,
@@ -3649,8 +3649,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Ct to Apps",
+            "Nade": "smoke",
+            "Name": "Ct To Apps",
             "Position": {
                 "X": -1676.803,
                 "Y": -1208.0326,
@@ -3663,8 +3663,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Ct to Ramp",
+            "Nade": "smoke",
+            "Name": "Ct To Ramp",
             "Position": {
                 "X": -1711.441,
                 "Y": -1180.2106,
@@ -3677,8 +3677,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Ct to Palace",
+            "Nade": "smoke",
+            "Name": "Ct To Palace",
             "Position": {
                 "X": -1711.441,
                 "Y": -1180.2106,
@@ -3691,8 +3691,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Ct to Top Mid Right",
+            "Nade": "smoke",
+            "Name": "Ct To Top Mid Right",
             "Position": {
                 "X": -1711.441,
                 "Y": -1180.2106,
@@ -3705,8 +3705,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Ct to Palace",
+            "Nade": "smoke",
+            "Name": "Ct To Palace",
             "Position": {
                 "X": -1773.6216,
                 "Y": -2029.9702,
@@ -3719,8 +3719,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Ct to Palace",
+            "Nade": "smoke",
+            "Name": "Ct To Palace",
             "Position": {
                 "X": -1547.8643,
                 "Y": -2407.9673,
@@ -3733,8 +3733,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Ct to Top Mid Right",
+            "Nade": "smoke",
+            "Name": "Ct To Top Mid Right",
             "Position": {
                 "X": -1547.9817,
                 "Y": -2407.9692,
@@ -3747,8 +3747,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "T to Short",
+            "Nade": "smoke",
+            "Name": "T To Short",
             "Position": {
                 "X": 875.9656,
                 "Y": -1208.8365,
@@ -3761,8 +3761,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "T to Window",
+            "Nade": "smoke",
+            "Name": "T To Window",
             "Position": {
                 "X": 875.9656,
                 "Y": -1208.8365,
@@ -3775,8 +3775,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "T to Tetris Stairs Block ",
+            "Nade": "smoke",
+            "Name": "T To Tetris Stairs Block ",
             "Position": {
                 "X": 827.82336,
                 "Y": -1255.3915,
@@ -3789,8 +3789,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "StairCase to Stairs",
+            "Nade": "smoke",
+            "Name": "StairCase To Stairs",
             "Position": {
                 "X": 560.8314,
                 "Y": -1128.0313,
@@ -3803,8 +3803,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "StairCase to Tripple",
+            "Nade": "smoke",
+            "Name": "StairCase To Tripple",
             "Position": {
                 "X": 560.8314,
                 "Y": -1128.0313,
@@ -3817,8 +3817,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Fance to Window",
+            "Nade": "smoke",
+            "Name": "Fance To Window",
             "Position": {
                 "X": 1253.9874,
                 "Y": -1190.5416,
@@ -3831,8 +3831,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Fence to Short",
+            "Nade": "smoke",
+            "Name": "Fence To Short",
             "Position": {
                 "X": 1253.9874,
                 "Y": -1190.5416,
@@ -3845,8 +3845,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "First Stair to Window",
+            "Nade": "smoke",
+            "Name": "First Stair To Window",
             "Position": {
                 "X": 1239.972,
                 "Y": -1219.9686,
@@ -3859,8 +3859,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "First Stair to Short",
+            "Nade": "smoke",
+            "Name": "First Stair To Short",
             "Position": {
                 "X": 1239.972,
                 "Y": -1219.9686,
@@ -3873,8 +3873,8 @@
             }
         },
         {
-            "Nade": "48",
-            "Name": "Window to Top Mid",
+            "Nade": "incendiary",
+            "Name": "Window To Top Mid",
             "Position": {
                 "X": -1130.0314,
                 "Y": -696.77435,
@@ -3887,8 +3887,8 @@
             }
         },
         {
-            "Nade": "48",
-            "Name": "Window to Top Mid",
+            "Nade": "incendiary",
+            "Name": "Window To Top Mid",
             "Position": {
                 "X": -1121.3569,
                 "Y": -551.0253,
@@ -3901,8 +3901,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Crouch to Default",
+            "Nade": "smoke",
+            "Name": "Crouch To Default",
             "Position": {
                 "X": -1431.5028,
                 "Y": -870.8024,
@@ -3915,8 +3915,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Crouch to Default",
+            "Nade": "smoke",
+            "Name": "Crouch To Default",
             "Position": {
                 "X": -1431.5028,
                 "Y": -870.8024,
@@ -3929,8 +3929,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Crouch to Palace",
+            "Nade": "smoke",
+            "Name": "Crouch To Palace",
             "Position": {
                 "X": -1431.5028,
                 "Y": -870.8024,
@@ -3942,8 +3942,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Crouch to Ramp",
+            "Nade": "smoke",
+            "Name": "Crouch To Ramp",
             "Position": {
                 "X": -1431.5028,
                 "Y": -870.8024,
@@ -3956,8 +3956,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Crouch to Tetris",
+            "Nade": "smoke",
+            "Name": "Crouch To Tetris",
             "Position": {
                 "X": -1431.5028,
                 "Y": -870.8024,
@@ -3970,8 +3970,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Crouch to Palace",
+            "Nade": "smoke",
+            "Name": "Crouch To Palace",
             "Position": {
                 "X": -1459.9015,
                 "Y": -918.97974,
@@ -3984,8 +3984,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Crouch to Ramp",
+            "Nade": "smoke",
+            "Name": "Crouch To Ramp",
             "Position": {
                 "X": -1459.9015,
                 "Y": -918.97974,
@@ -3998,8 +3998,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Crouch to Tetris",
+            "Nade": "smoke",
+            "Name": "Crouch To Tetris",
             "Position": {
                 "X": -1459.9015,
                 "Y": -918.97974,
@@ -4012,8 +4012,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Crouch to Default",
+            "Nade": "smoke",
+            "Name": "Crouch To Default",
             "Position": {
                 "X": -1459.9015,
                 "Y": -918.97974,
@@ -4026,8 +4026,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Crouch to Default",
+            "Nade": "smoke",
+            "Name": "Crouch To Default",
             "Position": {
                 "X": -1459.9015,
                 "Y": -918.97974,
@@ -4040,8 +4040,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Crouch to Apps",
+            "Nade": "smoke",
+            "Name": "Crouch To Apps",
             "Position": {
                 "X": -1462.78,
                 "Y": -1173.9685,
@@ -4054,8 +4054,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Crouch to Default",
+            "Nade": "smoke",
+            "Name": "Crouch To Default",
             "Position": {
                 "X": -1462.78,
                 "Y": -1173.9685,
@@ -4068,8 +4068,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Crouch to Top Mid Right",
+            "Nade": "smoke",
+            "Name": "Crouch To Top Mid Right",
             "Position": {
                 "X": -1462.78,
                 "Y": -1173.9685,
@@ -4082,8 +4082,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Market to Palace",
+            "Nade": "smoke",
+            "Name": "Market To Palace",
             "Position": {
                 "X": -1711.9585,
                 "Y": -968.00275,
@@ -4096,8 +4096,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Market to Default",
+            "Nade": "smoke",
+            "Name": "Market To Default",
             "Position": {
                 "X": -1711.9585,
                 "Y": -968.00275,
@@ -4110,8 +4110,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Market to Ramp",
+            "Nade": "smoke",
+            "Name": "Market To Ramp",
             "Position": {
                 "X": -1711.9585,
                 "Y": -968.00275,
@@ -4124,8 +4124,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Market to Tetris",
+            "Nade": "smoke",
+            "Name": "Market To Tetris",
             "Position": {
                 "X": -1711.9585,
                 "Y": -968.00275,
@@ -4138,8 +4138,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Market to Palace",
+            "Nade": "smoke",
+            "Name": "Market To Palace",
             "Position": {
                 "X": -1711.9667,
                 "Y": -895.9891,
@@ -4152,8 +4152,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Market to Default",
+            "Nade": "smoke",
+            "Name": "Market To Default",
             "Position": {
                 "X": -1711.9667,
                 "Y": -895.9891,
@@ -4166,8 +4166,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Market to Ramp",
+            "Nade": "smoke",
+            "Name": "Market To Ramp",
             "Position": {
                 "X": -1711.9667,
                 "Y": -895.9891,
@@ -4180,8 +4180,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Market to Tetris",
+            "Nade": "smoke",
+            "Name": "Market To Tetris",
             "Position": {
                 "X": -1711.9667,
                 "Y": -895.9891,
@@ -4194,8 +4194,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Market to Top Mid Right",
+            "Nade": "smoke",
+            "Name": "Market To Top Mid Right",
             "Position": {
                 "X": -1711.9667,
                 "Y": -895.9891,
@@ -4208,8 +4208,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Ct to Palace",
+            "Nade": "smoke",
+            "Name": "Ct To Palace",
             "Position": {
                 "X": -2031.9688,
                 "Y": -1962.0225,
@@ -4222,8 +4222,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Ct to Ramp",
+            "Nade": "smoke",
+            "Name": "Ct To Ramp",
             "Position": {
                 "X": -2031.9688,
                 "Y": -1962.0225,
@@ -4236,8 +4236,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Ct to Palace",
+            "Nade": "smoke",
+            "Name": "Ct To Palace",
             "Position": {
                 "X": -2031.9686,
                 "Y": -1819.9756,
@@ -4250,8 +4250,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Ct to Ramp",
+            "Nade": "smoke",
+            "Name": "Ct To Ramp",
             "Position": {
                 "X": -2031.9686,
                 "Y": -1819.9756,
@@ -4264,8 +4264,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Ct to Ramp",
+            "Nade": "smoke",
+            "Name": "Ct To Ramp",
             "Position": {
                 "X": -2031.9686,
                 "Y": -1819.9756,
@@ -4278,8 +4278,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Ct to Ramp",
+            "Nade": "smoke",
+            "Name": "Ct To Ramp",
             "Position": {
                 "X": -902.03125,
                 "Y": -2603.0774,
@@ -4292,8 +4292,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Connector to Palace",
+            "Nade": "smoke",
+            "Name": "Connector To Palace",
             "Position": {
                 "X": -709.9677,
                 "Y": -1272.8315,
@@ -4305,8 +4305,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Jungle to Ramp",
+            "Nade": "smoke",
+            "Name": "Jungle To Ramp",
             "Position": {
                 "X": -1119.9683,
                 "Y": -1527.9473,
@@ -4318,8 +4318,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Short to Palace",
+            "Nade": "smoke",
+            "Name": "Short To Palace",
             "Position": {
                 "X": -903.97266,
                 "Y": -499.96973,
@@ -4332,8 +4332,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Short to Ramp",
+            "Nade": "smoke",
+            "Name": "Short To Ramp",
             "Position": {
                 "X": -903.97266,
                 "Y": -499.96973,
@@ -4345,8 +4345,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Short to Default",
+            "Nade": "smoke",
+            "Name": "Short To Default",
             "Position": {
                 "X": -903.96875,
                 "Y": -427.9007,
@@ -4359,8 +4359,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Short to Palace",
+            "Nade": "smoke",
+            "Name": "Short To Palace",
             "Position": {
                 "X": -903.96875,
                 "Y": -427.9007,
@@ -4373,8 +4373,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Short to Ramp",
+            "Nade": "smoke",
+            "Name": "Short To Ramp",
             "Position": {
                 "X": -903.96875,
                 "Y": -427.9007,
@@ -4387,8 +4387,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Short to Palace",
+            "Nade": "smoke",
+            "Name": "Short To Palace",
             "Position": {
                 "X": -830.6982,
                 "Y": -490.7309,
@@ -4401,8 +4401,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Short to Ramp",
+            "Nade": "smoke",
+            "Name": "Short To Ramp",
             "Position": {
                 "X": -830.6982,
                 "Y": -490.7309,
@@ -4415,8 +4415,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Under Window to Ramp",
+            "Nade": "smoke",
+            "Name": "Under Window To Ramp",
             "Position": {
                 "X": -1071.9663,
                 "Y": -647.96875,
@@ -4429,8 +4429,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "T to Short",
+            "Nade": "smoke",
+            "Name": "T To Short",
             "Position": {
                 "X": 1359.6827,
                 "Y": 519.96875,
@@ -4443,8 +4443,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "T to Con",
+            "Nade": "smoke",
+            "Name": "T To Con",
             "Position": {
                 "X": 1359.6827,
                 "Y": 519.96875,
@@ -4457,8 +4457,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "StairCase to Stairs",
+            "Nade": "smoke",
+            "Name": "StairCase To Stairs",
             "Position": {
                 "X": 592.03125,
                 "Y": -1200.0314,
@@ -4471,8 +4471,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "StairCase to Tripple",
+            "Nade": "smoke",
+            "Name": "StairCase To Tripple",
             "Position": {
                 "X": 592.03125,
                 "Y": -1200.0314,
@@ -4485,8 +4485,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "StairCase to Jungle",
+            "Nade": "smoke",
+            "Name": "StairCase To Jungle",
             "Position": {
                 "X": 592.03125,
                 "Y": -1200.0314,
@@ -4499,8 +4499,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Staircase to Short",
+            "Nade": "smoke",
+            "Name": "Staircase To Short",
             "Position": {
                 "X": 592.0313,
                 "Y": -1200.0282,
@@ -4513,8 +4513,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Staircase to Short",
+            "Nade": "smoke",
+            "Name": "Staircase To Short",
             "Position": {
                 "X": 621.5247,
                 "Y": -1200.0313,
@@ -4527,8 +4527,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Staircase to Stairs",
+            "Nade": "smoke",
+            "Name": "Staircase To Stairs",
             "Position": {
                 "X": 621.5247,
                 "Y": -1200.0313,
@@ -4541,8 +4541,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Staircase to Jungle",
+            "Nade": "smoke",
+            "Name": "Staircase To Jungle",
             "Position": {
                 "X": 621.5247,
                 "Y": -1200.0313,
@@ -4555,8 +4555,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Staircase to Tripple",
+            "Nade": "smoke",
+            "Name": "Staircase To Tripple",
             "Position": {
                 "X": 621.5247,
                 "Y": -1200.0313,
@@ -4569,8 +4569,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "T to Short",
+            "Nade": "smoke",
+            "Name": "T To Short",
             "Position": {
                 "X": 1259.287,
                 "Y": -416.9734,
@@ -4583,8 +4583,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "T to Window",
+            "Nade": "smoke",
+            "Name": "T To Window",
             "Position": {
                 "X": 1259.287,
                 "Y": -416.9734,
@@ -4597,8 +4597,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "T to Short",
+            "Nade": "smoke",
+            "Name": "T To Short",
             "Position": {
                 "X": 1422.9653,
                 "Y": -248.03125,
@@ -4611,8 +4611,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "T to Window",
+            "Nade": "smoke",
+            "Name": "T To Window",
             "Position": {
                 "X": 1422.9653,
                 "Y": -248.03125,
@@ -4625,8 +4625,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "T to Short",
+            "Nade": "smoke",
+            "Name": "T To Short",
             "Position": {
                 "X": 1422.9653,
                 "Y": -248.03125,
@@ -4639,8 +4639,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "T to Short",
+            "Nade": "smoke",
+            "Name": "T To Short",
             "Position": {
                 "X": 1331.0063,
                 "Y": 114.80984,
@@ -4653,8 +4653,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "T to Window",
+            "Nade": "smoke",
+            "Name": "T To Window",
             "Position": {
                 "X": 1331.0063,
                 "Y": 114.80984,
@@ -4667,8 +4667,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Desert to Default",
+            "Nade": "smoke",
+            "Name": "Desert To Default",
             "Position": {
                 "X": -473.88696,
                 "Y": 622.0432,
@@ -4681,8 +4681,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Desert to Bench",
+            "Nade": "smoke",
+            "Name": "Desert To Bench",
             "Position": {
                 "X": -473.88696,
                 "Y": 622.0432,
@@ -4695,8 +4695,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Desert to Arches",
+            "Nade": "smoke",
+            "Name": "Desert To Arches",
             "Position": {
                 "X": -473.88696,
                 "Y": 622.0432,
@@ -4710,8 +4710,8 @@
             }
         },
         {
-            "Nade": "48",
-            "Name": "Market to Main",
+            "Nade": "incendiary",
+            "Name": "Market To Main",
             "Position": {
                 "X": -2411.9695,
                 "Y": -247.96765,
@@ -4723,8 +4723,8 @@
             }
         },
         {
-            "Nade": "44",
-            "Name": "Market to Main",
+            "Nade": "HE",
+            "Name": "Market To Main",
             "Position": {
                 "X": -2411.9695,
                 "Y": -247.96765,
@@ -4737,8 +4737,8 @@
             }
         },
         {
-            "Nade": "48",
-            "Name": "Market to Main",
+            "Nade": "incendiary",
+            "Name": "Market To Main",
             "Position": {
                 "X": -2411.9695,
                 "Y": -247.96765,
@@ -4751,8 +4751,8 @@
             }
         },
         {
-            "Nade": "48",
-            "Name": "Market to Apps",
+            "Nade": "incendiary",
+            "Name": "Market To Apps",
             "Position": {
                 "X": -2411.9695,
                 "Y": -247.96765,
@@ -4764,8 +4764,8 @@
             }
         },
         {
-            "Nade": "48",
-            "Name": "Market to Apps",
+            "Nade": "incendiary",
+            "Name": "Market To Apps",
             "Position": {
                 "X": -2411.9688,
                 "Y": -247.96875,
@@ -4778,8 +4778,8 @@
             }
         },
         {
-            "Nade": "44",
-            "Name": "Market to Apps Window",
+            "Nade": "HE",
+            "Name": "Market To Apps Window",
             "Position": {
                 "X": -2411.9688,
                 "Y": -247.96875,
@@ -4792,8 +4792,8 @@
             }
         },
         {
-            "Nade": "48",
-            "Name": "Market to Apps",
+            "Nade": "incendiary",
+            "Name": "Market To Apps",
             "Position": {
                 "X": -2411.9688,
                 "Y": -247.96875,
@@ -4806,8 +4806,8 @@
             }
         },
         {
-            "Nade": "43",
-            "Name": "Market to Apps",
+            "Nade": "flashbang",
+            "Name": "Market To Apps",
             "Position": {
                 "X": -2411.9688,
                 "Y": -247.96875,
@@ -4820,8 +4820,8 @@
             }
         },
         {
-            "Nade": "48",
-            "Name": "Connector to Palace",
+            "Nade": "incendiary",
+            "Name": "Connector To Palace",
             "Position": {
                 "X": -660.4669,
                 "Y": -1313.9481,
@@ -4833,8 +4833,8 @@
             }
         },
         {
-            "Nade": "44",
-            "Name": "Connector to Palace",
+            "Nade": "HE",
+            "Name": "Connector To Palace",
             "Position": {
                 "X": -660.4669,
                 "Y": -1313.9481,
@@ -4847,8 +4847,8 @@
             }
         },
         {
-            "Nade": "48",
-            "Name": "Connector to Palace",
+            "Nade": "incendiary",
+            "Name": "Connector To Palace",
             "Position": {
                 "X": -660.4669,
                 "Y": -1313.9481,
@@ -4861,8 +4861,8 @@
             }
         },
         {
-            "Nade": "48",
-            "Name": "Garbage to Main",
+            "Nade": "incendiary",
+            "Name": "Garbage To Main",
             "Position": {
                 "X": -2415.9688,
                 "Y": -115.75818,
@@ -4875,8 +4875,8 @@
             }
         },
         {
-            "Nade": "44",
-            "Name": "Garbage to Main",
+            "Nade": "HE",
+            "Name": "Garbage To Main",
             "Position": {
                 "X": -2415.9688,
                 "Y": -115.75818,
@@ -4889,8 +4889,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Ct to Desert",
+            "Nade": "smoke",
+            "Name": "Ct To Desert",
             "Position": {
                 "X": -1710.9688,
                 "Y": -1208.0313,
@@ -4903,8 +4903,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Ct to Window",
+            "Nade": "smoke",
+            "Name": "Ct To Window",
             "Position": {
                 "X": -1488.1682,
                 "Y": -1173.9663,
@@ -4916,8 +4916,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Crouch to Site Block (Retake)",
+            "Nade": "smoke",
+            "Name": "Crouch To Site Block (Retake)",
             "Position": {
                 "X": -1434.0303,
                 "Y": -1173.969,
@@ -4929,8 +4929,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Crouch to Short Block (Retake",
+            "Nade": "smoke",
+            "Name": "Crouch To Short Block (Retake",
             "Position": {
                 "X": -1434.0303,
                 "Y": -1173.969,
@@ -4942,8 +4942,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Crouch to Apps",
+            "Nade": "smoke",
+            "Name": "Crouch To Apps",
             "Position": {
                 "X": -1434.0303,
                 "Y": -1173.969,
@@ -4956,8 +4956,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Crouch to Apps",
+            "Nade": "smoke",
+            "Name": "Crouch To Apps",
             "Position": {
                 "X": -1434.0303,
                 "Y": -1173.969,
@@ -4970,8 +4970,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Market to Apps",
+            "Nade": "smoke",
+            "Name": "Market To Apps",
             "Position": {
                 "X": -1711.9678,
                 "Y": -761.03125,
@@ -4984,8 +4984,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "B site to Desert",
+            "Nade": "smoke",
+            "Name": "B site To Desert",
             "Position": {
                 "X": -1862.9673,
                 "Y": 177.0313,
@@ -4997,8 +4997,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Van to Con",
+            "Nade": "smoke",
+            "Name": "Van To Con",
             "Position": {
                 "X": -2364.125,
                 "Y": 808.3841,
@@ -5011,8 +5011,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Desert to Market Window",
+            "Nade": "smoke",
+            "Name": "Desert To Market Window",
             "Position": {
                 "X": -161.03229,
                 "Y": 576.3819,
@@ -5025,8 +5025,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Desert to Inside Market Window",
+            "Nade": "smoke",
+            "Name": "Desert To Inside Market Window",
             "Position": {
                 "X": -161.03229,
                 "Y": 576.3819,
@@ -5039,8 +5039,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Desert to B Door",
+            "Nade": "smoke",
+            "Name": "Desert To B Door",
             "Position": {
                 "X": -161.03229,
                 "Y": 576.3819,
@@ -5053,8 +5053,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Desert to Stairs",
+            "Nade": "smoke",
+            "Name": "Desert To Stairs",
             "Position": {
                 "X": -351.96777,
                 "Y": 887.96875,
@@ -5067,8 +5067,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Desert to Arch",
+            "Nade": "smoke",
+            "Name": "Desert To Arch",
             "Position": {
                 "X": -604.43994,
                 "Y": 614.9121,
@@ -5080,8 +5080,8 @@
             }
         },
         {
-            "Nade": "46",
-            "Name": "Window to Under",
+            "Nade": "molotov",
+            "Name": "Window To Under",
             "Position": {
                 "X": -1247.967,
                 "Y": -924.03125,
@@ -5095,8 +5095,8 @@
             }
         },
         {
-            "Nade": "44",
-            "Name": "Window to Under",
+            "Nade": "HE",
+            "Name": "Window To Under",
             "Position": {
                 "X": -1247.9688,
                 "Y": -924.03314,
@@ -5110,8 +5110,8 @@
             }
         },
         {
-            "Nade": "46",
-            "Name": "Window to Under",
+            "Nade": "molotov",
+            "Name": "Window To Under",
             "Position": {
                 "X": -1247.9688,
                 "Y": -924.03314,
@@ -5123,8 +5123,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Top Mid to Window",
+            "Nade": "smoke",
+            "Name": "Top Mid To Window",
             "Position": {
                 "X": 343.30304,
                 "Y": -621.6176,
@@ -5136,8 +5136,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Top Mid to Under",
+            "Nade": "smoke",
+            "Name": "Top Mid To Under",
             "Position": {
                 "X": 343.30304,
                 "Y": -621.6176,
@@ -5149,8 +5149,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Top Mid to Con",
+            "Nade": "smoke",
+            "Name": "Top Mid To Con",
             "Position": {
                 "X": 343.30304,
                 "Y": -621.6176,
@@ -5162,8 +5162,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Tetris to Balcony Cubby",
+            "Nade": "smoke",
+            "Name": "Tetris To Balcony Cubby",
             "Position": {
                 "X": -77.32312,
                 "Y": -1475.5326,
@@ -5175,8 +5175,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Tetris to Con",
+            "Nade": "smoke",
+            "Name": "Tetris To Con",
             "Position": {
                 "X": -77.32312,
                 "Y": -1475.5326,
@@ -5188,8 +5188,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Tetris to Jungle",
+            "Nade": "smoke",
+            "Name": "Tetris To Jungle",
             "Position": {
                 "X": -77.32312,
                 "Y": -1475.5326,
@@ -5202,8 +5202,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Tetris to Cross",
+            "Nade": "smoke",
+            "Name": "Tetris To Cross",
             "Position": {
                 "X": -77.32312,
                 "Y": -1475.5326,
@@ -5215,8 +5215,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Tetris to Stairs",
+            "Nade": "smoke",
+            "Name": "Tetris To Stairs",
             "Position": {
                 "X": -77.32312,
                 "Y": -1475.5326,
@@ -5228,8 +5228,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Tetris to Stairs",
+            "Nade": "smoke",
+            "Name": "Tetris To Stairs",
             "Position": {
                 "X": -91.09387,
                 "Y": -1418.0305,
@@ -5242,8 +5242,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Tetris to Deep Jungle",
+            "Nade": "smoke",
+            "Name": "Tetris To Deep Jungle",
             "Position": {
                 "X": -30.468628,
                 "Y": -1418.0293,
@@ -5255,8 +5255,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Ramp to Jungle",
+            "Nade": "smoke",
+            "Name": "Ramp To Jungle",
             "Position": {
                 "X": 181.96675,
                 "Y": -1717.9688,
@@ -5268,8 +5268,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Ramp to Con",
+            "Nade": "smoke",
+            "Name": "Ramp To Con",
             "Position": {
                 "X": 181.96675,
                 "Y": -1717.9688,
@@ -5282,8 +5282,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Ramp to Jugnle",
+            "Nade": "smoke",
+            "Name": "Ramp To Jugnle",
             "Position": {
                 "X": 181.96675,
                 "Y": -1717.9688,
@@ -5297,8 +5297,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Palace to Arches",
+            "Nade": "smoke",
+            "Name": "Palace To Arches",
             "Position": {
                 "X": 46.97016,
                 "Y": -1811.9688,
@@ -5311,8 +5311,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Palace Cubby to Stairs",
+            "Nade": "smoke",
+            "Name": "Palace Cubby To Stairs",
             "Position": {
                 "X": 151.96875,
                 "Y": -2071.968,
@@ -5324,8 +5324,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Top Alley to Con",
+            "Nade": "smoke",
+            "Name": "Top Alley To Con",
             "Position": {
                 "X": 758.6096,
                 "Y": -1210.2826,
@@ -5337,8 +5337,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Top Alley to Window",
+            "Nade": "smoke",
+            "Name": "Top Alley To Window",
             "Position": {
                 "X": 1126.547,
                 "Y": -1209.8475,
@@ -5351,8 +5351,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Garbage to Short",
+            "Nade": "smoke",
+            "Name": "Garbage To Short",
             "Position": {
                 "X": 1422.8971,
                 "Y": 70.96701,
@@ -5364,8 +5364,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "T to Arch",
+            "Nade": "smoke",
+            "Name": "T To Arch",
             "Position": {
                 "X": 742.0991,
                 "Y": 510.07373,
@@ -5378,8 +5378,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Desert to Bench",
+            "Nade": "smoke",
+            "Name": "Desert To Bench",
             "Position": {
                 "X": -190.38208,
                 "Y": 729.67725,
@@ -5392,8 +5392,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Desert to Bench",
+            "Nade": "smoke",
+            "Name": "Desert To Bench",
             "Position": {
                 "X": -172.87695,
                 "Y": 689.40515,
@@ -5406,8 +5406,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Desert to Arch",
+            "Nade": "smoke",
+            "Name": "Desert To Arch",
             "Position": {
                 "X": -172.87695,
                 "Y": 689.40515,
@@ -5419,8 +5419,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Desert to Window",
+            "Nade": "smoke",
+            "Name": "Desert To Window",
             "Position": {
                 "X": -172.87695,
                 "Y": 689.40515,
@@ -5433,8 +5433,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Desert to Market Door",
+            "Nade": "smoke",
+            "Name": "Desert To Market Door",
             "Position": {
                 "X": -172.87695,
                 "Y": 689.40515,
@@ -5447,8 +5447,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Mid to Ct",
+            "Nade": "smoke",
+            "Name": "Mid To Ct",
             "Position": {
                 "X": -833.4983,
                 "Y": -499.96606,
@@ -5461,8 +5461,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Mid to Bench",
+            "Nade": "smoke",
+            "Name": "Mid To Bench",
             "Position": {
                 "X": -833.4983,
                 "Y": -499.96606,
@@ -5475,8 +5475,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "T to Window",
+            "Nade": "smoke",
+            "Name": "T To Window",
             "Position": {
                 "X": 1231.5074,
                 "Y": -40.799072,
@@ -5489,8 +5489,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "T to Widnow ",
+            "Nade": "smoke",
+            "Name": "T To Widnow ",
             "Position": {
                 "X": 1318.8529,
                 "Y": -227.55518,
@@ -5503,8 +5503,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "T to Window",
+            "Nade": "smoke",
+            "Name": "T To Window",
             "Position": {
                 "X": 1242.0471,
                 "Y": -137.34412,
@@ -5517,8 +5517,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "T to Window",
+            "Nade": "smoke",
+            "Name": "T To Window",
             "Position": {
                 "X": 1159.9724,
                 "Y": 39.168312,
@@ -5531,8 +5531,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "T to Short",
+            "Nade": "smoke",
+            "Name": "T To Short",
             "Position": {
                 "X": 1236.7954,
                 "Y": 512.68335,
@@ -5545,7 +5545,7 @@
             }
         },
         {
-            "Nade": "43",
+            "Nade": "flashbang",
             "Name": "Mid Pop Flash",
             "Position": {
                 "X": -1247.9688,
@@ -5560,8 +5560,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Under to Cross",
+            "Nade": "smoke",
+            "Name": "Under To Cross",
             "Position": {
                 "X": -1047.9677,
                 "Y": -407.75793,
@@ -5573,8 +5573,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Mid to Jungle",
+            "Nade": "smoke",
+            "Name": "Mid To Jungle",
             "Position": {
                 "X": 502.9654,
                 "Y": -64.41321,
@@ -5587,8 +5587,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "T to Con",
+            "Nade": "smoke",
+            "Name": "T To Con",
             "Position": {
                 "X": 1239.9677,
                 "Y": -1253.9688,
@@ -5601,8 +5601,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "T to Con",
+            "Nade": "smoke",
+            "Name": "T To Con",
             "Position": {
                 "X": 1206.2831,
                 "Y": -211.031,
@@ -5615,8 +5615,8 @@
             }
         },
         {
-            "Nade": "43",
-            "Name": "Door to Ct Flash",
+            "Nade": "flashbang",
+            "Name": "Door To Ct Flash",
             "Position": {
                 "X": 834.8342,
                 "Y": -1036.0309,
@@ -5628,8 +5628,8 @@
             }
         },
         {
-            "Nade": "46",
-            "Name": "Tetris to Ct",
+            "Nade": "molotov",
+            "Name": "Tetris To Ct",
             "Position": {
                 "X": -30.4682,
                 "Y": -1418.0313,
@@ -5642,8 +5642,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Tetris to Ct",
+            "Nade": "smoke",
+            "Name": "Tetris To Ct",
             "Position": {
                 "X": -30.46875,
                 "Y": -1418.0313,
@@ -5657,8 +5657,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Con to Jungle",
+            "Nade": "smoke",
+            "Name": "Con To Jungle",
             "Position": {
                 "X": -807.96875,
                 "Y": -1204.8318,
@@ -5670,8 +5670,8 @@
             }
         },
         {
-            "Nade": "43",
-            "Name": "Bench to Window",
+            "Nade": "flashbang",
+            "Name": "Bench To Window",
             "Position": {
                 "X": -801.96875,
                 "Y": -788.96454,
@@ -5685,8 +5685,8 @@
             }
         },
         {
-            "Nade": "43",
-            "Name": "Bench to Short Flash",
+            "Nade": "flashbang",
+            "Name": "Bench To Short Flash",
             "Position": {
                 "X": -895.7152,
                 "Y": -788.9695,
@@ -5698,8 +5698,8 @@
             }
         },
         {
-            "Nade": "46",
-            "Name": "Apps to Van",
+            "Nade": "molotov",
+            "Name": "Apps To Van",
             "Position": {
                 "X": -1137.7079,
                 "Y": 719.7343,
@@ -5712,8 +5712,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Ct to Bench Block (retake)",
+            "Nade": "smoke",
+            "Name": "Ct To Bench Block (retake)",
             "Position": {
                 "X": -1464.0316,
                 "Y": -1792.8312,
@@ -5726,8 +5726,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Ct to B Short Block (retake)",
+            "Nade": "smoke",
+            "Name": "Ct To B Short Block (retake)",
             "Position": {
                 "X": -1464.0316,
                 "Y": -1792.8312,
@@ -5740,8 +5740,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Ct to Apps",
+            "Nade": "smoke",
+            "Name": "Ct To Apps",
             "Position": {
                 "X": -1710.9669,
                 "Y": -1501.2714,
@@ -5754,8 +5754,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Crouch to Short",
+            "Nade": "smoke",
+            "Name": "Crouch To Short",
             "Position": {
                 "X": -1311.9685,
                 "Y": -1022.93616,
@@ -5767,8 +5767,8 @@
             }
         },
         {
-            "Nade": "48",
-            "Name": "Crouch to Short",
+            "Nade": "incendiary",
+            "Name": "Crouch To Short",
             "Position": {
                 "X": -1311.9685,
                 "Y": -1022.93616,
@@ -5780,8 +5780,8 @@
             }
         },
         {
-            "Nade": "44",
-            "Name": "Crouch to Short",
+            "Nade": "HE",
+            "Name": "Crouch To Short",
             "Position": {
                 "X": -1311.9685,
                 "Y": -1022.93616,
@@ -5793,8 +5793,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Window to Under",
+            "Nade": "smoke",
+            "Name": "Window To Under",
             "Position": {
                 "X": -1120.0313,
                 "Y": -967.4672,
@@ -5806,8 +5806,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Short to Ct",
+            "Nade": "smoke",
+            "Name": "Short To Ct",
             "Position": {
                 "X": -496.03125,
                 "Y": -1309.0321,
@@ -5819,8 +5819,8 @@
             }
         },
         {
-            "Nade": "48",
-            "Name": "Short to Ct",
+            "Nade": "incendiary",
+            "Name": "Short To Ct",
             "Position": {
                 "X": -496.03125,
                 "Y": -1309.0321,
@@ -5832,8 +5832,8 @@
             }
         },
         {
-            "Nade": "44",
-            "Name": "Short to Ct",
+            "Nade": "HE",
+            "Name": "Short To Ct",
             "Position": {
                 "X": -496.03125,
                 "Y": -1309.0321,
@@ -5845,8 +5845,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Short to Ct",
+            "Nade": "smoke",
+            "Name": "Short To Ct",
             "Position": {
                 "X": -496.03125,
                 "Y": -1309.0321,
@@ -5858,8 +5858,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "T to Arches",
+            "Nade": "smoke",
+            "Name": "T To Arches",
             "Position": {
                 "X": 445.96875,
                 "Y": 571.9687,
@@ -5872,8 +5872,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "T to Arches (left)",
+            "Nade": "smoke",
+            "Name": "T To Arches (left)",
             "Position": {
                 "X": 445.96875,
                 "Y": 571.9687,
@@ -5886,8 +5886,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Side Alley to Jungle",
+            "Nade": "smoke",
+            "Name": "Side Alley To Jungle",
             "Position": {
                 "X": 399.42578,
                 "Y": 279.06033,
@@ -5900,8 +5900,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Con to Mid",
+            "Nade": "smoke",
+            "Name": "Con To Mid",
             "Position": {
                 "X": -709.9692,
                 "Y": -1275.1971,
@@ -5913,8 +5913,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Con to Lower Con (block)",
+            "Nade": "smoke",
+            "Name": "Con To Lower Con (block)",
             "Position": {
                 "X": -709.9692,
                 "Y": -1275.1971,
@@ -5926,8 +5926,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Short to Under",
+            "Nade": "smoke",
+            "Name": "Short To Under",
             "Position": {
                 "X": -752.03125,
                 "Y": 292.9686,
@@ -5939,8 +5939,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Short to Short (Block)",
+            "Nade": "smoke",
+            "Name": "Short To Short (Block)",
             "Position": {
                 "X": -752.03125,
                 "Y": 292.9686,
@@ -5952,8 +5952,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Short to Short (block)",
+            "Nade": "smoke",
+            "Name": "Short To Short (block)",
             "Position": {
                 "X": -1042.345,
                 "Y": 295.94763,
@@ -5965,8 +5965,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Bench to Apps",
+            "Nade": "smoke",
+            "Name": "Bench To Apps",
             "Position": {
                 "X": -2635.9685,
                 "Y": 104.028534,
@@ -5978,8 +5978,8 @@
             }
         },
         {
-            "Nade": "48",
-            "Name": "Bench to Apps",
+            "Nade": "incendiary",
+            "Name": "Bench To Apps",
             "Position": {
                 "X": -2635.9685,
                 "Y": 104.028534,
@@ -5991,8 +5991,8 @@
             }
         },
         {
-            "Nade": "44",
-            "Name": "Bench to Apps",
+            "Nade": "HE",
+            "Name": "Bench To Apps",
             "Position": {
                 "X": -2635.9685,
                 "Y": 104.028534,
@@ -6004,8 +6004,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Ct to Ramp",
+            "Nade": "smoke",
+            "Name": "Ct To Ramp",
             "Position": {
                 "X": -879.89746,
                 "Y": -2263.9866,
@@ -6017,8 +6017,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Ct to Midsite Cross",
+            "Nade": "smoke",
+            "Name": "Ct To Midsite Cross",
             "Position": {
                 "X": -1046.523,
                 "Y": -2232.0313,
@@ -6030,8 +6030,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Ct to Cross",
+            "Nade": "smoke",
+            "Name": "Ct To Cross",
             "Position": {
                 "X": -1046.523,
                 "Y": -2232.0313,
@@ -6044,8 +6044,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Ct to Default",
+            "Nade": "smoke",
+            "Name": "Ct To Default",
             "Position": {
                 "X": -1046.523,
                 "Y": -2232.0313,
@@ -6058,8 +6058,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Ct to Top Con",
+            "Nade": "smoke",
+            "Name": "Ct To Top Con",
             "Position": {
                 "X": -1022.8683,
                 "Y": -2269.5212,
@@ -6071,8 +6071,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Under to Palace",
+            "Nade": "smoke",
+            "Name": "Under To Palace",
             "Position": {
                 "X": -1071.9668,
                 "Y": -380.0332,
@@ -6085,8 +6085,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Under to Cross",
+            "Nade": "smoke",
+            "Name": "Under To Cross",
             "Position": {
                 "X": -1047.9683,
                 "Y": -313.57813,
@@ -6099,8 +6099,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "T to Con",
+            "Nade": "smoke",
+            "Name": "T To Con",
             "Position": {
                 "X": 393.9687,
                 "Y": 679.96875,
@@ -6113,8 +6113,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "T to Short",
+            "Nade": "smoke",
+            "Name": "T To Short",
             "Position": {
                 "X": 393.9687,
                 "Y": 679.96875,
@@ -6127,8 +6127,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "T to Short",
+            "Nade": "smoke",
+            "Name": "T To Short",
             "Position": {
                 "X": 393.9687,
                 "Y": 679.96875,
@@ -6141,8 +6141,8 @@
             }
         },
         {
-            "Nade": "46",
-            "Name": "Apps to Market",
+            "Nade": "molotov",
+            "Name": "Apps To Market",
             "Position": {
                 "X": -1952.0297,
                 "Y": 683.7756,
@@ -6154,8 +6154,8 @@
             }
         },
         {
-            "Nade": "44",
-            "Name": "Apps to Market",
+            "Nade": "HE",
+            "Name": "Apps To Market",
             "Position": {
                 "X": -1952.0297,
                 "Y": 683.7756,
@@ -6167,8 +6167,8 @@
             }
         },
         {
-            "Nade": "44",
-            "Name": "Apps to Deep Market",
+            "Nade": "HE",
+            "Name": "Apps To Deep Market",
             "Position": {
                 "X": -1952.0297,
                 "Y": 683.7756,
@@ -6180,8 +6180,8 @@
             }
         },
         {
-            "Nade": "46",
-            "Name": "Apps to Deep Market",
+            "Nade": "molotov",
+            "Name": "Apps To Deep Market",
             "Position": {
                 "X": -1952.0297,
                 "Y": 683.7756,
@@ -6193,8 +6193,8 @@
             }
         },
         {
-            "Nade": "46",
-            "Name": "Garbage to Apps",
+            "Nade": "molotov",
+            "Name": "Garbage To Apps",
             "Position": {
                 "X": -2415.9631,
                 "Y": -115.757324,
@@ -6206,8 +6206,8 @@
             }
         },
         {
-            "Nade": "44",
-            "Name": "Garbage to Apps",
+            "Nade": "HE",
+            "Name": "Garbage To Apps",
             "Position": {
                 "X": -2415.9631,
                 "Y": -115.757324,
@@ -6220,8 +6220,8 @@
             }
         },
         {
-            "Nade": "46",
-            "Name": "Garbage to Apps",
+            "Nade": "molotov",
+            "Name": "Garbage To Apps",
             "Position": {
                 "X": -2415.9631,
                 "Y": -115.757324,
@@ -6234,7 +6234,7 @@
             }
         },
         {
-            "Nade": "43",
+            "Nade": "flashbang",
             "Name": "Mid Push flash",
             "Position": {
                 "X": 236.03215,
@@ -6247,7 +6247,7 @@
             }
         },
         {
-            "Nade": "43",
+            "Nade": "flashbang",
             "Name": "Mid Push Flash",
             "Position": {
                 "X": 398.96884,
@@ -6260,8 +6260,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Tetris to Jungle",
+            "Nade": "smoke",
+            "Name": "Tetris To Jungle",
             "Position": {
                 "X": -30.46875,
                 "Y": -1418.0316,
@@ -6274,8 +6274,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Tetris to Ct",
+            "Nade": "smoke",
+            "Name": "Tetris To Ct",
             "Position": {
                 "X": -30.46875,
                 "Y": -1418.0316,
@@ -6287,8 +6287,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Tetris to Midsite",
+            "Nade": "smoke",
+            "Name": "Tetris To Midsite",
             "Position": {
                 "X": -30.46875,
                 "Y": -1418.0316,
@@ -6301,8 +6301,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "T to Window",
+            "Nade": "smoke",
+            "Name": "T To Window",
             "Position": {
                 "X": 1281.0177,
                 "Y": 31.879143,
@@ -6315,8 +6315,8 @@
             }
         },
         {
-            "Nade": "46",
-            "Name": "Con to Default",
+            "Nade": "molotov",
+            "Name": "Con To Default",
             "Position": {
                 "X": -618.0323,
                 "Y": -1274.642,
@@ -6328,8 +6328,8 @@
             }
         },
         {
-            "Nade": "44",
-            "Name": "Con to Default",
+            "Nade": "HE",
+            "Name": "Con To Default",
             "Position": {
                 "X": -618.0323,
                 "Y": -1274.642,
@@ -6341,8 +6341,8 @@
             }
         },
         {
-            "Nade": "46",
-            "Name": "Palace to Under",
+            "Nade": "molotov",
+            "Name": "Palace To Under",
             "Position": {
                 "X": 16.037615,
                 "Y": -2359.5552,
@@ -6354,8 +6354,8 @@
             }
         },
         {
-            "Nade": "44",
-            "Name": "Palace to Under",
+            "Nade": "HE",
+            "Name": "Palace To Under",
             "Position": {
                 "X": 16.037615,
                 "Y": -2359.5552,
@@ -6367,8 +6367,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "T to Market Window",
+            "Nade": "smoke",
+            "Name": "T To Market Window",
             "Position": {
                 "X": 420.3308,
                 "Y": 350.03134,
@@ -6381,8 +6381,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "T to Arches",
+            "Nade": "smoke",
+            "Name": "T To Arches",
             "Position": {
                 "X": 420.3308,
                 "Y": 350.03134,
@@ -6395,8 +6395,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Desert to Bench",
+            "Nade": "smoke",
+            "Name": "Desert To Bench",
             "Position": {
                 "X": -291.9746,
                 "Y": 655.97034,
@@ -6409,8 +6409,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Desert to Bench",
+            "Nade": "smoke",
+            "Name": "Desert To Bench",
             "Position": {
                 "X": -291.9746,
                 "Y": 655.97034,
@@ -6423,8 +6423,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Desert to Jungle Cross",
+            "Nade": "smoke",
+            "Name": "Desert To Jungle Cross",
             "Position": {
                 "X": -291.9746,
                 "Y": 655.97034,
@@ -6437,8 +6437,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Desert to Tripple",
+            "Nade": "smoke",
+            "Name": "Desert To Tripple",
             "Position": {
                 "X": -291.9746,
                 "Y": 655.97034,
@@ -6451,8 +6451,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Desert to Default",
+            "Nade": "smoke",
+            "Name": "Desert To Default",
             "Position": {
                 "X": -291.9746,
                 "Y": 655.97034,
@@ -6464,8 +6464,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Desert to Bench",
+            "Nade": "smoke",
+            "Name": "Desert To Bench",
             "Position": {
                 "X": -291.9746,
                 "Y": 655.97034,
@@ -6478,8 +6478,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Desert to Arches",
+            "Nade": "smoke",
+            "Name": "Desert To Arches",
             "Position": {
                 "X": -291.9746,
                 "Y": 655.97034,
@@ -6492,8 +6492,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Desert to Short",
+            "Nade": "smoke",
+            "Name": "Desert To Short",
             "Position": {
                 "X": -291.9746,
                 "Y": 655.97034,
@@ -6506,8 +6506,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Ct to Ramp",
+            "Nade": "smoke",
+            "Name": "Ct To Ramp",
             "Position": {
                 "X": -2026.3951,
                 "Y": -2029.9688,
@@ -6520,7 +6520,7 @@
             }
         },
         {
-            "Nade": "45",
+            "Nade": "smoke",
             "Name": "Jungle Oneway",
             "Position": {
                 "X": -992.03125,
@@ -6535,8 +6535,8 @@
             }
         },
         {
-            "Nade": "48",
-            "Name": "Ct to Default",
+            "Nade": "incendiary",
+            "Name": "Ct To Default",
             "Position": {
                 "X": -1547.8822,
                 "Y": -2407.9653,
@@ -6548,8 +6548,8 @@
             }
         },
         {
-            "Nade": "48",
-            "Name": "Ct to Middle Site",
+            "Nade": "incendiary",
+            "Name": "Ct To Middle Site",
             "Position": {
                 "X": -1547.8822,
                 "Y": -2407.9653,
@@ -6561,8 +6561,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "T to Jungle Cross",
+            "Nade": "smoke",
+            "Name": "T To Jungle Cross",
             "Position": {
                 "X": 1239.6141,
                 "Y": -1024.3397,
@@ -6575,8 +6575,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "T to Tripple",
+            "Nade": "smoke",
+            "Name": "T To Tripple",
             "Position": {
                 "X": 1239.6141,
                 "Y": -1024.3397,
@@ -6589,8 +6589,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "T to Tripple",
+            "Nade": "smoke",
+            "Name": "T To Tripple",
             "Position": {
                 "X": 1239.6141,
                 "Y": -1024.3397,
@@ -6603,8 +6603,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Desert to Short",
+            "Nade": "smoke",
+            "Name": "Desert To Short",
             "Position": {
                 "X": -160.03125,
                 "Y": 887.9683,
@@ -6616,8 +6616,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Desert to Jungle Cross",
+            "Nade": "smoke",
+            "Name": "Desert To Jungle Cross",
             "Position": {
                 "X": -160.03125,
                 "Y": 887.9683,
@@ -6630,8 +6630,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Desert to Jungle Short",
+            "Nade": "smoke",
+            "Name": "Desert To Jungle Short",
             "Position": {
                 "X": -160.03125,
                 "Y": 887.9683,
@@ -6645,8 +6645,8 @@
             }
         },
         {
-            "Nade": "45",
-            "Name": "Desert to Under",
+            "Nade": "smoke",
+            "Name": "Desert To Under",
             "Position": {
                 "X": -160.03125,
                 "Y": 887.9683,
