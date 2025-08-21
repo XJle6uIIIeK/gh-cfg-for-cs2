@@ -6658,5 +6658,2446 @@
                 "Y": -120.70404
             }
         }
-    ]
+    ],
+	"de_dust2": [
+  {
+    "Nade": "HE",
+    "Name": "Site to Short",
+    "Position": {
+      "X": 1235.9686,
+      "Y": 2561.0313,
+      "Z": 99.602425
+    },
+    "Viewangle": {
+      "X": -13.728104,
+      "Y": -149.69867
+    }
+  },
+  {
+    "Nade": "HE",
+    "Name": "Site to Short",
+    "Position": {
+      "X": 1125.9165,
+      "Y": 2560.7864,
+      "Z": 96.12328
+    },
+    "Viewangle": {
+      "X": -10.031891,
+      "Y": -141.05278
+    }
+  },
+  {
+    "Nade": "HE",
+    "Name": "Site to Short",
+    "Position": {
+      "X": 1117.9532,
+      "Y": 2492.9316,
+      "Z": 95.83831
+    },
+    "Viewangle": {
+      "X": -9.635696,
+      "Y": -146.86078
+    }
+  },
+  {
+    "Nade": "HE",
+    "Name": "Site to Short",
+    "Position": {
+      "X": 1300.0315,
+      "Y": 2595.527,
+      "Z": 90.56118
+    },
+    "Viewangle": {
+      "X": -13.463745,
+      "Y": -146.72894
+    }
+  },
+  {
+    "Nade": "HE",
+    "Name": "Ramp to Short",
+    "Position": {
+      "X": 1376.98,
+      "Y": 2471.2483,
+      "Z": 48.58381
+    },
+    "Viewangle": {
+      "X": -13.331909,
+      "Y": -156.4309
+    }
+  },
+  {
+    "Nade": "HE",
+    "Name": "Ramp to Short",
+    "Position": {
+      "X": 1313.4338,
+      "Y": 2451.2349,
+      "Z": 59.48884
+    },
+    "Viewangle": {
+      "X": -12.803528,
+      "Y": -155.30927
+    }
+  },
+  {
+    "Nade": "HE",
+    "Name": "Box Stack to Short",
+    "Position": {
+      "X": 564.0275,
+      "Y": 2379.9705,
+      "Z": 67.03125
+    },
+    "Viewangle": {
+      "X": -0.7257843,
+      "Y": -108.11886
+    }
+  },
+  {
+    "Nade": "HE",
+    "Name": "Box Stack to Short",
+    "Position": {
+      "X": 769.59875,
+      "Y": 2379.9678,
+      "Z": -34.525208
+    },
+    "Viewangle": {
+      "X": -16.961517,
+      "Y": -128.90877
+    }
+  },
+  {
+    "Nade": "HE",
+    "Name": "Elevator to Short",
+    "Position": {
+      "X": 1004.96405,
+      "Y": 2379.9688,
+      "Z": 27.465935
+    },
+    "Viewangle": {
+      "X": -13.3315735,
+      "Y": -146.99295
+    }
+  },
+  {
+    "Nade": "HE",
+    "Name": "Ramp to Short",
+    "Position": {
+      "X": 1315.589,
+      "Y": 2303.1938,
+      "Z": 15.895084
+    },
+    "Viewangle": {
+      "X": -13.9917755,
+      "Y": -163.75705
+    }
+  },
+  {
+    "Nade": "HE",
+    "Name": "Ct to Short",
+    "Position": {
+      "X": 640.6822,
+      "Y": 2201.0063,
+      "Z": -89.71521
+    },
+    "Throw Throw type": "2",
+    "Viewangle": {
+      "X": -56.165543,
+      "Y": -139.13876
+    }
+  },
+  {
+    "Nade": "HE",
+    "Name": "Box Stack to Short",
+    "Position": {
+      "X": 654.3677,
+      "Y": 2314.9722,
+      "Z": -35.68445
+    },
+    "Throw Throw type": "2",
+    "Viewangle": {
+      "X": -39.66545,
+      "Y": -135.50845
+    }
+  },
+  {
+    "Nade": "HE",
+    "Name": "Goose to Short",
+    "Position": {
+      "X": 1062.4901,
+      "Y": 2824.205,
+      "Z": 127.03125
+    },
+    "Viewangle": {
+      "X": -11.219452,
+      "Y": -126.2027
+    }
+  },
+  {
+    "Nade": "HE",
+    "Name": "Ct to Site",
+    "Position": {
+      "X": 529.6593,
+      "Y": 2151.5278,
+      "Z": -116.68396
+    },
+    "Throw type": "1",
+    "Viewangle": {
+      "X": 4.8185425,
+      "Y": 26.953247
+    }
+  },
+  {
+    "Nade": "HE",
+    "Name": "Ct to Site",
+    "Position": {
+      "X": 529.6593,
+      "Y": 2151.5278,
+      "Z": -116.68396
+    },
+    "Throw Throw type": "2",
+    "Throw type": "1",
+    "Viewangle": {
+      "X": -3.6296082,
+      "Y": 35.86316
+    }
+  },
+  {
+    "Nade": "HE",
+    "Name": "Ct to Site",
+    "Position": {
+      "X": 529.6593,
+      "Y": 2151.5278,
+      "Z": -116.68396
+    },
+    "Throw Throw type": "2",
+    "Throw type": "1",
+    "Viewangle": {
+      "X": 1.1885834,
+      "Y": 37.777176
+    }
+  },
+  {
+    "Nade": "incendiary",
+    "Name": "Ct to Default",
+    "Position": {
+      "X": 529.6593,
+      "Y": 2151.5278,
+      "Z": -116.68396
+    },
+    "Viewangle": {
+      "X": -31.019562,
+      "Y": 53.287125
+    }
+  },
+  {
+    "Nade": "incendiary",
+    "Name": "Ct to Site",
+    "Position": {
+      "X": 529.6593,
+      "Y": 2151.5278,
+      "Z": -116.68396
+    },
+    "Throw Throw type": "2",
+    "Throw type": "1",
+    "Viewangle": {
+      "X": -3.6955261,
+      "Y": 35.730972
+    }
+  },
+  {
+    "Nade": "incendiary",
+    "Name": "Ct to Site",
+    "Position": {
+      "X": 529.6593,
+      "Y": 2151.5278,
+      "Z": -116.68396
+    },
+    "Throw Throw type": "2",
+    "Throw type": "1",
+    "Viewangle": {
+      "X": 1.3204193,
+      "Y": 37.711258
+    }
+  },
+  {
+    "Nade": "incendiary",
+    "Name": "Ct to Site",
+    "Position": {
+      "X": 529.6593,
+      "Y": 2151.5278,
+      "Z": -116.68396
+    },
+    "Throw type": "1",
+    "Viewangle": {
+      "X": 3.432541,
+      "Y": 26.82106
+    }
+  },
+  {
+    "Nade": "incendiary",
+    "Name": "Ct to Site",
+    "Position": {
+      "X": 529.6593,
+      "Y": 2151.5278,
+      "Z": -116.68396
+    },
+    "Throw Throw type": "2",
+    "Throw type": "1",
+    "Viewangle": {
+      "X": -6.0054016,
+      "Y": 27.877121
+    }
+  },
+  {
+    "Nade": "incendiary",
+    "Name": "Ct to Short",
+    "Position": {
+      "X": 640.27246,
+      "Y": 2200.7773,
+      "Z": -89.8678
+    },
+    "Throw Throw type": "2",
+    "Viewangle": {
+      "X": -56.23146,
+      "Y": -139.03679
+    }
+  },
+  {
+    "Nade": "HE",
+    "Name": "Box stack to Site",
+    "Position": {
+      "X": 769.7499,
+      "Y": 2378.6362,
+      "Z": -35.71826
+    },
+    "Throw Throw type": "2",
+    "Throw type": "1",
+    "Viewangle": {
+      "X": 1.5185242,
+      "Y": -135.96988
+    }
+  },
+  {
+    "Nade": "incendiary",
+    "Name": "Ct to Short",
+    "Position": {
+      "X": 769.7499,
+      "Y": 2378.6362,
+      "Z": -35.71826
+    },
+    "Throw Throw type": "2",
+    "Throw type": "1",
+    "Viewangle": {
+      "X": 1.5185242,
+      "Y": -135.96988
+    }
+  },
+  {
+    "Nade": "incendiary",
+    "Name": "Box stack to Short",
+    "Position": {
+      "X": 769.7499,
+      "Y": 2378.6362,
+      "Z": -35.71826
+    },
+    "Viewangle": {
+      "X": -17.027435,
+      "Y": -128.90808
+    }
+  },
+  {
+    "Nade": "incendiary",
+    "Name": "Box Stack to Short",
+    "Position": {
+      "X": 769.7499,
+      "Y": 2378.6362,
+      "Z": -35.71826
+    },
+    "Viewangle": {
+      "X": -19.469482,
+      "Y": -137.88425
+    }
+  },
+  {
+    "Nade": "incendiary",
+    "Name": "Box Stack to Short",
+    "Position": {
+      "X": 654.2721,
+      "Y": 2314.9688,
+      "Z": -35.296936
+    },
+    "Throw Throw type": "2",
+    "Viewangle": {
+      "X": -41.90941,
+      "Y": -123.7603
+    }
+  },
+  {
+    "Nade": "incendiary",
+    "Name": "Box Stack to Short",
+    "Position": {
+      "X": 564.0303,
+      "Y": 2379.9688,
+      "Z": 67.03125
+    },
+    "Viewangle": {
+      "X": -0.72509766,
+      "Y": -108.25035
+    }
+  },
+  {
+    "Nade": "incendiary",
+    "Name": "Elevator to Short",
+    "Position": {
+      "X": 1004.96906,
+      "Y": 2379.9656,
+      "Z": 27.46831
+    },
+    "Viewangle": {
+      "X": -15.178986,
+      "Y": -147.2865
+    }
+  },
+  {
+    "Nade": "incendiary",
+    "Name": "Ramp to Short",
+    "Position": {
+      "X": 1311.4299,
+      "Y": 2300.6677,
+      "Z": 16.06737
+    },
+    "Viewangle": {
+      "X": -20.855133,
+      "Y": -164.0506
+    }
+  },
+  {
+    "Nade": "incendiary",
+    "Name": "Ramp to Short",
+    "Position": {
+      "X": 1382.1725,
+      "Y": 2477.5225,
+      "Z": 49.408714
+    },
+    "Viewangle": {
+      "X": -13.330872,
+      "Y": -156.52634
+    }
+  },
+  {
+    "Nade": "incendiary",
+    "Name": "Ramp to Short",
+    "Position": {
+      "X": 1404.2147,
+      "Y": 2483.8389,
+      "Z": 48.200012
+    },
+    "Viewangle": {
+      "X": -18.742676,
+      "Y": -155.3381
+    }
+  },
+  {
+    "Nade": "incendiary",
+    "Name": "Ramp to Short",
+    "Position": {
+      "X": 1316.7117,
+      "Y": 2453.1887,
+      "Z": 58.714878
+    },
+    "Viewangle": {
+      "X": -20.524872,
+      "Y": -154.41422
+    }
+  },
+  {
+    "Nade": "incendiary",
+    "Name": "Ramp to Short",
+    "Position": {
+      "X": 1316.7117,
+      "Y": 2453.1887,
+      "Z": 58.714878
+    },
+    "Viewangle": {
+      "X": -12.802856,
+      "Y": -155.20627
+    }
+  },
+  {
+    "Nade": "incendiary",
+    "Name": "Site to Short",
+    "Position": {
+      "X": 1300.0364,
+      "Y": 2594.9468,
+      "Z": 90.454994
+    },
+    "Viewangle": {
+      "X": -13.4627075,
+      "Y": -146.6922
+    }
+  },
+  {
+    "Nade": "incendiary",
+    "Name": "Site to Short",
+    "Position": {
+      "X": 1300.0364,
+      "Y": 2594.9468,
+      "Z": 90.454994
+    },
+    "Throw type": "1",
+    "Viewangle": {
+      "X": 8.119232,
+      "Y": -146.56036
+    }
+  },
+  {
+    "Nade": "incendiary",
+    "Name": "Site to Short",
+    "Position": {
+      "X": 1235.9684,
+      "Y": 2561.0313,
+      "Z": 99.60241
+    },
+    "Viewangle": {
+      "X": -15.310822,
+      "Y": -145.83458
+    }
+  },
+  {
+    "Nade": "incendiary",
+    "Name": "Site to Short",
+    "Position": {
+      "X": 1126.3568,
+      "Y": 2560.0625,
+      "Z": 96.1168
+    },
+    "Viewangle": {
+      "X": -10.030518,
+      "Y": -140.88455
+    }
+  },
+  {
+    "Nade": "incendiary",
+    "Name": "Site to Short",
+    "Position": {
+      "X": 1118.1897,
+      "Y": 2495.9185,
+      "Z": 95.90187
+    },
+    "Viewangle": {
+      "X": -12.010803,
+      "Y": -145.37247
+    }
+  },
+  {
+    "Nade": "incendiary",
+    "Name": "Goose to Short",
+    "Position": {
+      "X": 1160.8134,
+      "Y": 3028.4153,
+      "Z": 129.26973
+    },
+    "Viewangle": {
+      "X": -18.346481,
+      "Y": -126.89278
+    }
+  },
+  {
+    "Nade": "incendiary",
+    "Name": "Goose to Short",
+    "Position": {
+      "X": 1160.6653,
+      "Y": 3026.559,
+      "Z": 129.2358
+    },
+    "Throw type": "1",
+    "Viewangle": {
+      "X": 7.525635,
+      "Y": -124.31854
+    }
+  },
+  {
+    "Nade": "incendiary",
+    "Name": "Short to Goose",
+    "Position": {
+      "X": 351.8851,
+      "Y": 1819.3823,
+      "Z": 95.45994
+    },
+    "Throw type": "1",
+    "Viewangle": {
+      "X": 3.2358093,
+      "Y": 55.83081
+    }
+  },
+  {
+    "Nade": "incendiary",
+    "Name": "Short to Ct",
+    "Position": {
+      "X": 346.4144,
+      "Y": 1815.8483,
+      "Z": 95.5517
+    },
+    "Viewangle": {
+      "X": 2.209961,
+      "Y": 63.94867
+    }
+  },
+  {
+    "Nade": "incendiary",
+    "Name": "Long to Elevator",
+    "Position": {
+      "X": 1590.688,
+      "Y": 1529.7495,
+      "Z": 0.44824028
+    },
+    "Viewangle": {
+      "X": -20.692062,
+      "Y": 121.76456
+    }
+  },
+  {
+    "Nade": "flashbang",
+    "Name": "Ramp to Short",
+    "Position": {
+      "X": 1315.9718,
+      "Y": 2452.2275,
+      "Z": 58.80877
+    },
+    "Viewangle": {
+      "X": -12.706024,
+      "Y": -155.30891
+    }
+  },
+  {
+    "Nade": "flashbang",
+    "Name": "Ramp to Short",
+    "Position": {
+      "X": 1315.9718,
+      "Y": 2452.2275,
+      "Z": 58.80877
+    },
+    "Viewangle": {
+      "X": -19.834106,
+      "Y": -155.243
+    }
+  },
+  {
+    "Nade": "flashbang",
+    "Name": "Site to Short",
+    "Position": {
+      "X": 1300.2555,
+      "Y": 2594.4583,
+      "Z": 90.327065
+    },
+    "Viewangle": {
+      "X": -16.401901,
+      "Y": -147.45471
+    }
+  },
+  {
+    "Nade": "flashbang",
+    "Name": "Site to Short",
+    "Position": {
+      "X": 1235.9688,
+      "Y": 2561.0325,
+      "Z": 99.60243
+    },
+    "Viewangle": {
+      "X": -13.761749,
+      "Y": -149.69902
+    }
+  },
+  {
+    "Nade": "flashbang",
+    "Name": "Site to Short",
+    "Position": {
+      "X": 1129.3783,
+      "Y": 2559.1865,
+      "Z": 96.10697
+    },
+    "Viewangle": {
+      "X": -14.4878845,
+      "Y": -145.7388
+    }
+  },
+  {
+    "Nade": "incendiary",
+    "Name": "Site to Short",
+    "Position": {
+      "X": 1124.1038,
+      "Y": 2492.631,
+      "Z": 95.83192
+    },
+    "Viewangle": {
+      "X": -12.969696,
+      "Y": -149.56683
+    }
+  },
+  {
+    "Nade": "flashbang",
+    "Name": "Site to Short",
+    "Position": {
+      "X": 1124.1038,
+      "Y": 2492.631,
+      "Z": 95.83192
+    },
+    "Viewangle": {
+      "X": -12.969696,
+      "Y": -149.56683
+    }
+  },
+  {
+    "Nade": "flashbang",
+    "Name": "Elevator to Short",
+    "Position": {
+      "X": 1004.96875,
+      "Y": 2379.9688,
+      "Z": 27.467896
+    },
+    "Viewangle": {
+      "X": -18.051575,
+      "Y": -148.44485
+    }
+  },
+  {
+    "Nade": "flashbang",
+    "Name": "Top Box to Short",
+    "Position": {
+      "X": 564.03125,
+      "Y": 2379.9685,
+      "Z": 67.03125
+    },
+    "Viewangle": {
+      "X": -1.0237885,
+      "Y": -108.250694
+    }
+  },
+  {
+    "Nade": "flashbang",
+    "Name": "Short to Mid",
+    "Position": {
+      "X": 490.34732,
+      "Y": 1994.8782,
+      "Z": 132.53125
+    },
+    "Viewangle": {
+      "X": -1.8814087,
+      "Y": -114.65263
+    }
+  },
+  {
+    "Nade": "flashbang",
+    "Name": "Short to Mid",
+    "Position": {
+      "X": 490.34732,
+      "Y": 1994.8782,
+      "Z": 132.53125
+    },
+    "Viewangle": {
+      "X": -27.753525,
+      "Y": -147.3888
+    }
+  },
+  {
+    "Nade": "flashbang",
+    "Name": "Short to Mid",
+    "Position": {
+      "X": 489.9698,
+      "Y": 1774.5388,
+      "Z": 103.03125
+    },
+    "Throw type": "1",
+    "Viewangle": {
+      "X": 2.2765808,
+      "Y": -130.09702
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "A to B Doors",
+    "Position": {
+      "X": 1271.0331,
+      "Y": 2527.7542,
+      "Z": 127.03125
+    },
+    "Throw type": "1",
+    "Viewangle": {
+      "X": -28.149384,
+      "Y": -173.95134
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "A to B Doors",
+    "Position": {
+      "X": 1271.0331,
+      "Y": 2527.7542,
+      "Z": 127.03125
+    },
+    "Throw type": "1",
+    "Viewangle": {
+      "X": -18.381165,
+      "Y": -172.49977
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Site to Deep Short",
+    "Position": {
+      "X": 1271.0331,
+      "Y": 2527.7542,
+      "Z": 127.03125
+    },
+    "Viewangle": {
+      "X": -44.9794,
+      "Y": -135.2757
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Site to Short",
+    "Position": {
+      "X": 1235.9688,
+      "Y": 2561.0313,
+      "Z": 99.60243
+    },
+    "Viewangle": {
+      "X": -13.695496,
+      "Y": -149.59842
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "A to B Doors",
+    "Position": {
+      "X": 1218.4608,
+      "Y": 2545.9807,
+      "Z": 172.03125
+    },
+    "Throw type": "1",
+    "Viewangle": {
+      "X": -14.289429,
+      "Y": -171.97243
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Site to Deep Short",
+    "Position": {
+      "X": 1218.5543,
+      "Y": 2545.1829,
+      "Z": 172.03125
+    },
+    "Throw Throw type": "2",
+    "Throw type": "1",
+    "Viewangle": {
+      "X": -37.58766,
+      "Y": -132.37256
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Site to Short",
+    "Position": {
+      "X": 1119.0393,
+      "Y": 2569.171,
+      "Z": 96.19978
+    },
+    "Viewangle": {
+      "X": -9.999619,
+      "Y": -140.95218
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Site to Short",
+    "Position": {
+      "X": 1119.0393,
+      "Y": 2569.171,
+      "Z": 96.19978
+    },
+    "Throw Throw type": "2",
+    "Throw type": "1",
+    "Viewangle": {
+      "X": -35.805817,
+      "Y": -128.28015
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "A to B",
+    "Position": {
+      "X": 1119.0393,
+      "Y": 2569.171,
+      "Z": 96.19978
+    },
+    "Throw type": "1",
+    "Viewangle": {
+      "X": -17.127686,
+      "Y": -172.56638
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Site to Doors",
+    "Position": {
+      "X": 1119.0393,
+      "Y": 2569.171,
+      "Z": 96.19978
+    },
+    "Throw type": "1",
+    "Viewangle": {
+      "X": -32.24179,
+      "Y": -100.956116
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Top Boxes to Short",
+    "Position": {
+      "X": 723.06,
+      "Y": 2763.9663,
+      "Z": 170.10849
+    },
+    "Viewangle": {
+      "X": -37.58766,
+      "Y": -113.826256
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Top Boxes to Short",
+    "Position": {
+      "X": 723.06,
+      "Y": 2763.9663,
+      "Z": 170.10849
+    },
+    "Viewangle": {
+      "X": 1.0883331,
+      "Y": -110.52624
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Top Box to B Entrance",
+    "Position": {
+      "X": 723.06,
+      "Y": 2763.9663,
+      "Z": 170.10849
+    },
+    "Throw type": "1",
+    "Viewangle": {
+      "X": -26.763733,
+      "Y": -162.07237
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Top Box to B Doors",
+    "Position": {
+      "X": 723.06,
+      "Y": 2763.9663,
+      "Z": 170.10849
+    },
+    "Throw type": "1",
+    "Viewangle": {
+      "X": -54.615784,
+      "Y": -166.69177
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "A site to Default",
+    "Position": {
+      "X": 1040.8076,
+      "Y": 2321.8455,
+      "Z": 127.03125
+    },
+    "Throw type": "1",
+    "Viewangle": {
+      "X": -32.30771,
+      "Y": 172.05621
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "A site to B Doors",
+    "Position": {
+      "X": 1040.8076,
+      "Y": 2321.8455,
+      "Z": 127.03125
+    },
+    "Throw type": "1",
+    "Viewangle": {
+      "X": -14.421616,
+      "Y": -177.84564
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Elevator to Short",
+    "Position": {
+      "X": 1004.96875,
+      "Y": 2379.9683,
+      "Z": 27.467945
+    },
+    "Viewangle": {
+      "X": -9.471588,
+      "Y": -147.15569
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Elevator to B Stairs",
+    "Position": {
+      "X": 1004.96875,
+      "Y": 2379.9683,
+      "Z": 27.467937
+    },
+    "Throw type": "1",
+    "Viewangle": {
+      "X": -11.517456,
+      "Y": -177.0536
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Top Box to Default",
+    "Position": {
+      "X": 770.9347,
+      "Y": 2379.9688,
+      "Z": -35.34131
+    },
+    "Throw type": "1",
+    "Viewangle": {
+      "X": -27.95163,
+      "Y": 177.13873
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Top Box to B Doors",
+    "Position": {
+      "X": 770.9347,
+      "Y": 2379.9688,
+      "Z": -35.34131
+    },
+    "Throw type": "1",
+    "Viewangle": {
+      "X": -53.559723,
+      "Y": -176.59116
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Top Box to Short",
+    "Position": {
+      "X": 564.03125,
+      "Y": 2379.9666,
+      "Z": 67.03125
+    },
+    "Viewangle": {
+      "X": -8.613617,
+      "Y": -106.76308
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Top Box to Short",
+    "Position": {
+      "X": 564.03125,
+      "Y": 2379.9666,
+      "Z": 67.03125
+    },
+    "Viewangle": {
+      "X": -0.7597656,
+      "Y": -108.14907
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Top Box to B Entrance",
+    "Position": {
+      "X": 564.03125,
+      "Y": 2379.9666,
+      "Z": 67.03125
+    },
+    "Throw type": "1",
+    "Viewangle": {
+      "X": -36.861877,
+      "Y": -169.92485
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Top Box to B Doors",
+    "Position": {
+      "X": 564.03125,
+      "Y": 2379.9666,
+      "Z": 67.03125
+    },
+    "Throw type": "1",
+    "Viewangle": {
+      "X": -56.46389,
+      "Y": -175.46883
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "A to Tunnels",
+    "Position": {
+      "X": 1069.0313,
+      "Y": 2348.0337,
+      "Z": 99.19907
+    },
+    "Throw type": "1",
+    "Viewangle": {
+      "X": -61.28174,
+      "Y": -149.66263
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Site to Deep Short",
+    "Position": {
+      "X": 1069.0313,
+      "Y": 2348.0337,
+      "Z": 99.19907
+    },
+    "Viewangle": {
+      "X": -63.39386,
+      "Y": -133.82275
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Site to Deep Short",
+    "Position": {
+      "X": 1069.0313,
+      "Y": 2348.0337,
+      "Z": 99.19908
+    },
+    "Throw Throw type": "2",
+    "Throw type": "1",
+    "Viewangle": {
+      "X": -47.157776,
+      "Y": -133.49246
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "A to B Doors",
+    "Position": {
+      "X": 1069.0313,
+      "Y": 2348.0337,
+      "Z": 99.19907
+    },
+    "Throw type": "1",
+    "Viewangle": {
+      "X": -14.356049,
+      "Y": -177.31693
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Site to Doors",
+    "Position": {
+      "X": 1069.0313,
+      "Y": 2348.0337,
+      "Z": 99.19908
+    },
+    "Viewangle": {
+      "X": -40.756195,
+      "Y": -102.935715
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Site to Long",
+    "Position": {
+      "X": 1069.0313,
+      "Y": 2348.0337,
+      "Z": 99.19907
+    },
+    "Throw Throw type": "2",
+    "Throw type": "1",
+    "Viewangle": {
+      "X": -49.20433,
+      "Y": -78.91136
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Ramp to Short",
+    "Position": {
+      "X": 1313.4668,
+      "Y": 2448.927,
+      "Z": 58.99289
+    },
+    "Viewangle": {
+      "X": -12.706375,
+      "Y": -155.20764
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Ramp to Short",
+    "Position": {
+      "X": 1380.7101,
+      "Y": 2474.8354,
+      "Z": 48.952152
+    },
+    "Viewangle": {
+      "X": -13.366241,
+      "Y": -156.46146
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Site to Short",
+    "Position": {
+      "X": 1301.5457,
+      "Y": 2596.1292,
+      "Z": 90.39901
+    },
+    "Viewangle": {
+      "X": -13.432159,
+      "Y": -146.69357
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Goose to Short",
+    "Position": {
+      "X": 1051.0313,
+      "Y": 3059.968,
+      "Z": 131.49057
+    },
+    "Throw type": "1",
+    "Viewangle": {
+      "X": -71.908264,
+      "Y": -121.54793
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Ramp to Short",
+    "Position": {
+      "X": 1300.0313,
+      "Y": 2342.965,
+      "Z": 26.006418
+    },
+    "Throw Throw type": "2",
+    "Throw type": "1",
+    "Viewangle": {
+      "X": -54.55021,
+      "Y": -160.35541
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Ramp to Long",
+    "Position": {
+      "X": 1300.0313,
+      "Y": 2342.965,
+      "Z": 26.006418
+    },
+    "Viewangle": {
+      "X": -1.5521545,
+      "Y": -92.111435
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Ramp to Short",
+    "Position": {
+      "X": 1458.3737,
+      "Y": 2435.5835,
+      "Z": 32.58207
+    },
+    "Viewangle": {
+      "X": -16.006393,
+      "Y": -161.5433
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Pit to Cross",
+    "Position": {
+      "X": 1499.0538,
+      "Y": 423.02298,
+      "Z": -131.16144
+    },
+    "Throw type": "1",
+    "Viewangle": {
+      "X": -12.970047,
+      "Y": 97.41095
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Pit to Cross Perfect",
+    "Position": {
+      "X": 1499.0538,
+      "Y": 423.02298,
+      "Z": -131.16144
+    },
+    "Throw type": "1",
+    "Viewangle": {
+      "X": -11.320038,
+      "Y": 97.74054
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Side to Cross",
+    "Position": {
+      "X": 1768.9631,
+      "Y": 646.7711,
+      "Z": 56.00623
+    },
+    "Throw type": "1",
+    "Viewangle": {
+      "X": 1.351654,
+      "Y": 107.838715
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Short to Sniper Spot",
+    "Position": {
+      "X": 453.3409,
+      "Y": 1817.5216,
+      "Z": 100.917
+    },
+    "Viewangle": {
+      "X": -25.048141,
+      "Y": -119.3692
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Short to Barrels",
+    "Position": {
+      "X": 453.3409,
+      "Y": 1817.5216,
+      "Z": 100.917
+    },
+    "Viewangle": {
+      "X": -23.200043,
+      "Y": -119.765396
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Short to Sniper Spot",
+    "Position": {
+      "X": 453.3409,
+      "Y": 1817.5216,
+      "Z": 100.91701
+    },
+    "Throw type": "1",
+    "Viewangle": {
+      "X": -16.402252,
+      "Y": -117.85137
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Short to Mid Barrels",
+    "Position": {
+      "X": 453.3409,
+      "Y": 1817.5216,
+      "Z": 100.91701
+    },
+    "Throw type": "1",
+    "Viewangle": {
+      "X": -68.674164,
+      "Y": -117.58736
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Short to B Default",
+    "Position": {
+      "X": 453.3409,
+      "Y": 1817.5216,
+      "Z": 100.91701
+    },
+    "Throw type": "1",
+    "Viewangle": {
+      "X": -49.402084,
+      "Y": 161.62878
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Short Block Smoke",
+    "Position": {
+      "X": 488.22137,
+      "Y": 1598.3472,
+      "Z": 1.7943771
+    },
+    "Viewangle": {
+      "X": -29.40387,
+      "Y": 133.77673
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Short to A ",
+    "Position": {
+      "X": 267.96875,
+      "Y": 1348.0276,
+      "Z": 0.32698488
+    },
+    "Throw type": "1",
+    "Viewangle": {
+      "X": -67.55184,
+      "Y": 57.91237
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Short to Goose",
+    "Position": {
+      "X": 267.96875,
+      "Y": 1348.0276,
+      "Z": 0.32698298
+    },
+    "Throw type": "1",
+    "Viewangle": {
+      "X": -63.92189,
+      "Y": 61.938507
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Short to Ct",
+    "Position": {
+      "X": 267.96875,
+      "Y": 1348.0276,
+      "Z": 0.32698298
+    },
+    "Viewangle": {
+      "X": -17.52388,
+      "Y": 71.772644
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Short to Top Box",
+    "Position": {
+      "X": 267.96875,
+      "Y": 1348.0276,
+      "Z": 0.32698298
+    },
+    "Viewangle": {
+      "X": -13.233719,
+      "Y": 72.23442
+    }
+  },
+  {
+    "Nade": "incendiary",
+    "Name": "Short to Top Box",
+    "Position": {
+      "X": 267.96875,
+      "Y": 1348.0276,
+      "Z": 0.32698298
+    },
+    "Viewangle": {
+      "X": -17.391693,
+      "Y": 72.102585
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Short Block Short",
+    "Position": {
+      "X": 267.96875,
+      "Y": 1348.0276,
+      "Z": 0.32698298
+    },
+    "Viewangle": {
+      "X": -7.887848,
+      "Y": 77.2507
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Short Block Smoke",
+    "Position": {
+      "X": 489.96484,
+      "Y": 1446.029,
+      "Z": 0.55315447
+    },
+    "Viewangle": {
+      "X": -6.765869,
+      "Y": 88.33832
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Short to Ct",
+    "Position": {
+      "X": 188.25906,
+      "Y": 1334.0359,
+      "Z": 1.0837631
+    },
+    "Viewangle": {
+      "X": -15.741699,
+      "Y": 66.39038
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Short to Sniper Spot",
+    "Position": {
+      "X": 489.96973,
+      "Y": 1749.9619,
+      "Z": 4.9883065
+    },
+    "Viewangle": {
+      "X": -34.88159,
+      "Y": -121.48132
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Short to Barrels",
+    "Position": {
+      "X": 489.96973,
+      "Y": 1749.9619,
+      "Z": 4.9883065
+    },
+    "Viewangle": {
+      "X": -64.185905,
+      "Y": -122.40555
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Short to Ct",
+    "Position": {
+      "X": 489.7335,
+      "Y": 1677.5455,
+      "Z": 3.6674314
+    },
+    "Viewangle": {
+      "X": -26.037598,
+      "Y": 142.48889
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Short to Default",
+    "Position": {
+      "X": 489.7335,
+      "Y": 1677.5455,
+      "Z": 3.667427
+    },
+    "Viewangle": {
+      "X": -36.135406,
+      "Y": 159.25299
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Xbox to Ct",
+    "Position": {
+      "X": -275.03125,
+      "Y": 1345.5012,
+      "Z": -121.66492
+    },
+    "Throw type": "1",
+    "Viewangle": {
+      "X": -12.111389,
+      "Y": 128.76114
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Xbox to Default",
+    "Position": {
+      "X": -275.03125,
+      "Y": 1345.3655,
+      "Z": -122.77051
+    },
+    "Viewangle": {
+      "X": -54.813538,
+      "Y": 141.03699
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Xbox to Window",
+    "Position": {
+      "X": -275.02954,
+      "Y": 1344.0803,
+      "Z": -122.77161
+    },
+    "Throw type": "1",
+    "Viewangle": {
+      "X": -59.037437,
+      "Y": 126.78085
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Xbox to Doors",
+    "Position": {
+      "X": -275.02954,
+      "Y": 1344.0803,
+      "Z": -122.77161
+    },
+    "Throw type": "1",
+    "Viewangle": {
+      "X": -69.06967,
+      "Y": 138.52902
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Xbox to Short",
+    "Position": {
+      "X": -275.02954,
+      "Y": 1344.0803,
+      "Z": -122.77161
+    },
+    "Viewangle": {
+      "X": -80.749855,
+      "Y": 12.864655
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Xbox to Ct",
+    "Position": {
+      "X": -275.02954,
+      "Y": 1344.0803,
+      "Z": -122.77161
+    },
+    "Throw type": "1",
+    "Viewangle": {
+      "X": -68.27591,
+      "Y": 44.478836
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Xbox to Short Block",
+    "Position": {
+      "X": -275.02954,
+      "Y": 1344.0803,
+      "Z": -122.77161
+    },
+    "Throw type": "1",
+    "Viewangle": {
+      "X": -72.10396,
+      "Y": 46.194763
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Xbox to Doors",
+    "Position": {
+      "X": -275.02954,
+      "Y": 1344.0803,
+      "Z": -122.77161
+    },
+    "Viewangle": {
+      "X": -44.053802,
+      "Y": 67.578964
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Ct mid to Sniper ",
+    "Position": {
+      "X": -337.0327,
+      "Y": 2423.9688,
+      "Z": -87.11401
+    },
+    "Throw type": "1",
+    "Viewangle": {
+      "X": -10.525589,
+      "Y": -93.35907
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Ct mid to Sniper Block",
+    "Position": {
+      "X": -337.0327,
+      "Y": 2423.9688,
+      "Z": -87.11401
+    },
+    "Viewangle": {
+      "X": -27.619629,
+      "Y": -93.35907
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Ct Mid to Sniper Spot",
+    "Position": {
+      "X": -337.0327,
+      "Y": 2423.9688,
+      "Z": -87.11401
+    },
+    "Throw type": "1",
+    "Viewangle": {
+      "X": -36.595795,
+      "Y": -93.29281
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Truck to Car",
+    "Position": {
+      "X": -618.035,
+      "Y": 2549.5315,
+      "Z": -81.838745
+    },
+    "Viewangle": {
+      "X": -34.681778,
+      "Y": -149.35707
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Truck to B Entrance",
+    "Position": {
+      "X": -618.035,
+      "Y": 2549.5315,
+      "Z": -81.838745
+    },
+    "Viewangle": {
+      "X": -37.18976,
+      "Y": -151.60138
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Truck to Default",
+    "Position": {
+      "X": -618.035,
+      "Y": 2502.2095,
+      "Z": -83.11719
+    },
+    "Throw Throw type": "2",
+    "Throw type": "1",
+    "Viewangle": {
+      "X": -50.587585,
+      "Y": -179.51901
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Window to Default",
+    "Position": {
+      "X": -1273.9688,
+      "Y": 2575.9685,
+      "Z": 70.396736
+    },
+    "Throw type": "1",
+    "Viewangle": {
+      "X": -6.5657043,
+      "Y": 0.9249115
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Long to Short",
+    "Position": {
+      "X": 880.8367,
+      "Y": 948.49963,
+      "Z": 0.21140599
+    },
+    "Viewangle": {
+      "X": -38.24582,
+      "Y": 136.85461
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Long to Cross",
+    "Position": {
+      "X": 880.8367,
+      "Y": 948.49963,
+      "Z": 0.21140599
+    },
+    "Viewangle": {
+      "X": -59.62967,
+      "Y": 77.05844
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Long to Late Long Cross",
+    "Position": {
+      "X": 900.73425,
+      "Y": 1070.9683,
+      "Z": 1.0381541
+    },
+    "Throw type": "1",
+    "Viewangle": {
+      "X": -70.91572,
+      "Y": 78.90622
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Long to Cross",
+    "Position": {
+      "X": 900.73425,
+      "Y": 1070.9683,
+      "Z": 1.0381541
+    },
+    "Viewangle": {
+      "X": -55.207672,
+      "Y": 79.56641
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Doors to Car",
+    "Position": {
+      "X": 916.03296,
+      "Y": 1123.9688,
+      "Z": 1.4167843
+    },
+    "Viewangle": {
+      "X": -63.25962,
+      "Y": 46.764343
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Doors to Cross",
+    "Position": {
+      "X": 916.03296,
+      "Y": 1123.9688,
+      "Z": 1.4167843
+    },
+    "Viewangle": {
+      "X": -68.86986,
+      "Y": 77.652405
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Long to Short Block",
+    "Position": {
+      "X": 916.03296,
+      "Y": 1123.9688,
+      "Z": 1.4167824
+    },
+    "Viewangle": {
+      "X": -72.69791,
+      "Y": 114.21628
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Long to Ct",
+    "Position": {
+      "X": 516.0295,
+      "Y": 982.4053,
+      "Z": 0.70079327
+    },
+    "Viewangle": {
+      "X": -52.897797,
+      "Y": 89.004364
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Long to Cross",
+    "Position": {
+      "X": 516.0295,
+      "Y": 982.4053,
+      "Z": 0.70079327
+    },
+    "Viewangle": {
+      "X": -55.00992,
+      "Y": 62.01027
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Long to Cross",
+    "Position": {
+      "X": 860.03125,
+      "Y": 790.033,
+      "Z": 4.313516
+    },
+    "Throw type": "1",
+    "Viewangle": {
+      "X": -66.75774,
+      "Y": 75.40845
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "B to Short",
+    "Position": {
+      "X": -1765.0313,
+      "Y": 2752.1563,
+      "Z": 34.093292
+    },
+    "Throw type": "1",
+    "Viewangle": {
+      "X": -39.367798,
+      "Y": -37.979736
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "B to Short Block",
+    "Position": {
+      "X": -1765.0313,
+      "Y": 2752.1563,
+      "Z": 34.09329
+    },
+    "Throw type": "1",
+    "Viewangle": {
+      "X": -47.485657,
+      "Y": -14.945526
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "B Cubby to Cubby",
+    "Position": {
+      "X": -2182.9668,
+      "Y": 2285.827,
+      "Z": 4.181237
+    },
+    "Viewangle": {
+      "X": -39.367798,
+      "Y": -82.72774
+    }
+  },
+  {
+    "Nade": "flashbang",
+    "Name": "B Popflash",
+    "Position": {
+      "X": -1764.9674,
+      "Y": 1814.0313,
+      "Z": 3.1741061
+    },
+    "Throw type": "1",
+    "Viewangle": {
+      "X": -12.571793,
+      "Y": -25.307693
+    }
+  },
+  {
+    "Nade": "flashbang",
+    "Name": "Tunnel Entry to B",
+    "Position": {
+      "X": -1705.9622,
+      "Y": 906.8439,
+      "Z": 34.282166
+    },
+    "Throw type": "1",
+    "Viewangle": {
+      "X": -25.771515,
+      "Y": 89.832794
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Tunnels to Default",
+    "Position": {
+      "X": -1830.7521,
+      "Y": 1261.6621,
+      "Z": 71.0283
+    },
+    "Throw type": "1",
+    "Viewangle": {
+      "X": -70.12367,
+      "Y": 85.51242
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Tunnels to Doors",
+    "Position": {
+      "X": -1830.7521,
+      "Y": 1261.6621,
+      "Z": 71.0283
+    },
+    "Viewangle": {
+      "X": -68.935776,
+      "Y": 62.610397
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Tunnels to Window",
+    "Position": {
+      "X": -1730.0461,
+      "Y": 1064.0331,
+      "Z": 32.585194
+    },
+    "Throw type": "1",
+    "Viewangle": {
+      "X": -62.00821,
+      "Y": 76.14041
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Tunnel to Door",
+    "Position": {
+      "X": -1730.0461,
+      "Y": 1064.0331,
+      "Z": 32.585197
+    },
+    "Throw type": "1",
+    "Viewangle": {
+      "X": -71.31397,
+      "Y": 71.0582
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Tunnel to Default",
+    "Position": {
+      "X": -1806.4907,
+      "Y": 982.07135,
+      "Z": 40.553635
+    },
+    "Viewangle": {
+      "X": -51.052094,
+      "Y": 84.39044
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Tunnels to Doors",
+    "Position": {
+      "X": -1806.4907,
+      "Y": 982.07135,
+      "Z": 40.553635
+    },
+    "Throw type": "1",
+    "Viewangle": {
+      "X": -70.587845,
+      "Y": 68.088455
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Tunnels Lurk Smoke",
+    "Position": {
+      "X": -1769.3463,
+      "Y": 989.7067,
+      "Z": 38.877945
+    },
+    "Viewangle": {
+      "X": -4.7855835,
+      "Y": 111.97815
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Tunnels to Doors",
+    "Position": {
+      "X": -1859.7904,
+      "Y": 1044.3075,
+      "Z": 37.30544
+    },
+    "Viewangle": {
+      "X": -56.595383,
+      "Y": 65.84381
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Tunnels to Default",
+    "Position": {
+      "X": -1936.9688,
+      "Y": 1042.0314,
+      "Z": 34.037758
+    },
+    "Throw type": "1",
+    "Viewangle": {
+      "X": -41.349457,
+      "Y": 83.9939
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Tunnels to Doors",
+    "Position": {
+      "X": -1936.9688,
+      "Y": 1042.0314,
+      "Z": 34.037758
+    },
+    "Viewangle": {
+      "X": -55.73742,
+      "Y": 63.666107
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Tunnels to Default",
+    "Position": {
+      "X": -2007.0313,
+      "Y": 1042.0327,
+      "Z": 37.28161
+    },
+    "Viewangle": {
+      "X": -52.767334,
+      "Y": 76.66809
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Tunnels to Car",
+    "Position": {
+      "X": -2168.9688,
+      "Y": 1042.0317,
+      "Z": 40.183567
+    },
+    "Viewangle": {
+      "X": -46.10138,
+      "Y": 38.256104
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Tunnels to Doors",
+    "Position": {
+      "X": -2168.9688,
+      "Y": 1042.0317,
+      "Z": 40.183567
+    },
+    "Throw type": "1",
+    "Viewangle": {
+      "X": -68.607216,
+      "Y": 54.492523
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Tunnel to Doors",
+    "Position": {
+      "X": -2185.9688,
+      "Y": 1059.0313,
+      "Z": 39.656197
+    },
+    "Viewangle": {
+      "X": -52.569237,
+      "Y": 53.436462
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Cubby to Doors",
+    "Position": {
+      "X": -2185.9683,
+      "Y": 1244.9688,
+      "Z": 39.679558
+    },
+    "Viewangle": {
+      "X": -64.1193,
+      "Y": 46.770508
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Tunnels to Car",
+    "Position": {
+      "X": -2185.9683,
+      "Y": 1244.9688,
+      "Z": 39.679554
+    },
+    "Viewangle": {
+      "X": -55.869255,
+      "Y": 30.930634
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Outside to Doors",
+    "Position": {
+      "X": -1331.946,
+      "Y": 491.468,
+      "Z": 8.03125
+    },
+    "Throw type": "1",
+    "Viewangle": {
+      "X": -61.54541,
+      "Y": 91.0564
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Outside to Default",
+    "Position": {
+      "X": -1331.946,
+      "Y": 491.468,
+      "Z": 8.03125
+    },
+    "Throw type": "1",
+    "Viewangle": {
+      "X": -55.341225,
+      "Y": 100.56027
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Outside to Window",
+    "Position": {
+      "X": -1331.946,
+      "Y": 491.468,
+      "Z": 8.03125
+    },
+    "Throw type": "1",
+    "Viewangle": {
+      "X": -46.62906,
+      "Y": 89.73633
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "T Spawn to Cross",
+    "Position": {
+      "X": 269.8149,
+      "Y": 11.412811,
+      "Z": 0.5267508
+    },
+    "Throw type": "1",
+    "Viewangle": {
+      "X": -44.45102,
+      "Y": 66.04225
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "T Spawn to Short Block",
+    "Position": {
+      "X": 269.8149,
+      "Y": 11.412811,
+      "Z": 0.526752
+    },
+    "Viewangle": {
+      "X": -50.852966,
+      "Y": 83.59839
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "T Spawn to Long Entrance",
+    "Position": {
+      "X": 269.8149,
+      "Y": 11.412811,
+      "Z": 0.526752
+    },
+    "Throw type": "1",
+    "Viewangle": {
+      "X": -65.24094,
+      "Y": 50.862244
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "T to Long Entrance",
+    "Position": {
+      "X": -186.59576,
+      "Y": -660.0342,
+      "Z": 49.466084
+    },
+    "Throw type": "1",
+    "Viewangle": {
+      "X": -20.42804,
+      "Y": 52.746048
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "T to Short",
+    "Position": {
+      "X": -186.59576,
+      "Y": -660.0342,
+      "Z": 49.466084
+    },
+    "Throw type": "1",
+    "Viewangle": {
+      "X": -43.329742,
+      "Y": 89.0459
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "T to Long Entrance",
+    "Position": {
+      "X": -166.47748,
+      "Y": -593.9403,
+      "Z": 0.901495
+    },
+    "Throw type": "1",
+    "Viewangle": {
+      "X": -51.909714,
+      "Y": 50.89795
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "T to Long Entrance",
+    "Position": {
+      "X": -166.47748,
+      "Y": -593.9403,
+      "Z": 0.9014931
+    },
+    "Throw type": "1",
+    "Viewangle": {
+      "X": -37.455475,
+      "Y": 54.725647
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "T to Xbox ",
+    "Position": {
+      "X": -299.96875,
+      "Y": -1163.9661,
+      "Z": 77.68315
+    },
+    "Throw type": "1",
+    "Viewangle": {
+      "X": -12.243576,
+      "Y": 90.16788
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "T to Long Entrance",
+    "Position": {
+      "X": -299.96875,
+      "Y": -1163.9661,
+      "Z": 77.68315
+    },
+    "Throw type": "1",
+    "Viewangle": {
+      "X": -21.747437,
+      "Y": 55.979797
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "T to Xbox",
+    "Position": {
+      "X": -403.81067,
+      "Y": -1051.9675,
+      "Z": 105.37746
+    },
+    "Throw type": "1",
+    "Viewangle": {
+      "X": -25.575485,
+      "Y": 86.999695
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "T to Double Door",
+    "Position": {
+      "X": -403.81067,
+      "Y": -1051.9675,
+      "Z": 105.37746
+    },
+    "Throw type": "1",
+    "Viewangle": {
+      "X": -18.447418,
+      "Y": 89.11182
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "T to Short",
+    "Position": {
+      "X": -512.33905,
+      "Y": -662.5723,
+      "Z": 126.2566
+    },
+    "Throw type": "1",
+    "Viewangle": {
+      "X": -26.697464,
+      "Y": 80.39966
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "T to Short",
+    "Position": {
+      "X": -496.36633,
+      "Y": -664.256,
+      "Z": 124.902
+    },
+    "Throw type": "1",
+    "Viewangle": {
+      "X": -44.78131,
+      "Y": 83.36975
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "T to Short",
+    "Position": {
+      "X": -496.36633,
+      "Y": -664.256,
+      "Z": 124.90199
+    },
+    "Throw type": "1",
+    "Viewangle": {
+      "X": -34.881256,
+      "Y": 81.19171
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "T to Long Entrance",
+    "Position": {
+      "X": -496.36633,
+      "Y": -664.256,
+      "Z": 124.90199
+    },
+    "Throw type": "1",
+    "Viewangle": {
+      "X": -32.17517,
+      "Y": 47.66385
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "T to Xbox",
+    "Position": {
+      "X": -496.36633,
+      "Y": -664.256,
+      "Z": 124.90199
+    },
+    "Throw type": "1",
+    "Viewangle": {
+      "X": -10.857239,
+      "Y": 83.963684
+    }
+  },
+  {
+    "Nade": "smoke",
+    "Name": "Doors to Long Entrance",
+    "Position": {
+      "X": 539.0324,
+      "Y": 342.4092,
+      "Z": 1.5674412
+    },
+    "Viewangle": {
+      "X": -61.743164,
+      "Y": 53.40558
+    }
+  }
+]
 }
