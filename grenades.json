@@ -1,450 +1,6662 @@
-[
-    {
-        "Name": "Test1",
-        "Map": "de_mirage",
-        "ThrowType": "Throw",
-        "GrenadeType": "Smoke",
-        "Position": [
-            1422.97,
-            36.47,
-            -167.969
-        ],
-        "ViewAngles": [
-            -40.47,
-            -164.41,
-            0
-        ]
-    },
-    {
-        "Name": "Test2",
-        "Map": "de_mirage",
-        "ThrowType": "Throw",
-        "GrenadeType": "Flashbang",
-        "Position": [
-            -879.969,
-            -1306.03,
-            -167.969
-        ],
-        "ViewAngles": [
-            -27.3858,
-            -27.9901,
-            0
-        ]
-    },
-    {
-        "Name": "Test3",
-        "Map": "de_mirage",
-        "ThrowType": "JumpThrow+D",
-        "GrenadeType": "Smoke",
-        "Position": [
-            1389.47,
-            70.9687,
-            -167.969
-        ],
-        "ViewAngles": [
-            -36.2164,
-            -163.811,
-            0
-        ]
-    },
-    {
-        "Name": "Test4",
-        "Map": "de_mirage",
-        "ThrowType": "JumpThrow",
-        "GrenadeType": "Smoke",
-        "Position": [
-            1089.77,
-            -1014.28,
-            -257.717
-        ],
-        "ViewAngles": [
-            -29.1199,
-            -143.65,
-            0
-        ]
-    },
-    {
-        "Name": "Test5",
-        "Map": "de_mirage",
-        "ThrowType": "JumpThrow",
-        "GrenadeType": "Smoke",
-        "Position": [
-            1089.77,
-            -1014.28,
-            -257.717
-        ],
-        "ViewAngles": [
-            -29.1199,
-            -143.65,
-            0
-        ]
-    },
-    {
-        "Name": "Test6",
-        "Map": "de_mirage",
-        "ThrowType": "Throw",
-        "GrenadeType": "Flashbang",
-        "Position": [
-            821.718,
-            -1036.03,
-            -251.969
-        ],
-        "ViewAngles": [
-            -35.7729,
-            -145.263,
-            0
-        ]
-    },
-    {
-        "Name": "Test7",
-        "Map": "de_mirage",
-        "ThrowType": "JumpThrow",
-        "GrenadeType": "Smoke",
-        "Position": [
-            911.797,
-            -1036.03,
-            -251.969
-        ],
-        "ViewAngles": [
-            -57.3047,
-            -161.311,
-            0
-        ]
-    },
-    {
-        "Name": "Test8",
-        "Map": "de_mirage",
-        "ThrowType": "JumpThrow",
-        "GrenadeType": "Smoke",
-        "Position": [
-            911.797,
-            -1036.03,
-            -251.969
-        ],
-        "ViewAngles": [
-            -64.5041,
-            -160.585,
-            0
-        ]
-    },
-    {
-        "Name": "Test9",
-        "Map": "de_mirage",
-        "ThrowType": "JumpThrow",
-        "GrenadeType": "Smoke",
-        "Position": [
-            1127.97,
-            -1210.05,
-            -108.969
-        ],
-        "ViewAngles": [
-            -22.6906,
-            165.908,
-            0
-        ]
-    },
-    {
-        "Name": "Test10",
-        "Map": "de_mirage",
-        "ThrowType": "Throw",
-        "GrenadeType": "Flashbang",
-        "Position": [
-            240.721,
-            -2280.03,
-            -39.9688
-        ],
-        "ViewAngles": [
-            -9.66684,
-            -154.415,
-            0
-        ]
-    },
-    {
-        "Name": "Test11",
-        "Map": "de_mirage",
-        "ThrowType": "JumpThrow",
-        "GrenadeType": "Smoke",
-        "Position": [
-            -2026.4,
-            -2029.97,
-            -299.121
-        ],
-        "ViewAngles": [
-            -30.9163,
-            -3.20954,
-            0
-        ]
-    },
-    {
-        "Name": "Test12",
-        "Map": "de_mirage",
-        "ThrowType": "JumpThrow+D",
-        "GrenadeType": "Smoke",
-        "Position": [
-            -2026.4,
-            -2029.97,
-            -299.12
-        ],
-        "ViewAngles": [
-            -35.0291,
-            30.6206,
-            0
-        ]
-    },
-    {
-        "Name": "Test13",
-        "Map": "de_mirage",
-        "ThrowType": "JumpThrow",
-        "GrenadeType": "Smoke",
-        "Position": [
-            -160.031,
-            887.969,
-            -135.328
-        ],
-        "ViewAngles": [
-            -47.3271,
-            -152.882,
-            0
-        ]
-    },
-    {
-        "Name": "Test14",
-        "Map": "de_mirage",
-        "ThrowType": "JumpThrow",
-        "GrenadeType": "Smoke",
-        "Position": [
-            -161.151,
-            576.144,
-            -69.7766
-        ],
-        "ViewAngles": [
-            -6.80395,
-            -154.243,
-            0
-        ]
-    },
-    {
-        "Name": "Test15",
-        "Map": "de_mirage",
-        "ThrowType": "Throw",
-        "GrenadeType": "Incendiary",
-        "Position": [
-            -1167.02,
-            663.612,
-            -79.9688
-        ],
-        "ViewAngles": [
-            -9.54583,
-            173.208,
-            0
-        ]
-    },
-    {
-        "Name": "Test16",
-        "Map": "de_mirage",
-        "ThrowType": "JumpThrow",
-        "GrenadeType": "Smoke",
-        "Position": [
-            1422.97,
-            36.4688,
-            -167.969
-        ],
-        "ViewAngles": [
-            -20.5536,
-            -158.222,
-            0
-        ]
-    },
-    {
-        "Name": "Test17",
-        "Map": "de_mirage",
-        "ThrowType": "Throw",
-        "GrenadeType": "Flashbang",
-        "Position": [
-            418.91,
-            382.36,
-            -257.456
-        ],
-        "ViewAngles": [
-            -22.8519,
-            -110.128,
-            0
-        ]
-    },
-    {
-        "Name": "Test18",
-        "Map": "de_mirage",
-        "ThrowType": "Throw",
-        "GrenadeType": "Smoke",
-        "Position": [
-            360.075,
-            -691.969,
-            -163.355
-        ],
-        "ViewAngles": [
-            -41.1669,
-            -153.352,
-            0
-        ]
-    },
-    {
-        "Name": "Test19",
-        "Map": "de_mirage",
-        "ThrowType": "Throw",
-        "GrenadeType": "Smoke",
-        "Position": [
-            360.075,
-            -691.969,
-            -163.355
-        ],
-        "ViewAngles": [
-            -24.9576,
-            160.923,
-            0
-        ]
-    },
-    {
-        "Name": "Test20",
-        "Map": "de_mirage",
-        "ThrowType": "Throw",
-        "GrenadeType": "Flashbang",
-        "Position": [
-            343.302,
-            -621.619,
-            -162.332
-        ],
-        "ViewAngles": [
-            -9.59782,
-            -169.115,
-            0
-        ]
-    },
-    {
-        "Name": "Test21",
-        "Map": "de_mirage",
-        "ThrowType": "Throw",
-        "GrenadeType": "Flashbang",
-        "Position": [
-            343.302,
-            -621.619,
-            -162.332
-        ],
-        "ViewAngles": [
-            -10.1623,
-            -169.679,
-            0
-        ]
-    },
-    {
-        "Name": "Test22",
-        "Map": "de_mirage",
-        "ThrowType": "RunThrow",
-        "GrenadeType": "Incendiary",
-        "Position": [
-            -1343.8,
-            815.972,
-            -79.9688
-        ],
-        "ViewAngles": [
-            -5.08179,
-            -159.841,
-            0
-        ]
-    },
-    {
-        "Name": "Test23",
-        "Map": "de_mirage",
-        "ThrowType": "Throw",
-        "GrenadeType": "Incendiary",
-        "Position": [
-            23.8356,
-            -2367.79,
-            -39.9688
-        ],
-        "ViewAngles": [
-            9.39365,
-            75.4853,
-            0
-        ]
-    },
-    {
-        "Name": "Test24",
-        "Map": "de_mirage",
-        "ThrowType": "RunJumpThrow",
-        "GrenadeType": "Flashbang",
-        "Position": [
-            -747.98,
-            -2095.37,
-            -179.969
-        ],
-        "ViewAngles": [
-            -18.1863,
-            69.2356,
-            0
-        ]
-    },
-    {
-        "Name": "Test25",
-        "Map": "de_mirage",
-        "ThrowType": "Throw",
-        "GrenadeType": "Smoke",
-        "Position": [
-            -661.382,
-            -1419,
-            -167.969
-        ],
-        "ViewAngles": [
-            -21.291,
-            -46.1554,
-            0
-        ]
-    },
-    {
-        "Name": "Test26",
-        "Map": "de_mirage",
-        "ThrowType": "Throw",
-        "GrenadeType": "Incendiary",
-        "Position": [
-            -661.382,
-            -1419,
-            -167.969
-        ],
-        "ViewAngles": [
-            -21.8555,
-            -48.2118,
-            0
-        ]
-    },
-    {
-        "Name": "Test27",
-        "Map": "de_mirage",
-        "ThrowType": "Throw",
-        "GrenadeType": "Flashbang",
-        "Position": [
-            -1447.5,
-            108.032,
-            -165.526
-        ],
-        "ViewAngles": [
-            -11.3388,
-            132.475,
-            0
-        ]
-    },
-    {
-        "Name": "Test28",
-        "Map": "de_mirage",
-        "ThrowType": "Jumpthrow",
-        "GrenadeType": "Smoke",
-        "Position": [
-            -694.241,
-            615.967,
-            -80.1671
-        ],
-        "ViewAngles": [
-            -39.1138,
-            -96.0798,
-            0
-        ]
-    }
-]
+{
+    "de_mirage": [
+        {
+            "Nade": 45,
+            "Name": "Ct to Palace",
+            "Position": {
+                "X": -2031.9706,
+                "Y": -1766.1841,
+                "Z": -298.14417
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -29.435806,
+                "Y": -9.992065
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Ct to Palace",
+            "Position": {
+                "X": -2031.9706,
+                "Y": -1766.1841,
+                "Z": -298.14417
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -46.19992,
+                "Y": -11.246216
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Ct to Palace",
+            "Position": {
+                "X": -2026.399,
+                "Y": -2029.9688,
+                "Z": -299.1206
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -46.068085,
+                "Y": -3.7882233
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Ct to Tetris",
+            "Position": {
+                "X": -2026.399,
+                "Y": -2029.9688,
+                "Z": -299.1206
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -52.602196,
+                "Y": 15.616028
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Ct to Ramp",
+            "Position": {
+                "X": -2026.399,
+                "Y": -2029.9688,
+                "Z": -299.1206
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -12.936066,
+                "Y": 12.580032
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Ct to Palace",
+            "Position": {
+                "X": -2026.399,
+                "Y": -2029.9688,
+                "Z": -299.1206
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -34.583923,
+                "Y": -3.1280212
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Ct to Ramp",
+            "Position": {
+                "X": -1710.9688,
+                "Y": -1208.0328,
+                "Z": -255.0774
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -55.242004,
+                "Y": -10.586014
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Ct to Apps",
+            "Position": {
+                "X": -1542.0837,
+                "Y": -1201.9081,
+                "Z": -253.70245
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -52.536278,
+                "Y": 97.78589
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Market to Palace",
+            "Position": {
+                "X": -1711.9688,
+                "Y": -761.03156,
+                "Z": -167.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -24.156189,
+                "Y": -36.655884
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Market to Stairs",
+            "Position": {
+                "X": -1711.9688,
+                "Y": -761.03156,
+                "Z": -167.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -65.0758,
+                "Y": -33.619873
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Market to Palace",
+            "Position": {
+                "X": -1711.9688,
+                "Y": -761.03156,
+                "Z": -167.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -34.980133,
+                "Y": -36.7218
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Market to Apps",
+            "Position": {
+                "X": -1957.3323,
+                "Y": -321.37524,
+                "Z": -167.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": 5.8079834,
+                "Y": 71.98001
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Market to Apps",
+            "Position": {
+                "X": -1999.9688,
+                "Y": -247.96753,
+                "Z": -158.97339
+            },
+            "Viewangle": {
+                "X": -19.799774,
+                "Y": 69.53763
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Ct to Top Mid",
+            "Position": {
+                "X": -1547.9779,
+                "Y": -2407.9688,
+                "Z": -240.01154
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -35.309723,
+                "Y": 49.34166
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Garbage to Apps",
+            "Position": {
+                "X": -2415.9685,
+                "Y": -115.757324,
+                "Z": -161.7721
+            },
+            "Viewangle": {
+                "X": -26.729736,
+                "Y": 44.259796
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Market to Short",
+            "Position": {
+                "X": -2217.7622,
+                "Y": -47.910156,
+                "Z": -165.71875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -62.963676,
+                "Y": -12.500381
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Default to Market Door",
+            "Position": {
+                "X": -1969.0469,
+                "Y": 450.0351,
+                "Z": -159.96875
+            },
+            "Viewangle": {
+                "X": -13.828003,
+                "Y": -127.472305
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Default to Market Window",
+            "Position": {
+                "X": -1969.0469,
+                "Y": 450.0351,
+                "Z": -159.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -8.415863,
+                "Y": -140.21027
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Apps to Gated Window",
+            "Position": {
+                "X": -1230.361,
+                "Y": 801.97186,
+                "Z": -79.96875
+            },
+            "Viewangle": {
+                "X": 1.417923,
+                "Y": -162.45242
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Desert to Arches",
+            "Position": {
+                "X": -784.9785,
+                "Y": 622.9753,
+                "Z": -75.96875
+            },
+            "Viewangle": {
+                "X": -73.09616,
+                "Y": -151.8266
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Desert to Bench",
+            "Position": {
+                "X": -735.8968,
+                "Y": 623.8515,
+                "Z": -75.96875
+            },
+            "Viewangle": {
+                "X": -53.36197,
+                "Y": -172.02255
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Bench to Default",
+            "Position": {
+                "X": -735.8968,
+                "Y": 623.8515,
+                "Z": -75.96875
+            },
+            "Viewangle": {
+                "X": -51.514206,
+                "Y": -171.75854
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Desert to Arches",
+            "Position": {
+                "X": -728.0043,
+                "Y": 524.03534,
+                "Z": -77.39581
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -26.301956,
+                "Y": 148.77344
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Desert to Arches",
+            "Position": {
+                "X": -702.8837,
+                "Y": 520.9809,
+                "Z": -76.877075
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -27.687958,
+                "Y": 143.99164
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Desert to Default",
+            "Position": {
+                "X": -624.21954,
+                "Y": 615.96844,
+                "Z": -78.9718
+            },
+            "Viewangle": {
+                "X": -45.045654,
+                "Y": -171.12854
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Desert to Bench",
+            "Position": {
+                "X": -601.425,
+                "Y": 610.2598,
+                "Z": -79.30646
+            },
+            "Viewangle": {
+                "X": -45.837708,
+                "Y": -174.16455
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Desert to Arches",
+            "Position": {
+                "X": -601.425,
+                "Y": 610.2598,
+                "Z": -79.30646
+            },
+            "Viewangle": {
+                "X": -72.30377,
+                "Y": -166.1126
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Desert to Bench",
+            "Position": {
+                "X": -545.9049,
+                "Y": 580.40027,
+                "Z": -80.75592
+            },
+            "Viewangle": {
+                "X": -41.547546,
+                "Y": -173.6365
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Desert to Default",
+            "Position": {
+                "X": -540.64435,
+                "Y": 520.0347,
+                "Z": -78.75275
+            },
+            "Viewangle": {
+                "X": -56.595726,
+                "Y": -179.4445
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Desert to Bench",
+            "Position": {
+                "X": -545.8425,
+                "Y": 562.62024,
+                "Z": -81.084656
+            },
+            "Viewangle": {
+                "X": -41.61415,
+                "Y": -173.6365
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Desert to Default",
+            "Position": {
+                "X": -545.8425,
+                "Y": 562.62024,
+                "Z": -81.084656
+            },
+            "Viewangle": {
+                "X": -56.661987,
+                "Y": -179.18048
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Desert to Site Default",
+            "Position": {
+                "X": -504.71887,
+                "Y": 520.0545,
+                "Z": -79.091064
+            },
+            "Viewangle": {
+                "X": -56.53015,
+                "Y": -179.57669
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Desert to Con",
+            "Position": {
+                "X": -460.9444,
+                "Y": 782.9485,
+                "Z": -71.96875
+            },
+            "Viewangle": {
+                "X": -37.521744,
+                "Y": -95.690575
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Desert to Jungle",
+            "Position": {
+                "X": -460.9444,
+                "Y": 782.9485,
+                "Z": -71.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -47.68582,
+                "Y": -94.172745
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Desert to Jungle",
+            "Position": {
+                "X": -370.97424,
+                "Y": 887.96765,
+                "Z": -79.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -40.689926,
+                "Y": -96.28452
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Desert to Short",
+            "Position": {
+                "X": -370.97424,
+                "Y": 887.96765,
+                "Z": -79.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -42.9998,
+                "Y": -93.644714
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Desert to Stairs",
+            "Position": {
+                "X": -351.96875,
+                "Y": 887.96686,
+                "Z": -124.97455
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -40.62401,
+                "Y": -93.512535
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Desert to Jungle",
+            "Position": {
+                "X": -351.96875,
+                "Y": 887.96686,
+                "Z": -124.97455
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -42.01001,
+                "Y": -97.01065
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Desert to Market Door",
+            "Position": {
+                "X": -246.90063,
+                "Y": 887.967,
+                "Z": -132.5954
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -42.00966,
+                "Y": -151.1966
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Desert to Market Door",
+            "Position": {
+                "X": -160.03125,
+                "Y": 887.9685,
+                "Z": -135.32813
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -46.035797,
+                "Y": -153.04471
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Desert to Market Window",
+            "Position": {
+                "X": -160.03125,
+                "Y": 887.9685,
+                "Z": -135.32813
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -50.91957,
+                "Y": -146.70868
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Desert to Window",
+            "Position": {
+                "X": -291.44,
+                "Y": 601.00684,
+                "Z": -77.55383
+            },
+            "Viewangle": {
+                "X": -40.623657,
+                "Y": -121.95854
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Desert to Market Window",
+            "Position": {
+                "X": -161.03412,
+                "Y": 468.8551,
+                "Z": -68.87903
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -59.63173,
+                "Y": -158.25874
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Desert to Window",
+            "Position": {
+                "X": -161.03412,
+                "Y": 468.8551,
+                "Z": -68.87903
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -66.09959,
+                "Y": -130.53886
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Desert to Market Door",
+            "Position": {
+                "X": -161.03412,
+                "Y": 468.8551,
+                "Z": -68.87903
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -19.437561,
+                "Y": -161.55876
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Desert to Bench",
+            "Position": {
+                "X": -154.73883,
+                "Y": 409.6928,
+                "Z": -42.543457
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -50.98584,
+                "Y": -179.70886
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Desert to Arches",
+            "Position": {
+                "X": -148.03125,
+                "Y": 358.0321,
+                "Z": -34.424072
+            },
+            "Viewangle": {
+                "X": -61.941605,
+                "Y": -174.42924
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Desert to Market Door",
+            "Position": {
+                "X": -160.09052,
+                "Y": 759.9743,
+                "Z": -134.5863
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -46.959686,
+                "Y": -154.1011
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Ladder to Ramp",
+            "Position": {
+                "X": -911.2775,
+                "Y": -30.03125,
+                "Z": -167.7749
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -58.707504,
+                "Y": -53.415184
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Top Mid to Short",
+            "Position": {
+                "X": 360.07312,
+                "Y": -691.97107,
+                "Z": -163.35522
+            },
+            "Viewangle": {
+                "X": -24.849365,
+                "Y": 160.79074
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Top Mid to Window",
+            "Position": {
+                "X": 343.30185,
+                "Y": -621.61957,
+                "Z": -162.33173
+            },
+            "Viewangle": {
+                "X": -40.029373,
+                "Y": 178.94049
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Tv room to Right Arch",
+            "Position": {
+                "X": 496.0539,
+                "Y": 679.9683,
+                "Z": -135.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -51.645355,
+                "Y": -172.21515
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Tv room to Arches",
+            "Position": {
+                "X": 445.96854,
+                "Y": 626.96875,
+                "Z": -210.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -58.047295,
+                "Y": -170.63107
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Side Alley to Short",
+            "Position": {
+                "X": 926.16534,
+                "Y": 639.94446,
+                "Z": -247.49963
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -27.423248,
+                "Y": -153.93288
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Tv room to Arches",
+            "Position": {
+                "X": 690.8701,
+                "Y": 562.9682,
+                "Z": -123.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -47.35553,
+                "Y": -173.46896
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Tv room to Arches",
+            "Position": {
+                "X": 492.31088,
+                "Y": 563.4536,
+                "Z": -123.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -58.971176,
+                "Y": -173.00687
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Side Alley to Short",
+            "Position": {
+                "X": 931.36066,
+                "Y": 574.66876,
+                "Z": -250.34485
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -44.18701,
+                "Y": -158.45065
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Side Alley to Con",
+            "Position": {
+                "X": 1135.9688,
+                "Y": 647.97546,
+                "Z": -259.4673
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -31.11911,
+                "Y": -140.99683
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Pillar to Market Door",
+            "Position": {
+                "X": 97.017784,
+                "Y": -933.9678,
+                "Z": -39.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -31.713074,
+                "Y": 164.3548
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Pillar to Market Window",
+            "Position": {
+                "X": 97.017784,
+                "Y": -933.9678,
+                "Z": -39.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -53.163185,
+                "Y": 159.8006
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Pillar to Apps",
+            "Position": {
+                "X": 97.017784,
+                "Y": -933.9678,
+                "Z": -39.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -31.778992,
+                "Y": 138.08649
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Pillar to Short",
+            "Position": {
+                "X": 146.03209,
+                "Y": -935.80536,
+                "Z": -166.88403
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -66.890945,
+                "Y": 145.34671
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Pillar to Under",
+            "Position": {
+                "X": 146.0315,
+                "Y": -935.8058,
+                "Z": -166.88397
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -71.5107,
+                "Y": 161.12067
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Pillar to Window",
+            "Position": {
+                "X": 146.0315,
+                "Y": -935.8058,
+                "Z": -166.88397
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -70.65273,
+                "Y": 168.4465
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Under to Window",
+            "Position": {
+                "X": -968.03265,
+                "Y": -310.80023,
+                "Z": -363.96875
+            },
+            "Viewangle": {
+                "X": -34.088867,
+                "Y": -112.317696
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Under to Jungle",
+            "Position": {
+                "X": -968.03644,
+                "Y": -393.286,
+                "Z": -339.32202
+            },
+            "Viewangle": {
+                "X": -60.884514,
+                "Y": -74.63184
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Jungle to Ramp",
+            "Position": {
+                "X": -1275.9686,
+                "Y": -1526.9688,
+                "Z": -147.46423
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -67.74891,
+                "Y": 0.050125122
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Bench to Window",
+            "Position": {
+                "X": -1071.9688,
+                "Y": -788.9686,
+                "Z": -263.96875
+            },
+            "Viewangle": {
+                "X": -26.234665,
+                "Y": 96.77615
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Garbage to Default",
+            "Position": {
+                "X": -1022.86816,
+                "Y": -2269.5195,
+                "Z": -167.96875
+            },
+            "Viewangle": {
+                "X": -74.810715,
+                "Y": 5.7925415
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Tripple to Ramp",
+            "Position": {
+                "X": -783.9667,
+                "Y": -2175.9248,
+                "Z": -179.96875
+            },
+            "Viewangle": {
+                "X": -26.300934,
+                "Y": 45.062485
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Default to Jungle Cross",
+            "Position": {
+                "X": -313.41187,
+                "Y": -2166.7795,
+                "Z": -174.45093
+            },
+            "Viewangle": {
+                "X": -14.684937,
+                "Y": 106.70679
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Default to Stairs",
+            "Position": {
+                "X": -313.41187,
+                "Y": -2166.7795,
+                "Z": -174.45093
+            },
+            "Viewangle": {
+                "X": -12.176636,
+                "Y": 103.27457
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Default to Stairs",
+            "Position": {
+                "X": -253.96875,
+                "Y": -2134.0754,
+                "Z": -172.94696
+            },
+            "Throw type": 2,
+            "Viewangle": {
+                "X": -42.866592,
+                "Y": 111.26062
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Default to Deep Jungle",
+            "Position": {
+                "X": -253.96875,
+                "Y": -2134.0754,
+                "Z": -172.94696
+            },
+            "Viewangle": {
+                "X": -24.716827,
+                "Y": 137.19864
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Default to Con",
+            "Position": {
+                "X": -253.96875,
+                "Y": -2134.0754,
+                "Z": -172.94696
+            },
+            "Viewangle": {
+                "X": -22.142609,
+                "Y": 137.52856
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Default to Deep Jungle",
+            "Position": {
+                "X": -253.96875,
+                "Y": -2134.0754,
+                "Z": -172.94696
+            },
+            "Viewangle": {
+                "X": -15.674744,
+                "Y": 133.96487
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Firebox to Stairs",
+            "Position": {
+                "X": -284.21875,
+                "Y": -2412.9685,
+                "Z": -163.96875
+            },
+            "Viewangle": {
+                "X": -14.354675,
+                "Y": 101.9545
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Firebox to Con",
+            "Position": {
+                "X": -284.21875,
+                "Y": -2412.9685,
+                "Z": -163.96875
+            },
+            "Viewangle": {
+                "X": -5.9065247,
+                "Y": 108.88446
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Tetris to Jungle",
+            "Position": {
+                "X": -30.206848,
+                "Y": -1418.0314,
+                "Z": -167.96875
+            },
+            "Viewangle": {
+                "X": -75.53684,
+                "Y": -163.33545
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Tetris to Stairs",
+            "Position": {
+                "X": -30.206848,
+                "Y": -1418.0314,
+                "Z": -167.96875
+            },
+            "Viewangle": {
+                "X": -80.94898,
+                "Y": -160.03543
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Corner to Jungle Cross",
+            "Position": {
+                "X": 181.96875,
+                "Y": -1717.9688,
+                "Z": -167.96875
+            },
+            "Viewangle": {
+                "X": 4.5871277,
+                "Y": 175.01666
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Ramp to Stairs",
+            "Position": {
+                "X": 181.96875,
+                "Y": -1717.9688,
+                "Z": -167.96875
+            },
+            "Throw type": 2,
+            "Type": 1,
+            "Viewangle": {
+                "X": 6.962921,
+                "Y": 159.9685
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Palace to Site",
+            "Position": {
+                "X": 16.035088,
+                "Y": -2254.4397,
+                "Z": -39.96875
+            },
+            "Throw type": 2,
+            "Viewangle": {
+                "X": -15.014877,
+                "Y": 22.424805
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Palace to Stairs",
+            "Position": {
+                "X": 117.81029,
+                "Y": -2280.4395,
+                "Z": -39.96875
+            },
+            "Viewangle": {
+                "X": -6.6989136,
+                "Y": 124.7247
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Palace to Con",
+            "Position": {
+                "X": 118.983345,
+                "Y": -2280.03,
+                "Z": -39.96875
+            },
+            "Viewangle": {
+                "X": -3.2670593,
+                "Y": 129.34479
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "T spawn to Window",
+            "Position": {
+                "X": 1422.9688,
+                "Y": 36.46866,
+                "Z": -167.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -34.880905,
+                "Y": -164.19308
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "T spawn to Window",
+            "Position": {
+                "X": 1422.9688,
+                "Y": 36.46866,
+                "Z": -167.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -20.624771,
+                "Y": -164.0609
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "T spawn to Con",
+            "Position": {
+                "X": 1422.9688,
+                "Y": 36.46866,
+                "Z": -167.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -20.360748,
+                "Y": -158.12106
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "T spawn to Window",
+            "Position": {
+                "X": 1389.4706,
+                "Y": 70.96781,
+                "Z": -167.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -30.194885,
+                "Y": -163.13702
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "T spawn to Short",
+            "Position": {
+                "X": 1422.9702,
+                "Y": -55.951904,
+                "Z": -167.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -45.37491,
+                "Y": -177.26132
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Insta Short",
+            "Position": {
+                "X": 1277.7955,
+                "Y": 29.6298,
+                "Z": -167.96875
+            },
+            "Viewangle": {
+                "X": -52.238617,
+                "Y": -165.51315
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Insta Con",
+            "Position": {
+                "X": 1277.7955,
+                "Y": 29.6298,
+                "Z": -167.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -51.182556,
+                "Y": -156.2074
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Insta Catwalk",
+            "Position": {
+                "X": 1277.7955,
+                "Y": 29.6298,
+                "Z": -167.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -41.94272,
+                "Y": -171.71735
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Insta Catwalk",
+            "Position": {
+                "X": 1131.9249,
+                "Y": 34.774975,
+                "Z": -164.79309
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -60.356483,
+                "Y": -166.83322
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Insta Short",
+            "Position": {
+                "X": 1131.9249,
+                "Y": 34.774975,
+                "Z": -164.79309
+            },
+            "Viewangle": {
+                "X": -66.230736,
+                "Y": -157.6593
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Insta Window",
+            "Position": {
+                "X": 1217.9932,
+                "Y": -15.884399,
+                "Z": -163.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -44.5166,
+                "Y": -163.66539
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Insta Con",
+            "Position": {
+                "X": 1217.9932,
+                "Y": -15.884399,
+                "Z": -163.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -52.964745,
+                "Y": -156.73508
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Insta Catwalk",
+            "Position": {
+                "X": 1217.9932,
+                "Y": -15.884399,
+                "Z": -163.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -59.234505,
+                "Y": -167.22943
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Insta Short",
+            "Position": {
+                "X": 1217.9932,
+                "Y": -15.884399,
+                "Z": -163.96875
+            },
+            "Viewangle": {
+                "X": -64.118614,
+                "Y": -161.75137
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Insta Catwalk",
+            "Position": {
+                "X": 1220.5629,
+                "Y": -113.62634,
+                "Z": -163.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -61.016693,
+                "Y": -170.39761
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Insta Short",
+            "Position": {
+                "X": 1220.5629,
+                "Y": -113.62634,
+                "Z": -163.96875
+            },
+            "Viewangle": {
+                "X": -57.84851,
+                "Y": -168.02147
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Insta Con",
+            "Position": {
+                "X": 1220.5629,
+                "Y": -113.62634,
+                "Z": -163.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -53.1625,
+                "Y": -159.83734
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Insta Window",
+            "Position": {
+                "X": 1220.5629,
+                "Y": -113.62634,
+                "Z": -163.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -46.100693,
+                "Y": -165.90935
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Insta Catwalk",
+            "Position": {
+                "X": 1212.1224,
+                "Y": -210.43567,
+                "Z": -163.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -59.036407,
+                "Y": -174.48932
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Insta Short",
+            "Position": {
+                "X": 1212.1224,
+                "Y": -210.43567,
+                "Z": -163.96875
+            },
+            "Viewangle": {
+                "X": -62.402687,
+                "Y": -170.26543
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Insta Con",
+            "Position": {
+                "X": 1212.1224,
+                "Y": -210.43567,
+                "Z": -163.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -56.33068,
+                "Y": -162.74152
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Insta Window",
+            "Position": {
+                "X": 1212.1224,
+                "Y": -210.43567,
+                "Z": -163.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -46.298447,
+                "Y": -168.08739
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "T to Window",
+            "Position": {
+                "X": 1343.6049,
+                "Y": -181.41724,
+                "Z": -167.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -40.490448,
+                "Y": -168.21957
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "T to Catwalk",
+            "Position": {
+                "X": 1450.9662,
+                "Y": -153.06946,
+                "Z": -147.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -30.788498,
+                "Y": -172.44347
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "T to Window",
+            "Position": {
+                "X": 1450.9662,
+                "Y": -153.06946,
+                "Z": -147.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -34.814636,
+                "Y": -168.28549
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "T to Short",
+            "Position": {
+                "X": 1450.9662,
+                "Y": -153.06946,
+                "Z": -147.96875
+            },
+            "Viewangle": {
+                "X": -37.12451,
+                "Y": -174.55559
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "T to Con",
+            "Position": {
+                "X": 1450.9662,
+                "Y": -153.06946,
+                "Z": -147.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -15.938416,
+                "Y": -162.41158
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Insta Short",
+            "Position": {
+                "X": 1220.4772,
+                "Y": -304.45654,
+                "Z": -164.81561
+            },
+            "Viewangle": {
+                "X": -65.83454,
+                "Y": -175.94159
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Insta Catwalk",
+            "Position": {
+                "X": 1220.4772,
+                "Y": -304.45654,
+                "Z": -164.81561
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -59.762535,
+                "Y": -177.52533
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Insta Con",
+            "Position": {
+                "X": 1220.4772,
+                "Y": -304.45654,
+                "Z": -164.81561
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -58.31028,
+                "Y": -164.78737
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "T to Window",
+            "Position": {
+                "X": 1299.6404,
+                "Y": -354.40662,
+                "Z": -167.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -43.79013,
+                "Y": -171.51924
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "T to Catwalk",
+            "Position": {
+                "X": 1422.922,
+                "Y": -367.97205,
+                "Z": -167.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -47.221985,
+                "Y": 177.62079
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "T to Short",
+            "Position": {
+                "X": 1422.922,
+                "Y": -367.97205,
+                "Z": -167.96875
+            },
+            "Viewangle": {
+                "X": -56.00006,
+                "Y": -178.41934
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "T to Window",
+            "Position": {
+                "X": 1422.922,
+                "Y": -367.97205,
+                "Z": -167.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -39.829895,
+                "Y": -172.87537
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "T to Con",
+            "Position": {
+                "X": 1391.9661,
+                "Y": -790.0812,
+                "Z": -167.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -50.38983,
+                "Y": -165.87914
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "T to Short",
+            "Position": {
+                "X": 1391.9661,
+                "Y": -790.0812,
+                "Z": -167.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -53.29399,
+                "Y": 169.37073
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "T to Jungle",
+            "Position": {
+                "X": 1391.9661,
+                "Y": -790.0812,
+                "Z": -167.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -33.823822,
+                "Y": -159.21318
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "T to Ct",
+            "Position": {
+                "X": 1391.9661,
+                "Y": -790.0812,
+                "Z": -167.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -11.977844,
+                "Y": -144.42935
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Fence to Jungle",
+            "Position": {
+                "X": 1256.9377,
+                "Y": -871.97095,
+                "Z": -143.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -54.943657,
+                "Y": -158.48773
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Fence to Short",
+            "Position": {
+                "X": 1256.9377,
+                "Y": -871.97095,
+                "Z": -143.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -56.131897,
+                "Y": 166.13629
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Fence to Ct",
+            "Position": {
+                "X": 1256.9377,
+                "Y": -871.97095,
+                "Z": -143.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -21.67981,
+                "Y": -143.90167
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Fecne to Ct",
+            "Position": {
+                "X": 1280.0337,
+                "Y": -927.32886,
+                "Z": -167.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -22.603683,
+                "Y": -146.0138
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Palace Entrance to Short",
+            "Position": {
+                "X": 1398.9686,
+                "Y": -1255.9688,
+                "Z": -167.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -26.035538,
+                "Y": 156.36807
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Top Fence to Catwalk",
+            "Position": {
+                "X": 1261.6873,
+                "Y": -888.3469,
+                "Z": -45.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -39.56555,
+                "Y": 165.806
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Top Fence to Con",
+            "Position": {
+                "X": 1261.6873,
+                "Y": -888.3469,
+                "Z": -45.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -44.185303,
+                "Y": -169.50977
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Top Fence to Jungle",
+            "Position": {
+                "X": 1261.6873,
+                "Y": -888.3469,
+                "Z": -45.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -24.517365,
+                "Y": -162.44797
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Top Fence to Ct",
+            "Position": {
+                "X": 1261.6873,
+                "Y": -888.3469,
+                "Z": -45.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -29.995422,
+                "Y": -147.13611
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Top Fence to Ct",
+            "Position": {
+                "X": 1261.6873,
+                "Y": -888.3469,
+                "Z": -45.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -4.7172546,
+                "Y": -144.56189
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "T staircase to Catwalk",
+            "Position": {
+                "X": 1239.9668,
+                "Y": -1159.9688,
+                "Z": -246.39447
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -35.011017,
+                "Y": 156.76392
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "T staircase to Window",
+            "Position": {
+                "X": 1239.9668,
+                "Y": -1159.9688,
+                "Z": -246.39447
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -43.459167,
+                "Y": 168.44617
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "T staircase to Stairs",
+            "Position": {
+                "X": 1239.9684,
+                "Y": -1128.1879,
+                "Z": -254.24536
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -58.507004,
+                "Y": -167.0018
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Step to Stairs",
+            "Position": {
+                "X": 1151.508,
+                "Y": -1183.9701,
+                "Z": -205.5716
+            },
+            "Viewangle": {
+                "X": -41.611053,
+                "Y": -165.41806
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "T staircase to Jungle",
+            "Position": {
+                "X": 1127.9685,
+                "Y": -1183.9688,
+                "Z": -256.07043
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -29.137115,
+                "Y": -169.048
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Alley to Jungle ",
+            "Position": {
+                "X": 1090.6417,
+                "Y": -1014.0862,
+                "Z": -257.69336
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -25.57309,
+                "Y": -164.49417
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Alley to Ct",
+            "Position": {
+                "X": 1090.6417,
+                "Y": -1014.0862,
+                "Z": -257.69336
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -29.467041,
+                "Y": -143.638
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "T staircase to Ct",
+            "Position": {
+                "X": 1105.4197,
+                "Y": -1009.3789,
+                "Z": -257.11694
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -27.553024,
+                "Y": -144.62814
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Door to Triple",
+            "Position": {
+                "X": 935.9597,
+                "Y": -1032.0848,
+                "Z": -255.47876
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -28.740921,
+                "Y": -150.76607
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Door to Triple ",
+            "Position": {
+                "X": 906.17523,
+                "Y": -1036.0304,
+                "Z": -251.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -26.6288,
+                "Y": -148.45619
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Door to Jungle",
+            "Position": {
+                "X": 906.17523,
+                "Y": -1036.0304,
+                "Z": -251.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -56.724815,
+                "Y": -161.3919
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Door to Stairs",
+            "Position": {
+                "X": 906.17523,
+                "Y": -1036.0304,
+                "Z": -251.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -65.76691,
+                "Y": -159.54414
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Top Alley to Ct",
+            "Position": {
+                "X": 783.40594,
+                "Y": -1204.328,
+                "Z": -108.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -9.7332,
+                "Y": -149.90811
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Top Alley to Jungle",
+            "Position": {
+                "X": 783.40594,
+                "Y": -1204.328,
+                "Z": -108.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -66.55895,
+                "Y": -163.6362
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Top Alley to Stairs",
+            "Position": {
+                "X": 783.40594,
+                "Y": -1204.328,
+                "Z": -108.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -69.26502,
+                "Y": -163.90022
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Steps to Stairs",
+            "Position": {
+                "X": 682.09784,
+                "Y": -1130.0283,
+                "Z": -127.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -70.32108,
+                "Y": -160.79831
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Top Alley to Jungle",
+            "Position": {
+                "X": 815.9676,
+                "Y": -1419.458,
+                "Z": -108.96875
+            },
+            "Viewangle": {
+                "X": -28.543167,
+                "Y": -173.20633
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Top Alley to Jungle",
+            "Position": {
+                "X": 815.96857,
+                "Y": -1467.0302,
+                "Z": -108.96875
+            },
+            "Viewangle": {
+                "X": -27.817047,
+                "Y": -174.59232
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Top Alley to Jungle",
+            "Position": {
+                "X": 814.9687,
+                "Y": -1548.979,
+                "Z": -108.96875
+            },
+            "Viewangle": {
+                "X": -30.061005,
+                "Y": -178.22263
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Top Alley to Stairs",
+            "Position": {
+                "X": 814.9687,
+                "Y": -1548.979,
+                "Z": -108.96875
+            },
+            "Throw type": 2,
+            "Type": 1,
+            "Viewangle": {
+                "X": -3.3968353,
+                "Y": -179.80637
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Top Alley to Jungle",
+            "Position": {
+                "X": 814.9687,
+                "Y": -1548.979,
+                "Z": -108.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -67.28508,
+                "Y": -176.30826
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Top Alley to Stairs",
+            "Position": {
+                "X": 814.9687,
+                "Y": -1548.979,
+                "Z": -108.96875
+            },
+            "Viewangle": {
+                "X": -64.90894,
+                "Y": 179.86371
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Lower Alley to Stairs",
+            "Position": {
+                "X": 743.9675,
+                "Y": -1400.2759,
+                "Z": -260.71448
+            },
+            "Viewangle": {
+                "X": -63.853226,
+                "Y": -171.81999
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Lower Alley to Jungle",
+            "Position": {
+                "X": 743.9675,
+                "Y": -1400.2759,
+                "Z": -260.71448
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -68.27522,
+                "Y": -171.22604
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Lower Alley to Stairs",
+            "Position": {
+                "X": 743.9675,
+                "Y": -1400.2759,
+                "Z": -260.71448
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -69.793396,
+                "Y": -171.75407
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Sandwich to Ramp",
+            "Position": {
+                "X": 151.96617,
+                "Y": -1914.0313,
+                "Z": -167.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -6.961212,
+                "Y": -104.33235
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Shadow to Palace",
+            "Position": {
+                "X": 151.96875,
+                "Y": -2071.9675,
+                "Z": -167.96875
+            },
+            "Viewangle": {
+                "X": -33.625366,
+                "Y": 104.7258
+            }
+        },
+        {
+            "Nade": 43,
+            "Name": "Van to Apps",
+            "Position": {
+                "X": -2114.0313,
+                "Y": 831.96875,
+                "Z": -121.504456
+            },
+            "Viewangle": {
+                "X": -42.27127,
+                "Y": 27.90149
+            }
+        },
+        {
+            "Nade": 43,
+            "Name": "Van to Apps",
+            "Position": {
+                "X": -2114.0313,
+                "Y": 831.96875,
+                "Z": -121.504456
+            },
+            "Viewangle": {
+                "X": -53.755417,
+                "Y": 35.359497
+            }
+        },
+        {
+            "Nade": 43,
+            "Name": "Van to Apps",
+            "Position": {
+                "X": -2114.0313,
+                "Y": 831.96875,
+                "Z": -121.504456
+            },
+            "Viewangle": {
+                "X": -55.07515,
+                "Y": 28.165512
+            }
+        },
+        {
+            "Nade": 43,
+            "Name": "Van to Apps",
+            "Position": {
+                "X": -2114.0313,
+                "Y": 831.96875,
+                "Z": -121.504456
+            },
+            "Throw type": 1,
+            "Viewangle": {
+                "X": -70.18925,
+                "Y": -29.386368
+            }
+        },
+        {
+            "Nade": 43,
+            "Name": "Van to Apps",
+            "Position": {
+                "X": -2114.0313,
+                "Y": 831.96875,
+                "Z": -121.504456
+            },
+            "Throw type": 2,
+            "Viewangle": {
+                "X": -62.401314,
+                "Y": 35.09549
+            }
+        },
+        {
+            "Nade": 43,
+            "Name": "Apps to Close B",
+            "Position": {
+                "X": -1471.9688,
+                "Y": 664.0342,
+                "Z": -47.96875
+            },
+            "Viewangle": {
+                "X": -7.819519,
+                "Y": 109.51343
+            }
+        },
+        {
+            "Nade": 43,
+            "Name": "Top Mid to Con",
+            "Position": {
+                "X": 176.03514,
+                "Y": -231.63782,
+                "Z": -151.96875
+            },
+            "Viewangle": {
+                "X": -9.535446,
+                "Y": -144.68857
+            }
+        },
+        {
+            "Nade": 43,
+            "Name": "T to A",
+            "Position": {
+                "X": 865.854,
+                "Y": -1036.0314,
+                "Z": -251.96875
+            },
+            "Viewangle": {
+                "X": -33.031433,
+                "Y": -147.85641
+            }
+        },
+        {
+            "Nade": 43,
+            "Name": "T to A",
+            "Position": {
+                "X": 865.854,
+                "Y": -1036.0314,
+                "Z": -251.96875
+            },
+            "Viewangle": {
+                "X": -33.757202,
+                "Y": -153.46631
+            }
+        },
+        {
+            "Nade": 43,
+            "Name": "Sandwich to Ramp",
+            "Position": {
+                "X": 151.96938,
+                "Y": -1914.0302,
+                "Z": -167.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -6.961212,
+                "Y": -104.23073
+            }
+        },
+        {
+            "Nade": 43,
+            "Name": "Shadow to Palace",
+            "Position": {
+                "X": 151.96875,
+                "Y": -2071.9714,
+                "Z": -167.96875
+            },
+            "Viewangle": {
+                "X": -33.559113,
+                "Y": 104.82742
+            }
+        },
+        {
+            "Nade": 43,
+            "Name": "Ct to A",
+            "Position": {
+                "X": -1022.8666,
+                "Y": -2269.5212,
+                "Z": -167.96875
+            },
+            "Throw type": 2,
+            "Viewangle": {
+                "X": -74.74342,
+                "Y": 5.8272095
+            }
+        },
+        {
+            "Nade": 43,
+            "Name": "Ct to A",
+            "Position": {
+                "X": -1022.8666,
+                "Y": -2269.5212,
+                "Z": -167.96875
+            },
+            "Viewangle": {
+                "X": -70.45326,
+                "Y": 79.48334
+            }
+        },
+        {
+            "Nade": 43,
+            "Name": "Stairs Pop Flash",
+            "Position": {
+                "X": -497.1947,
+                "Y": -1384.3506,
+                "Z": -121.27954
+            },
+            "Viewangle": {
+                "X": -44.845154,
+                "Y": 89.94678
+            }
+        },
+        {
+            "Nade": 43,
+            "Name": "Stairs Pop Flash",
+            "Position": {
+                "X": -497.1947,
+                "Y": -1384.3506,
+                "Z": -121.27954
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -12.571106,
+                "Y": 90.01306
+            }
+        },
+        {
+            "Nade": 43,
+            "Name": "Stairs Pop Flash",
+            "Position": {
+                "X": -509.9225,
+                "Y": -1358.4573,
+                "Z": -141.99414
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -23.329132,
+                "Y": 88.098694
+            }
+        },
+        {
+            "Nade": 43,
+            "Name": "Stairs Pop Flash",
+            "Position": {
+                "X": -509.9225,
+                "Y": -1358.4573,
+                "Z": -141.99414
+            },
+            "Viewangle": {
+                "X": -28.015137,
+                "Y": 87.90094
+            }
+        },
+        {
+            "Nade": 43,
+            "Name": "Stairs Pop Flash",
+            "Position": {
+                "X": -509.9225,
+                "Y": -1358.4573,
+                "Z": -141.99414
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -30.457184,
+                "Y": 88.62671
+            }
+        },
+        {
+            "Nade": 43,
+            "Name": "Stairs Pop Flash",
+            "Position": {
+                "X": -509.9225,
+                "Y": -1358.4573,
+                "Z": -141.99414
+            },
+            "Viewangle": {
+                "X": -42.931137,
+                "Y": 87.834656
+            }
+        },
+        {
+            "Nade": 43,
+            "Name": "Stairs Pop Flash",
+            "Position": {
+                "X": -504.9944,
+                "Y": -1324.7181,
+                "Z": -159.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -27.618942,
+                "Y": 88.032776
+            }
+        },
+        {
+            "Nade": 43,
+            "Name": "Stairs Pop Flash",
+            "Position": {
+                "X": -504.9944,
+                "Y": -1324.7181,
+                "Z": -159.96875
+            },
+            "Viewangle": {
+                "X": -41.412964,
+                "Y": 87.70282
+            }
+        },
+        {
+            "Nade": 43,
+            "Name": "Stairs Pop Flash",
+            "Position": {
+                "X": -504.9944,
+                "Y": -1324.7181,
+                "Z": -159.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -47.683075,
+                "Y": 86.84485
+            }
+        },
+        {
+            "Nade": 43,
+            "Name": "Jungle to Ramp",
+            "Position": {
+                "X": -791.7212,
+                "Y": -1534.3639,
+                "Z": -167.96875
+            },
+            "Viewangle": {
+                "X": -12.108643,
+                "Y": -1.0014648
+            }
+        },
+        {
+            "Nade": 43,
+            "Name": "Jungle to Ramp",
+            "Position": {
+                "X": -1119.9679,
+                "Y": -1527.9688,
+                "Z": -159.0495
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": 7.955139,
+                "Y": 0.054595947
+            }
+        },
+        {
+            "Nade": 43,
+            "Name": "Window Flash",
+            "Position": {
+                "X": -1120.0314,
+                "Y": -967.469,
+                "Z": -167.96875
+            },
+            "Viewangle": {
+                "X": -11.514709,
+                "Y": 89.02255
+            }
+        },
+        {
+            "Nade": 43,
+            "Name": "Bench to Window",
+            "Position": {
+                "X": -1071.9688,
+                "Y": -788.9686,
+                "Z": -263.96875
+            },
+            "Viewangle": {
+                "X": -26.232605,
+                "Y": 96.74423
+            }
+        },
+        {
+            "Nade": 43,
+            "Name": "Under to Window",
+            "Position": {
+                "X": -1037.187,
+                "Y": -361.3769,
+                "Z": -355.2766
+            },
+            "Viewangle": {
+                "X": -40.884583,
+                "Y": -102.01733
+            }
+        },
+        {
+            "Nade": 48,
+            "Name": "Default to Market Window",
+            "Position": {
+                "X": -1969.0314,
+                "Y": 450.03125,
+                "Z": -159.96875
+            },
+            "Throw type": 2,
+            "Type": 1,
+            "Viewangle": {
+                "X": 6.6354065,
+                "Y": -86.53759
+            }
+        },
+        {
+            "Nade": 48,
+            "Name": "Default to Market Door",
+            "Position": {
+                "X": -1969.0314,
+                "Y": 450.03125,
+                "Z": -159.96875
+            },
+            "Throw type": 2,
+            "Type": 1,
+            "Viewangle": {
+                "X": 9.407379,
+                "Y": -115.379105
+            }
+        },
+        {
+            "Nade": 48,
+            "Name": "Van to Apps",
+            "Position": {
+                "X": -2187.9465,
+                "Y": 804.5636,
+                "Z": -125.96454
+            },
+            "Viewangle": {
+                "X": -14.088257,
+                "Y": -6.575653
+            }
+        },
+        {
+            "Nade": 48,
+            "Name": "Truck to Apps",
+            "Position": {
+                "X": -2325.3152,
+                "Y": 812.5418,
+                "Z": -119.18909
+            },
+            "Viewangle": {
+                "X": -10.194275,
+                "Y": -6.839676
+            }
+        },
+        {
+            "Nade": 48,
+            "Name": "Van Bumper to Apps",
+            "Position": {
+                "X": -2191.9617,
+                "Y": 711.04144,
+                "Z": -101.79144
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": 14.555847,
+                "Y": 0.22213745
+            }
+        },
+        {
+            "Nade": 48,
+            "Name": "Apps to Default",
+            "Position": {
+                "X": -1334.8784,
+                "Y": 815.96857,
+                "Z": -79.96875
+            },
+            "Viewangle": {
+                "X": -2.27417,
+                "Y": -152.89777
+            }
+        },
+        {
+            "Nade": 48,
+            "Name": "Apps to Close B",
+            "Position": {
+                "X": -1471.9688,
+                "Y": 664.0329,
+                "Z": -47.96875
+            },
+            "Viewangle": {
+                "X": -7.8181458,
+                "Y": 109.42212
+            }
+        },
+        {
+            "Nade": 48,
+            "Name": "Under to Window",
+            "Position": {
+                "X": -1007.4829,
+                "Y": -304.57306,
+                "Z": -367.96875
+            },
+            "Viewangle": {
+                "X": -30.456161,
+                "Y": -103.031845
+            }
+        },
+        {
+            "Nade": 48,
+            "Name": "Bench to Window",
+            "Position": {
+                "X": -1071.9688,
+                "Y": -788.96796,
+                "Z": -263.96875
+            },
+            "Viewangle": {
+                "X": -26.23227,
+                "Y": 96.85205
+            }
+        },
+        {
+            "Nade": 48,
+            "Name": "Con to Top Mid",
+            "Position": {
+                "X": -703.5978,
+                "Y": -868.93726,
+                "Z": -249.49646
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": 5.777771,
+                "Y": 37.554016
+            }
+        },
+        {
+            "Nade": 48,
+            "Name": "Con to Top Mid",
+            "Position": {
+                "X": -703.5978,
+                "Y": -868.93726,
+                "Z": -249.49646
+            },
+            "Viewangle": {
+                "X": -22.272034,
+                "Y": 35.507813
+            }
+        },
+        {
+            "Nade": 48,
+            "Name": "Con to Default",
+            "Position": {
+                "X": -667.1224,
+                "Y": -1172.9689,
+                "Z": -167.96875
+            },
+            "Viewangle": {
+                "X": -14.615936,
+                "Y": -69.43222
+            }
+        },
+        {
+            "Nade": 48,
+            "Name": "Jungle to Under Balcony",
+            "Position": {
+                "X": -703.5343,
+                "Y": -1339.0168,
+                "Z": -167.96875
+            },
+            "Viewangle": {
+                "X": -14.814026,
+                "Y": -45.27603
+            }
+        },
+        {
+            "Nade": 48,
+            "Name": "Jungle to Under Balcony",
+            "Position": {
+                "X": -703.5343,
+                "Y": -1339.0168,
+                "Z": -167.96875
+            },
+            "Viewangle": {
+                "X": -11.6458435,
+                "Y": -39.86389
+            }
+        },
+        {
+            "Nade": 48,
+            "Name": "Jungle to Palace",
+            "Position": {
+                "X": -691.6819,
+                "Y": -1393.6555,
+                "Z": -167.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": 5.646286,
+                "Y": -47.585907
+            }
+        },
+        {
+            "Nade": 48,
+            "Name": "Jungle to Tetris",
+            "Position": {
+                "X": -1119.9688,
+                "Y": -1527.9688,
+                "Z": -159.04944
+            },
+            "Viewangle": {
+                "X": -19.103851,
+                "Y": 0.3958435
+            }
+        },
+        {
+            "Nade": 48,
+            "Name": "Jungle to Tetris",
+            "Position": {
+                "X": -1119.9688,
+                "Y": -1527.9688,
+                "Z": -159.04944
+            },
+            "Viewangle": {
+                "X": -15.803833,
+                "Y": 0.3958435
+            }
+        },
+        {
+            "Nade": 48,
+            "Name": "Jungle to Ramp",
+            "Position": {
+                "X": -1119.9688,
+                "Y": -1527.9688,
+                "Z": -159.04944
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": 6.9001007,
+                "Y": 0.1980896
+            }
+        },
+        {
+            "Nade": 48,
+            "Name": "Jungle to Default",
+            "Position": {
+                "X": -1056.0887,
+                "Y": -1305.0361,
+                "Z": -163.92767
+            },
+            "Viewangle": {
+                "X": -16.06784,
+                "Y": -47.388153
+            }
+        },
+        {
+            "Nade": 48,
+            "Name": "Jungle to Bench",
+            "Position": {
+                "X": -1176.031,
+                "Y": -1190.5116,
+                "Z": -167.96875
+            },
+            "Viewangle": {
+                "X": -4.1875,
+                "Y": 82.997925
+            }
+        },
+        {
+            "Nade": 48,
+            "Name": "Under to Window",
+            "Position": {
+                "X": -1040.5193,
+                "Y": -363.28302,
+                "Z": -354.32355
+            },
+            "Viewangle": {
+                "X": -40.88356,
+                "Y": -101.93424
+            }
+        },
+        {
+            "Nade": 48,
+            "Name": "Jungle to Ramp",
+            "Position": {
+                "X": -790.7978,
+                "Y": -1532.1733,
+                "Z": -167.96875
+            },
+            "Viewangle": {
+                "X": -12.10762,
+                "Y": -1.1463623
+            }
+        },
+        {
+            "Nade": 48,
+            "Name": "Ramp to Sandwich",
+            "Position": {
+                "X": 460.972,
+                "Y": -1436.0313,
+                "Z": -175.96875
+            },
+            "Viewangle": {
+                "X": -10.655365,
+                "Y": -172.15268
+            }
+        },
+        {
+            "Nade": 48,
+            "Name": "Stairs to Firebox",
+            "Position": {
+                "X": -519.4959,
+                "Y": -1373.6528,
+                "Z": -129.8377
+            },
+            "Viewangle": {
+                "X": -12.767487,
+                "Y": -76.284256
+            }
+        },
+        {
+            "Nade": 48,
+            "Name": "Stairs to Default",
+            "Position": {
+                "X": -519.4959,
+                "Y": -1373.6528,
+                "Z": -129.8377
+            },
+            "Viewangle": {
+                "X": -9.137543,
+                "Y": -76.416435
+            }
+        },
+        {
+            "Nade": 48,
+            "Name": "Stairs to Firebox",
+            "Position": {
+                "X": -518.19147,
+                "Y": -1375.9113,
+                "Z": -128.031
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": 11.846008,
+                "Y": -76.944466
+            }
+        },
+        {
+            "Nade": 48,
+            "Name": "Stairs to Default",
+            "Position": {
+                "X": -518.19147,
+                "Y": -1375.9113,
+                "Z": -128.031
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": 17.588074,
+                "Y": -75.62439
+            }
+        },
+        {
+            "Nade": 48,
+            "Name": "Ct to Firebox",
+            "Position": {
+                "X": -1211.5217,
+                "Y": -2281.8013,
+                "Z": -190.68567
+            },
+            "Viewangle": {
+                "X": -13.498077,
+                "Y": -5.826538
+            }
+        },
+        {
+            "Nade": 48,
+            "Name": "Ct to Firebox",
+            "Position": {
+                "X": -1211.5217,
+                "Y": -2281.8013,
+                "Z": -190.68567
+            },
+            "Viewangle": {
+                "X": -12.442017,
+                "Y": -6.1564636
+            }
+        },
+        {
+            "Nade": 48,
+            "Name": "Ct to Default",
+            "Position": {
+                "X": -1214.1884,
+                "Y": -2282.3572,
+                "Z": -191.18188
+            },
+            "Throw type": 2,
+            "Type": 1,
+            "Viewangle": {
+                "X": 3.2660217,
+                "Y": 5.1954956
+            }
+        },
+        {
+            "Nade": 48,
+            "Name": "Ct to Tetris",
+            "Position": {
+                "X": -928.93713,
+                "Y": -2544.5957,
+                "Z": -167.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": 3.992157,
+                "Y": 52.319305
+            }
+        },
+        {
+            "Nade": 48,
+            "Name": "Tripple to Ramp",
+            "Position": {
+                "X": -798.222,
+                "Y": -2223.1528,
+                "Z": -179.96875
+            },
+            "Viewangle": {
+                "X": -18.117828,
+                "Y": 35.687378
+            }
+        },
+        {
+            "Nade": 48,
+            "Name": "Triple to Tetris",
+            "Position": {
+                "X": -798.222,
+                "Y": -2223.1528,
+                "Z": -179.96875
+            },
+            "Viewangle": {
+                "X": -16.864014,
+                "Y": 47.039337
+            }
+        },
+        {
+            "Nade": 48,
+            "Name": "Firebox to Tetris",
+            "Position": {
+                "X": -284.20538,
+                "Y": -2412.1165,
+                "Z": -163.96875
+            },
+            "Viewangle": {
+                "X": -15.34584,
+                "Y": 81.13129
+            }
+        },
+        {
+            "Nade": 48,
+            "Name": "Firebox to Ramp",
+            "Position": {
+                "X": -284.20538,
+                "Y": -2412.1165,
+                "Z": -163.96875
+            },
+            "Viewangle": {
+                "X": -17.457962,
+                "Y": 63.24521
+            }
+        },
+        {
+            "Nade": 48,
+            "Name": "Firebox to Stairs",
+            "Position": {
+                "X": -284.20538,
+                "Y": -2412.1165,
+                "Z": -163.96875
+            },
+            "Viewangle": {
+                "X": -16.401901,
+                "Y": 101.524994
+            }
+        },
+        {
+            "Nade": 48,
+            "Name": "Firebox to Stairs",
+            "Position": {
+                "X": -284.20538,
+                "Y": -2412.1165,
+                "Z": -163.96875
+            },
+            "Viewangle": {
+                "X": -15.478027,
+                "Y": 104.957214
+            }
+        },
+        {
+            "Nade": 48,
+            "Name": "Firebox to Con",
+            "Position": {
+                "X": -284.20538,
+                "Y": -2412.1165,
+                "Z": -163.96875
+            },
+            "Viewangle": {
+                "X": -14.620056,
+                "Y": 108.2572
+            }
+        },
+        {
+            "Nade": 48,
+            "Name": "Tetris to Under Balcony",
+            "Position": {
+                "X": -142.96814,
+                "Y": -1463.0479,
+                "Z": -69.175354
+            },
+            "Viewangle": {
+                "X": -5.4457855,
+                "Y": -66.11469
+            }
+        },
+        {
+            "Nade": 48,
+            "Name": "Palace to Under Balcony",
+            "Position": {
+                "X": 18.830425,
+                "Y": -2362.777,
+                "Z": -39.96875
+            },
+            "Viewangle": {
+                "X": 5.1141357,
+                "Y": 78.29889
+            }
+        },
+        {
+            "Nade": 48,
+            "Name": "Sandwich to Ramp",
+            "Position": {
+                "X": 151.96875,
+                "Y": -1914.0319,
+                "Z": -167.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -6.897705,
+                "Y": -104.32308
+            }
+        },
+        {
+            "Nade": 48,
+            "Name": "Shadow to Palace",
+            "Position": {
+                "X": 151.96875,
+                "Y": -2071.9668,
+                "Z": -167.96875
+            },
+            "Viewangle": {
+                "X": -33.56186,
+                "Y": 104.83087
+            }
+        },
+        {
+            "Nade": 44,
+            "Name": "Truck to Apps",
+            "Position": {
+                "X": -2325.3108,
+                "Y": 812.5424,
+                "Z": -119.6568
+            },
+            "Viewangle": {
+                "X": -10.131805,
+                "Y": -6.8115234
+            }
+        },
+        {
+            "Nade": 44,
+            "Name": "Van to Apps",
+            "Position": {
+                "X": -2189.9033,
+                "Y": 803.0426,
+                "Z": -126.17517
+            },
+            "Viewangle": {
+                "X": -14.091675,
+                "Y": -6.41568
+            }
+        },
+        {
+            "Nade": 44,
+            "Name": "Van Bumper to Apps",
+            "Position": {
+                "X": -2192.5034,
+                "Y": 708.0692,
+                "Z": -101.79144
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": 14.552429,
+                "Y": 0.2506256
+            }
+        },
+        {
+            "Nade": 44,
+            "Name": "Default to Market",
+            "Position": {
+                "X": -1969.0322,
+                "Y": 450.03125,
+                "Z": -159.96875
+            },
+            "Throw type": 2,
+            "Type": 1,
+            "Viewangle": {
+                "X": 6.698227,
+                "Y": -86.53965
+            }
+        },
+        {
+            "Nade": 44,
+            "Name": "Default to Market Door",
+            "Position": {
+                "X": -1969.0322,
+                "Y": 450.03125,
+                "Z": -159.96875
+            },
+            "Throw type": 2,
+            "Type": 1,
+            "Viewangle": {
+                "X": 8.414154,
+                "Y": -116.89968
+            }
+        },
+        {
+            "Nade": 44,
+            "Name": "Apps to Default",
+            "Position": {
+                "X": -1334.2634,
+                "Y": 814.64996,
+                "Z": -79.96875
+            },
+            "Viewangle": {
+                "X": -2.2776031,
+                "Y": -153.03235
+            }
+        },
+        {
+            "Nade": 44,
+            "Name": "Apps to Close B",
+            "Position": {
+                "X": -1471.9688,
+                "Y": 664.0316,
+                "Z": -47.96875
+            },
+            "Viewangle": {
+                "X": -7.755661,
+                "Y": 109.48563
+            }
+        },
+        {
+            "Nade": 44,
+            "Name": "Apps to Under",
+            "Position": {
+                "X": -1247.9688,
+                "Y": -924.03143,
+                "Z": -167.96875
+            },
+            "Viewangle": {
+                "X": 5.444412,
+                "Y": 57.97554
+            }
+        },
+        {
+            "Nade": 44,
+            "Name": "Window to Under",
+            "Position": {
+                "X": -1185.135,
+                "Y": -950.18994,
+                "Z": -167.96875
+            },
+            "Viewangle": {
+                "X": -0.29766846,
+                "Y": 76.98361
+            }
+        },
+        {
+            "Nade": 44,
+            "Name": "Under to Jungle",
+            "Position": {
+                "X": -1011.0851,
+                "Y": -302.9137,
+                "Z": -367.96875
+            },
+            "Viewangle": {
+                "X": -27.88536,
+                "Y": -104.15623
+            }
+        },
+        {
+            "Nade": 44,
+            "Name": "Under to Window",
+            "Position": {
+                "X": -1011.0851,
+                "Y": -302.9137,
+                "Z": -367.96875
+            },
+            "Viewangle": {
+                "X": -30.459595,
+                "Y": -102.96833
+            }
+        },
+        {
+            "Nade": 44,
+            "Name": "Under to Window",
+            "Position": {
+                "X": -1037.203,
+                "Y": -360.8858,
+                "Z": -355.52216
+            },
+            "Viewangle": {
+                "X": -40.953247,
+                "Y": -101.97853
+            }
+        },
+        {
+            "Nade": 44,
+            "Name": "Bench to Window",
+            "Position": {
+                "X": -1071.9683,
+                "Y": -788.94556,
+                "Z": -263.96875
+            },
+            "Viewangle": {
+                "X": -26.169434,
+                "Y": 96.849304
+            }
+        },
+        {
+            "Nade": 44,
+            "Name": "Jungle to Tetris",
+            "Position": {
+                "X": -1119.9688,
+                "Y": -1527.9667,
+                "Z": -159.04962
+            },
+            "Viewangle": {
+                "X": -15.741348,
+                "Y": 0.38760376
+            }
+        },
+        {
+            "Nade": 44,
+            "Name": "Jungle to Tetris",
+            "Position": {
+                "X": -1119.9688,
+                "Y": -1527.9667,
+                "Z": -159.04962
+            },
+            "Viewangle": {
+                "X": -19.173553,
+                "Y": 0.38760376
+            }
+        },
+        {
+            "Nade": 44,
+            "Name": "Jungle to Ramp",
+            "Position": {
+                "X": -789.75964,
+                "Y": -1535.8473,
+                "Z": -167.96875
+            },
+            "Viewangle": {
+                "X": -12.111389,
+                "Y": -0.99838257
+            }
+        },
+        {
+            "Nade": 44,
+            "Name": "Jungle to Palace",
+            "Position": {
+                "X": -691.87836,
+                "Y": -1398.0537,
+                "Z": -167.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": 5.642853,
+                "Y": -47.594482
+            }
+        },
+        {
+            "Nade": 44,
+            "Name": "Stairs to Palace",
+            "Position": {
+                "X": -668.52966,
+                "Y": -1387.2609,
+                "Z": -167.96875
+            },
+            "Viewangle": {
+                "X": -16.599304,
+                "Y": -47.528564
+            }
+        },
+        {
+            "Nade": 44,
+            "Name": "Jungle to Under Balcony",
+            "Position": {
+                "X": -704.9974,
+                "Y": -1334.9937,
+                "Z": -167.96875
+            },
+            "Viewangle": {
+                "X": -11.583023,
+                "Y": -39.872467
+            }
+        },
+        {
+            "Nade": 44,
+            "Name": "Con to Default",
+            "Position": {
+                "X": -665.8632,
+                "Y": -1171.789,
+                "Z": -167.96875
+            },
+            "Viewangle": {
+                "X": -14.553101,
+                "Y": -69.44046
+            }
+        },
+        {
+            "Nade": 44,
+            "Name": "Stairs to Firebox",
+            "Position": {
+                "X": -518.5976,
+                "Y": -1373.6392,
+                "Z": -129.84863
+            },
+            "Viewangle": {
+                "X": -12.77092,
+                "Y": -76.37077
+            }
+        },
+        {
+            "Nade": 44,
+            "Name": "Ramp to Sandwich",
+            "Position": {
+                "X": 460.9687,
+                "Y": -1436.0287,
+                "Z": -175.96875
+            },
+            "Viewangle": {
+                "X": -10.659149,
+                "Y": -172.13654
+            }
+        },
+        {
+            "Nade": 44,
+            "Name": "Tetris to Under Balcony",
+            "Position": {
+                "X": -142.96814,
+                "Y": -1462.4929,
+                "Z": -69.175354
+            },
+            "Viewangle": {
+                "X": -5.378845,
+                "Y": -66.14044
+            }
+        },
+        {
+            "Nade": 44,
+            "Name": "Palace to Under Balcony",
+            "Position": {
+                "X": 19.06513,
+                "Y": -2363.0156,
+                "Z": -39.96875
+            },
+            "Viewangle": {
+                "X": 5.1810913,
+                "Y": 78.303345
+            }
+        },
+        {
+            "Nade": 44,
+            "Name": "Ct to Firebox",
+            "Position": {
+                "X": -1212.1307,
+                "Y": -2281.214,
+                "Z": -190.84662
+            },
+            "Viewangle": {
+                "X": -13.431122,
+                "Y": -5.7805176
+            }
+        },
+        {
+            "Nade": 44,
+            "Name": "Firebox to Tetris",
+            "Position": {
+                "X": -284.21826,
+                "Y": -2412.9263,
+                "Z": -163.96875
+            },
+            "Viewangle": {
+                "X": -15.2789,
+                "Y": 81.17731
+            }
+        },
+        {
+            "Nade": 44,
+            "Name": "Firebox to Ramp",
+            "Position": {
+                "X": -284.21826,
+                "Y": -2412.9263,
+                "Z": -163.96875
+            },
+            "Viewangle": {
+                "X": -13.761063,
+                "Y": 63.885162
+            }
+        },
+        {
+            "Nade": 44,
+            "Name": "Firebox to Stairs",
+            "Position": {
+                "X": -284.21826,
+                "Y": -2412.9263,
+                "Z": -163.96875
+            },
+            "Viewangle": {
+                "X": -14.7508545,
+                "Y": 104.21115
+            }
+        },
+        {
+            "Nade": 44,
+            "Name": "Sandwich to Ramp",
+            "Position": {
+                "X": 151.96767,
+                "Y": -1914.2426,
+                "Z": -167.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -6.962921,
+                "Y": -104.21665
+            }
+        },
+        {
+            "Nade": 44,
+            "Name": "Shadow to Palace",
+            "Position": {
+                "X": 151.96745,
+                "Y": -2071.9688,
+                "Z": -167.96875
+            },
+            "Viewangle": {
+                "X": -33.561172,
+                "Y": 104.80545
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Ct to Ramp",
+            "Position": {
+                "X": -2031.971,
+                "Y": -1766.4891,
+                "Z": -300.43164
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -37.22374,
+                "Y": 4.503708
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Ct to Ramp",
+            "Position": {
+                "X": -2031.9705,
+                "Y": -1766.489,
+                "Z": -300.43152
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -23.957748,
+                "Y": 5.29541
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Ct to Ramp",
+            "Position": {
+                "X": -2026.3966,
+                "Y": -2029.9675,
+                "Z": -299.12
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -23.16571,
+                "Y": 11.565521
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Ct to Palace",
+            "Position": {
+                "X": -2026.3966,
+                "Y": -2029.9675,
+                "Z": -299.12
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -19.403564,
+                "Y": -2.8224487
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Ct to Ramp",
+            "Position": {
+                "X": -1748.2006,
+                "Y": -1735.6642,
+                "Z": -264.82043
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -52.07348,
+                "Y": 4.569275
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Ct to Tetris",
+            "Position": {
+                "X": -1746.2266,
+                "Y": -1737.941,
+                "Z": -264.87256
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -62.76558,
+                "Y": 6.5495605
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Ct to Palace",
+            "Position": {
+                "X": -1746.2266,
+                "Y": -1737.941,
+                "Z": -264.87256
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -49.037476,
+                "Y": -12.854691
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Ct to Top Mid",
+            "Position": {
+                "X": -1746.2266,
+                "Y": -1737.941,
+                "Z": -264.87256
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -46.991608,
+                "Y": 23.511429
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Ct to Top Mid (Right)",
+            "Position": {
+                "X": -1710.9684,
+                "Y": -1208.0313,
+                "Z": -255.07703
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -57.551537,
+                "Y": 11.037476
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Ct to Chair",
+            "Position": {
+                "X": -1710.9684,
+                "Y": -1208.0313,
+                "Z": -255.07703
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -65.60314,
+                "Y": 14.073486
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Ct to Apps",
+            "Position": {
+                "X": -1676.803,
+                "Y": -1208.0326,
+                "Z": -255.07733
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -52.667084,
+                "Y": 88.45575
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Ct to Ramp",
+            "Position": {
+                "X": -1711.441,
+                "Y": -1180.2106,
+                "Z": -187.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -52.40307,
+                "Y": -10.214539
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Ct to Palace",
+            "Position": {
+                "X": -1711.441,
+                "Y": -1180.2106,
+                "Z": -187.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -44.35112,
+                "Y": -28.496475
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Ct to Top Mid Right",
+            "Position": {
+                "X": -1711.441,
+                "Y": -1180.2106,
+                "Z": -187.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -35.77115,
+                "Y": 8.133316
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Ct to Palace",
+            "Position": {
+                "X": -1773.6216,
+                "Y": -2029.9702,
+                "Z": -264.7599
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -52.79892,
+                "Y": -4.0766144
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Ct to Palace",
+            "Position": {
+                "X": -1547.8643,
+                "Y": -2407.9673,
+                "Z": -240.01917
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -6.2690735,
+                "Y": 9.321213
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Ct to Top Mid Right",
+            "Position": {
+                "X": -1547.9817,
+                "Y": -2407.9692,
+                "Z": -240.01123
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -42.10681,
+                "Y": 41.85962
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "T to Short",
+            "Position": {
+                "X": 875.9656,
+                "Y": -1208.8365,
+                "Z": -108.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -50.48871,
+                "Y": 153.63348
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "T to Window",
+            "Position": {
+                "X": 875.9656,
+                "Y": -1208.8365,
+                "Z": -108.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -55.76866,
+                "Y": 165.51349
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "T to Tetris Stairs Block ",
+            "Position": {
+                "X": 827.82336,
+                "Y": -1255.3915,
+                "Z": -108.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -32.668533,
+                "Y": -146.04263
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "StairCase to Stairs",
+            "Position": {
+                "X": 560.8314,
+                "Y": -1128.0313,
+                "Z": -127.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -71.80664,
+                "Y": -156.86623
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "StairCase to Tripple",
+            "Position": {
+                "X": 560.8314,
+                "Y": -1128.0313,
+                "Z": -127.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -65.734634,
+                "Y": -141.22409
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Fance to Window",
+            "Position": {
+                "X": 1253.9874,
+                "Y": -1190.5416,
+                "Z": -45.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -25.474548,
+                "Y": 167.7221
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Fence to Short",
+            "Position": {
+                "X": 1253.9874,
+                "Y": -1190.5416,
+                "Z": -45.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -4.288788,
+                "Y": 155.24814
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "First Stair to Window",
+            "Position": {
+                "X": 1239.972,
+                "Y": -1219.9686,
+                "Z": -201.97174
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -44.08676,
+                "Y": 166.99597
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "First Stair to Short",
+            "Position": {
+                "X": 1239.972,
+                "Y": -1219.9686,
+                "Z": -201.97174
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -34.12079,
+                "Y": 157.29367
+            }
+        },
+        {
+            "Nade": 48,
+            "Name": "Window to Top Mid",
+            "Position": {
+                "X": -1130.0314,
+                "Y": -696.77435,
+                "Z": -167.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": 4.159363,
+                "Y": 1.071167
+            }
+        },
+        {
+            "Nade": 48,
+            "Name": "Window to Top Mid",
+            "Position": {
+                "X": -1121.3569,
+                "Y": -551.0253,
+                "Z": -167.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": 4.2915344,
+                "Y": -4.472809
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Crouch to Default",
+            "Position": {
+                "X": -1431.5028,
+                "Y": -870.8024,
+                "Z": -111.22955
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -58.738403,
+                "Y": -49.779053
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Crouch to Default",
+            "Position": {
+                "X": -1431.5028,
+                "Y": -870.8024,
+                "Z": -111.22955
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -68.86986,
+                "Y": 114.891235
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Crouch to Palace",
+            "Position": {
+                "X": -1431.5028,
+                "Y": -870.8024,
+                "Z": -111.22955
+            },
+            "Viewangle": {
+                "X": -55.735703,
+                "Y": -41.528656
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Crouch to Ramp",
+            "Position": {
+                "X": -1431.5028,
+                "Y": -870.8024,
+                "Z": -111.22955
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -59.03572,
+                "Y": -20.606918
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Crouch to Tetris",
+            "Position": {
+                "X": -1431.5028,
+                "Y": -870.8024,
+                "Z": -111.22955
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -67.417946,
+                "Y": -29.252808
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Crouch to Palace",
+            "Position": {
+                "X": -1459.9015,
+                "Y": -918.97974,
+                "Z": -167.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -55.603867,
+                "Y": -38.852814
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Crouch to Ramp",
+            "Position": {
+                "X": -1459.9015,
+                "Y": -918.97974,
+                "Z": -167.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -58.04592,
+                "Y": -19.184875
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Crouch to Tetris",
+            "Position": {
+                "X": -1459.9015,
+                "Y": -918.97974,
+                "Z": -167.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -66.69216,
+                "Y": -26.444778
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Crouch to Default",
+            "Position": {
+                "X": -1459.9015,
+                "Y": -918.97974,
+                "Z": -167.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -61.214104,
+                "Y": -48.422928
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Crouch to Default",
+            "Position": {
+                "X": -1459.9015,
+                "Y": -918.97974,
+                "Z": -167.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -67.22019,
+                "Y": 112.15497
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Crouch to Apps",
+            "Position": {
+                "X": -1462.78,
+                "Y": -1173.9685,
+                "Z": -167.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -55.340195,
+                "Y": 95.65521
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Crouch to Default",
+            "Position": {
+                "X": -1462.78,
+                "Y": -1173.9685,
+                "Z": -167.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -53.82202,
+                "Y": 104.16928
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Crouch to Top Mid Right",
+            "Position": {
+                "X": -1462.78,
+                "Y": -1173.9685,
+                "Z": -167.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -62.666016,
+                "Y": 11.57135
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Market to Palace",
+            "Position": {
+                "X": -1711.9585,
+                "Y": -968.00275,
+                "Z": -190.69922
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -40.819702,
+                "Y": -32.876587
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Market to Default",
+            "Position": {
+                "X": -1711.9585,
+                "Y": -968.00275,
+                "Z": -190.69922
+            },
+            "Type": 3,
+            "Viewangle": {
+                "X": -58.837624,
+                "Y": -41.25882
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Market to Ramp",
+            "Position": {
+                "X": -1711.9585,
+                "Y": -968.00275,
+                "Z": -190.69922
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -52.30385,
+                "Y": -16.838608
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Market to Tetris",
+            "Position": {
+                "X": -1711.9585,
+                "Y": -968.00275,
+                "Z": -190.69922
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -61.939888,
+                "Y": -20.996582
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Market to Palace",
+            "Position": {
+                "X": -1711.9667,
+                "Y": -895.9891,
+                "Z": -175.69543
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -38.90602,
+                "Y": -34.592163
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Market to Default",
+            "Position": {
+                "X": -1711.9667,
+                "Y": -895.9891,
+                "Z": -175.69543
+            },
+            "Type": 3,
+            "Viewangle": {
+                "X": -55.07618,
+                "Y": -43.17215
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Market to Ramp",
+            "Position": {
+                "X": -1711.9667,
+                "Y": -895.9891,
+                "Z": -175.69543
+            },
+            "Type": 3,
+            "Viewangle": {
+                "X": -51.578064,
+                "Y": -17.696228
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Market to Tetris",
+            "Position": {
+                "X": -1711.9667,
+                "Y": -895.9891,
+                "Z": -175.69543
+            },
+            "Type": 3,
+            "Viewangle": {
+                "X": -61.6103,
+                "Y": -23.57048
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Market to Top Mid Right",
+            "Position": {
+                "X": -1711.9667,
+                "Y": -895.9891,
+                "Z": -175.69543
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -36.39804,
+                "Y": 0.9815674
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Ct to Palace",
+            "Position": {
+                "X": -2031.9688,
+                "Y": -1962.0225,
+                "Z": -300.43115
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -32.50409,
+                "Y": -4.9884796
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Ct to Ramp",
+            "Position": {
+                "X": -2031.9688,
+                "Y": -1962.0225,
+                "Z": -300.43115
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -28.940048,
+                "Y": 9.861603
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Ct to Palace",
+            "Position": {
+                "X": -2031.9686,
+                "Y": -1819.9756,
+                "Z": -300.4311
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -37.91588,
+                "Y": -9.248077
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Ct to Ramp",
+            "Position": {
+                "X": -2031.9686,
+                "Y": -1819.9756,
+                "Z": -300.4311
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -37.256012,
+                "Y": 6.3277893
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Ct to Ramp",
+            "Position": {
+                "X": -2031.9686,
+                "Y": -1819.9756,
+                "Z": -300.4311
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -26.69574,
+                "Y": 6.525879
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Ct to Ramp",
+            "Position": {
+                "X": -902.03125,
+                "Y": -2603.0774,
+                "Z": -167.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -64.84371,
+                "Y": 43.61743
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Connector to Palace",
+            "Position": {
+                "X": -709.9677,
+                "Y": -1272.8315,
+                "Z": -167.96875
+            },
+            "Viewangle": {
+                "X": -21.2836,
+                "Y": -48.35083
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Jungle to Ramp",
+            "Position": {
+                "X": -1119.9683,
+                "Y": -1527.9473,
+                "Z": -159.05139
+            },
+            "Viewangle": {
+                "X": -18.115417,
+                "Y": 0.027130127
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Short to Palace",
+            "Position": {
+                "X": -903.97266,
+                "Y": -499.96973,
+                "Z": -93.98602
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -56.263733,
+                "Y": -60.98751
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Short to Ramp",
+            "Position": {
+                "X": -903.97266,
+                "Y": -499.96973,
+                "Z": -93.98602
+            },
+            "Viewangle": {
+                "X": -51.97357,
+                "Y": -42.573395
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Short to Default",
+            "Position": {
+                "X": -903.96875,
+                "Y": -427.9007,
+                "Z": -158.55273
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -29.269638,
+                "Y": -75.639496
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Short to Palace",
+            "Position": {
+                "X": -903.96875,
+                "Y": -427.9007,
+                "Z": -158.55273
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -27.355621,
+                "Y": -59.40342
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Short to Ramp",
+            "Position": {
+                "X": -903.96875,
+                "Y": -427.9007,
+                "Z": -158.55273
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -64.05201,
+                "Y": -43.95938
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Short to Palace",
+            "Position": {
+                "X": -830.6982,
+                "Y": -490.7309,
+                "Z": -163.72449
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -47.683746,
+                "Y": -60.789413
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Short to Ramp",
+            "Position": {
+                "X": -830.6982,
+                "Y": -490.7309,
+                "Z": -163.72449
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -65.6361,
+                "Y": -44.685516
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Under Window to Ramp",
+            "Position": {
+                "X": -1071.9663,
+                "Y": -647.96875,
+                "Z": -263.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -63.194046,
+                "Y": -34.059677
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "T to Short",
+            "Position": {
+                "X": 1359.6827,
+                "Y": 519.96875,
+                "Z": -258.83752
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -39.634216,
+                "Y": -160.6177
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "T to Con",
+            "Position": {
+                "X": 1359.6827,
+                "Y": 519.96875,
+                "Z": -258.83752
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -37.25807,
+                "Y": -146.29565
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "StairCase to Stairs",
+            "Position": {
+                "X": 592.03125,
+                "Y": -1200.0314,
+                "Z": -223.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -71.842,
+                "Y": -159.23138
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "StairCase to Tripple",
+            "Position": {
+                "X": 592.03125,
+                "Y": -1200.0314,
+                "Z": -223.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -65.90183,
+                "Y": -144.71123
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "StairCase to Jungle",
+            "Position": {
+                "X": 592.03125,
+                "Y": -1200.0314,
+                "Z": -223.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -69.26777,
+                "Y": -160.22118
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Staircase to Short",
+            "Position": {
+                "X": 592.0313,
+                "Y": -1200.0282,
+                "Z": -223.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -65.10944,
+                "Y": 149.42126
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Staircase to Short",
+            "Position": {
+                "X": 621.5247,
+                "Y": -1200.0313,
+                "Z": -255.20367
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -64.1193,
+                "Y": 148.89359
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Staircase to Stairs",
+            "Position": {
+                "X": 621.5247,
+                "Y": -1200.0313,
+                "Z": -255.20367
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -71.577644,
+                "Y": -162.00269
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Staircase to Jungle",
+            "Position": {
+                "X": 621.5247,
+                "Y": -1200.0313,
+                "Z": -255.20367
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -68.93749,
+                "Y": -161.47464
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Staircase to Tripple",
+            "Position": {
+                "X": 621.5247,
+                "Y": -1200.0313,
+                "Z": -255.20367
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -64.84577,
+                "Y": -144.51279
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "T to Short",
+            "Position": {
+                "X": 1259.287,
+                "Y": -416.9734,
+                "Z": -163.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -56.397972,
+                "Y": 177.86694
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "T to Window",
+            "Position": {
+                "X": 1259.287,
+                "Y": -416.9734,
+                "Z": -163.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -46.365738,
+                "Y": -173.81711
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "T to Short",
+            "Position": {
+                "X": 1422.9653,
+                "Y": -248.03125,
+                "Z": -167.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -36.069824,
+                "Y": -178.70053
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "T to Window",
+            "Position": {
+                "X": 1422.9653,
+                "Y": -248.03125,
+                "Z": -167.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -38.643723,
+                "Y": -170.18646
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "T to Short",
+            "Position": {
+                "X": 1422.9653,
+                "Y": -248.03125,
+                "Z": -167.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -27.291748,
+                "Y": -174.74063
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "T to Short",
+            "Position": {
+                "X": 1331.0063,
+                "Y": 114.80984,
+                "Z": -167.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -36.927795,
+                "Y": -169.55681
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "T to Window",
+            "Position": {
+                "X": 1331.0063,
+                "Y": 114.80984,
+                "Z": -167.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -36.795624,
+                "Y": -161.70296
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Desert to Default",
+            "Position": {
+                "X": -473.88696,
+                "Y": 622.0432,
+                "Z": -80.65088
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -53.493805,
+                "Y": -175.49698
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Desert to Bench",
+            "Position": {
+                "X": -473.88696,
+                "Y": 622.0432,
+                "Z": -80.65088
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -45.17784,
+                "Y": -173.91289
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Desert to Arches",
+            "Position": {
+                "X": -473.88696,
+                "Y": 622.0432,
+                "Z": -80.65088
+            },
+            "Throw type": 2,
+            "Type": 1,
+            "Viewangle": {
+                "X": -56.265793,
+                "Y": -167.70905
+            }
+        },
+        {
+            "Nade": 48,
+            "Name": "Market to Main",
+            "Position": {
+                "X": -2411.9695,
+                "Y": -247.96765,
+                "Z": -164.99402
+            },
+            "Viewangle": {
+                "X": -20.55954,
+                "Y": 64.148834
+            }
+        },
+        {
+            "Nade": 44,
+            "Name": "Market to Main",
+            "Position": {
+                "X": -2411.9695,
+                "Y": -247.96765,
+                "Z": -164.99402
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": 7.9527283,
+                "Y": 65.07271
+            }
+        },
+        {
+            "Nade": 48,
+            "Name": "Market to Main",
+            "Position": {
+                "X": -2411.9695,
+                "Y": -247.96765,
+                "Z": -164.99402
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": 7.9527283,
+                "Y": 65.07271
+            }
+        },
+        {
+            "Nade": 48,
+            "Name": "Market to Apps",
+            "Position": {
+                "X": -2411.9695,
+                "Y": -247.96765,
+                "Z": -164.99402
+            },
+            "Viewangle": {
+                "X": -25.245544,
+                "Y": 55.436676
+            }
+        },
+        {
+            "Nade": 48,
+            "Name": "Market to Apps",
+            "Position": {
+                "X": -2411.9688,
+                "Y": -247.96875,
+                "Z": -164.9942
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": 5.2466583,
+                "Y": 50.02487
+            }
+        },
+        {
+            "Nade": 44,
+            "Name": "Market to Apps Window",
+            "Position": {
+                "X": -2411.9688,
+                "Y": -247.96875,
+                "Z": -164.9942
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": 5.7746887,
+                "Y": 55.106735
+            }
+        },
+        {
+            "Nade": 48,
+            "Name": "Market to Apps",
+            "Position": {
+                "X": -2411.9688,
+                "Y": -247.96875,
+                "Z": -164.9942
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": 5.7746887,
+                "Y": 55.106735
+            }
+        },
+        {
+            "Nade": 43,
+            "Name": "Market to Apps",
+            "Position": {
+                "X": -2411.9688,
+                "Y": -247.96875,
+                "Z": -164.9942
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": 7.9527283,
+                "Y": 64.94087
+            }
+        },
+        {
+            "Nade": 48,
+            "Name": "Connector to Palace",
+            "Position": {
+                "X": -660.4669,
+                "Y": -1313.9481,
+                "Z": -167.96875
+            },
+            "Viewangle": {
+                "X": -22.473572,
+                "Y": -50.16324
+            }
+        },
+        {
+            "Nade": 44,
+            "Name": "Connector to Palace",
+            "Position": {
+                "X": -660.4669,
+                "Y": -1313.9481,
+                "Z": -167.96875
+            },
+            "Type": 3,
+            "Viewangle": {
+                "X": 5.3784943,
+                "Y": -50.75717
+            }
+        },
+        {
+            "Nade": 48,
+            "Name": "Connector to Palace",
+            "Position": {
+                "X": -660.4669,
+                "Y": -1313.9481,
+                "Z": -167.96875
+            },
+            "Type": 3,
+            "Viewangle": {
+                "X": 5.3784943,
+                "Y": -50.75717
+            }
+        },
+        {
+            "Nade": 48,
+            "Name": "Garbage to Main",
+            "Position": {
+                "X": -2415.9688,
+                "Y": -115.75818,
+                "Z": -161.7721
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": 4.3220825,
+                "Y": 61.052734
+            }
+        },
+        {
+            "Nade": 44,
+            "Name": "Garbage to Main",
+            "Position": {
+                "X": -2415.9688,
+                "Y": -115.75818,
+                "Z": -161.7721
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": 6.4997864,
+                "Y": 61.316757
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Ct to Desert",
+            "Position": {
+                "X": -1710.9688,
+                "Y": -1208.0313,
+                "Z": -255.07703
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -39.137756,
+                "Y": 67.558014
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Ct to Window",
+            "Position": {
+                "X": -1488.1682,
+                "Y": -1173.9663,
+                "Z": -247.42981
+            },
+            "Viewangle": {
+                "X": -47.717743,
+                "Y": 66.89781
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Crouch to Site Block (Retake)",
+            "Position": {
+                "X": -1434.0303,
+                "Y": -1173.969,
+                "Z": -167.96875
+            },
+            "Viewangle": {
+                "X": -61.049995,
+                "Y": 118.971985
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Crouch to Short Block (Retake",
+            "Position": {
+                "X": -1434.0303,
+                "Y": -1173.969,
+                "Z": -167.96875
+            },
+            "Viewangle": {
+                "X": -60.323868,
+                "Y": 103.462036
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Crouch to Apps",
+            "Position": {
+                "X": -1434.0303,
+                "Y": -1173.969,
+                "Z": -167.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -54.515877,
+                "Y": 100.88812
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Crouch to Apps",
+            "Position": {
+                "X": -1434.0303,
+                "Y": -1173.969,
+                "Z": -167.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -54.97799,
+                "Y": 95.87186
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Market to Apps",
+            "Position": {
+                "X": -1711.9678,
+                "Y": -761.03125,
+                "Z": -167.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -27.785797,
+                "Y": -38.89984
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "B site to Desert",
+            "Position": {
+                "X": -1862.9673,
+                "Y": 177.0313,
+                "Z": -159.96875
+            },
+            "Viewangle": {
+                "X": -42.899902,
+                "Y": 21.327896
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Van to Con",
+            "Position": {
+                "X": -2364.125,
+                "Y": 808.3841,
+                "Z": -80.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -18.14975,
+                "Y": -42.75775
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Desert to Market Window",
+            "Position": {
+                "X": -161.03229,
+                "Y": 576.3819,
+                "Z": -69.767334
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -7.6557617,
+                "Y": -153.3743
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Desert to Inside Market Window",
+            "Position": {
+                "X": -161.03229,
+                "Y": 576.3819,
+                "Z": -69.767334
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -7.8538513,
+                "Y": -154.69437
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Desert to B Door",
+            "Position": {
+                "X": -161.03229,
+                "Y": 576.3819,
+                "Z": -69.767334
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -46.793854,
+                "Y": -158.91827
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Desert to Stairs",
+            "Position": {
+                "X": -351.96777,
+                "Y": 887.96875,
+                "Z": -124.97461
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -15.773956,
+                "Y": -93.64403
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Desert to Arch",
+            "Position": {
+                "X": -604.43994,
+                "Y": 614.9121,
+                "Z": -79.03375
+            },
+            "Viewangle": {
+                "X": -72.336044,
+                "Y": -172.3161
+            }
+        },
+        {
+            "Nade": 46,
+            "Name": "Window to Under",
+            "Position": {
+                "X": -1247.967,
+                "Y": -924.03125,
+                "Z": -167.96875
+            },
+            "Throw type": 1,
+            "Type": 1,
+            "Viewangle": {
+                "X": 22.572098,
+                "Y": 58.45517
+            }
+        },
+        {
+            "Nade": 44,
+            "Name": "Window to Under",
+            "Position": {
+                "X": -1247.9688,
+                "Y": -924.03314,
+                "Z": -167.96875
+            },
+            "Throw type": 1,
+            "Type": 1,
+            "Viewangle": {
+                "X": 22.540161,
+                "Y": 58.521088
+            }
+        },
+        {
+            "Nade": 46,
+            "Name": "Window to Under",
+            "Position": {
+                "X": -1247.9688,
+                "Y": -924.03314,
+                "Z": -167.96875
+            },
+            "Viewangle": {
+                "X": 5.4461365,
+                "Y": 57.92679
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Top Mid to Window",
+            "Position": {
+                "X": 343.30304,
+                "Y": -621.6176,
+                "Z": -162.33179
+            },
+            "Viewangle": {
+                "X": -32.570007,
+                "Y": -179.805
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Top Mid to Under",
+            "Position": {
+                "X": 343.30304,
+                "Y": -621.6176,
+                "Z": -162.33179
+            },
+            "Viewangle": {
+                "X": -26.827927,
+                "Y": 170.29495
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Top Mid to Con",
+            "Position": {
+                "X": 343.30304,
+                "Y": -621.6176,
+                "Z": -162.33179
+            },
+            "Viewangle": {
+                "X": -41.875763,
+                "Y": -150.50102
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Tetris to Balcony Cubby",
+            "Position": {
+                "X": -77.32312,
+                "Y": -1475.5326,
+                "Z": -167.96875
+            },
+            "Viewangle": {
+                "X": -16.399841,
+                "Y": -72.75318
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Tetris to Con",
+            "Position": {
+                "X": -77.32312,
+                "Y": -1475.5326,
+                "Z": -167.96875
+            },
+            "Viewangle": {
+                "X": -77.45018,
+                "Y": 163.62866
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Tetris to Jungle",
+            "Position": {
+                "X": -77.32312,
+                "Y": -1475.5326,
+                "Z": -167.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -74.01798,
+                "Y": 174.25449
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Tetris to Cross",
+            "Position": {
+                "X": -77.32312,
+                "Y": -1475.5326,
+                "Z": -167.96875
+            },
+            "Viewangle": {
+                "X": -77.582016,
+                "Y": -163.43742
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Tetris to Stairs",
+            "Position": {
+                "X": -77.32312,
+                "Y": -1475.5326,
+                "Z": -167.96875
+            },
+            "Viewangle": {
+                "X": -81.805916,
+                "Y": -162.57947
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Tetris to Stairs",
+            "Position": {
+                "X": -91.09387,
+                "Y": -1418.0305,
+                "Z": -115.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -33.49388,
+                "Y": -63.777695
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Tetris to Deep Jungle",
+            "Position": {
+                "X": -30.468628,
+                "Y": -1418.0293,
+                "Z": -167.96875
+            },
+            "Viewangle": {
+                "X": -70.717964,
+                "Y": -178.4856
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Ramp to Jungle",
+            "Position": {
+                "X": 181.96675,
+                "Y": -1717.9688,
+                "Z": -167.96875
+            },
+            "Viewangle": {
+                "X": -14.48616,
+                "Y": 164.75064
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Ramp to Con",
+            "Position": {
+                "X": 181.96675,
+                "Y": -1717.9688,
+                "Z": -167.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": 3.5980225,
+                "Y": 163.10028
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Ramp to Jugnle",
+            "Position": {
+                "X": 181.96675,
+                "Y": -1717.9688,
+                "Z": -167.96875
+            },
+            "Throw type": 2,
+            "Type": 1,
+            "Viewangle": {
+                "X": -5.906189,
+                "Y": 164.55255
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Palace to Arches",
+            "Position": {
+                "X": 46.97016,
+                "Y": -1811.9688,
+                "Z": -63.09375
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -35.144226,
+                "Y": 125.48001
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Palace Cubby to Stairs",
+            "Position": {
+                "X": 151.96875,
+                "Y": -2071.968,
+                "Z": -39.96875
+            },
+            "Viewangle": {
+                "X": -0.8902283,
+                "Y": 137.7562
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Top Alley to Con",
+            "Position": {
+                "X": 758.6096,
+                "Y": -1210.2826,
+                "Z": -108.96869
+            },
+            "Viewangle": {
+                "X": -51.97426,
+                "Y": -175.38368
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Top Alley to Window",
+            "Position": {
+                "X": 1126.547,
+                "Y": -1209.8475,
+                "Z": -108.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -21.35022,
+                "Y": 165.87225
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Garbage to Short",
+            "Position": {
+                "X": 1422.8971,
+                "Y": 70.96701,
+                "Z": -112.46875
+            },
+            "Viewangle": {
+                "X": -32.63626,
+                "Y": -163.70178
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "T to Arch",
+            "Position": {
+                "X": 742.0991,
+                "Y": 510.07373,
+                "Z": -255.45782
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -49.664032,
+                "Y": 179.63608
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Desert to Bench",
+            "Position": {
+                "X": -190.38208,
+                "Y": 729.67725,
+                "Z": -125.207275
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -49.7303,
+                "Y": -172.6419
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Desert to Bench",
+            "Position": {
+                "X": -172.87695,
+                "Y": 689.40515,
+                "Z": -71.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -49.201935,
+                "Y": -173.89572
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Desert to Arch",
+            "Position": {
+                "X": -172.87695,
+                "Y": 689.40515,
+                "Z": -71.96875
+            },
+            "Viewangle": {
+                "X": -31.844208,
+                "Y": -145.25195
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Desert to Window",
+            "Position": {
+                "X": -172.87695,
+                "Y": 689.40515,
+                "Z": -71.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -62.46826,
+                "Y": -123.34007
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Desert to Market Door",
+            "Position": {
+                "X": -172.87695,
+                "Y": 689.40515,
+                "Z": -71.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -47.485992,
+                "Y": -156.07623
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Mid to Ct",
+            "Position": {
+                "X": -833.4983,
+                "Y": -499.96606,
+                "Z": -143.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -47.22232,
+                "Y": -90.07622
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Mid to Bench",
+            "Position": {
+                "X": -833.4983,
+                "Y": -499.96606,
+                "Z": -143.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -59.96029,
+                "Y": 152.24579
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "T to Window",
+            "Position": {
+                "X": 1231.5074,
+                "Y": -40.799072,
+                "Z": -166.46954
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -43.032074,
+                "Y": -164.39186
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "T to Widnow ",
+            "Position": {
+                "X": 1318.8529,
+                "Y": -227.55518,
+                "Z": -167.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -42.30594,
+                "Y": -169.34222
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "T to Window",
+            "Position": {
+                "X": 1242.0471,
+                "Y": -137.34412,
+                "Z": -167.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -43.890045,
+                "Y": -166.63617
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "T to Window",
+            "Position": {
+                "X": 1159.9724,
+                "Y": 39.168312,
+                "Z": -164.47699
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -46.39801,
+                "Y": -161.81763
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "T to Short",
+            "Position": {
+                "X": 1236.7954,
+                "Y": 512.68335,
+                "Z": -262.37726
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -46.26584,
+                "Y": -159.6389
+            }
+        },
+        {
+            "Nade": 43,
+            "Name": "Mid Pop Flash",
+            "Position": {
+                "X": -1247.9688,
+                "Y": -924.0345,
+                "Z": -167.96875
+            },
+            "Throw type": 1,
+            "Type": 1,
+            "Viewangle": {
+                "X": 22.572098,
+                "Y": 57.60373
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Under to Cross",
+            "Position": {
+                "X": -1047.9677,
+                "Y": -407.75793,
+                "Z": -332.08606
+            },
+            "Viewangle": {
+                "X": -59.33407,
+                "Y": -72.32025
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Mid to Jungle",
+            "Position": {
+                "X": 502.9654,
+                "Y": -64.41321,
+                "Z": -160.00208
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -14.850082,
+                "Y": -135.35019
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "T to Con",
+            "Position": {
+                "X": 1239.9677,
+                "Y": -1253.9688,
+                "Z": -151.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -17.490234,
+                "Y": -178.44785
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "T to Con",
+            "Position": {
+                "X": 1206.2831,
+                "Y": -211.031,
+                "Z": -163.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -54.91207,
+                "Y": -162.24026
+            }
+        },
+        {
+            "Nade": 43,
+            "Name": "Door to Ct Flash",
+            "Position": {
+                "X": 834.8342,
+                "Y": -1036.0309,
+                "Z": -251.96875
+            },
+            "Viewangle": {
+                "X": -36.630127,
+                "Y": -147.88216
+            }
+        },
+        {
+            "Nade": 46,
+            "Name": "Tetris to Ct",
+            "Position": {
+                "X": -30.4682,
+                "Y": -1418.0313,
+                "Z": -167.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": 3.1678467,
+                "Y": -130.7222
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Tetris to Ct",
+            "Position": {
+                "X": -30.46875,
+                "Y": -1418.0313,
+                "Z": -167.96875
+            },
+            "Throw type": 2,
+            "Type": 1,
+            "Viewangle": {
+                "X": -13.200073,
+                "Y": -130.85403
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Con to Jungle",
+            "Position": {
+                "X": -807.96875,
+                "Y": -1204.8318,
+                "Z": -167.96875
+            },
+            "Viewangle": {
+                "X": -0.1980896,
+                "Y": -20.268066
+            }
+        },
+        {
+            "Nade": 43,
+            "Name": "Bench to Window",
+            "Position": {
+                "X": -801.96875,
+                "Y": -788.96454,
+                "Z": -261.96875
+            },
+            "Throw type": 1,
+            "Type": 1,
+            "Viewangle": {
+                "X": 7.8538513,
+                "Y": 161.16602
+            }
+        },
+        {
+            "Nade": 43,
+            "Name": "Bench to Short Flash",
+            "Position": {
+                "X": -895.7152,
+                "Y": -788.9695,
+                "Z": -221.96875
+            },
+            "Viewangle": {
+                "X": -16.962204,
+                "Y": 91.66785
+            }
+        },
+        {
+            "Nade": 46,
+            "Name": "Apps to Van",
+            "Position": {
+                "X": -1137.7079,
+                "Y": 719.7343,
+                "Z": -79.96875
+            },
+            "Type": 2,
+            "Viewangle": {
+                "X": -11.615982,
+                "Y": -179.99382
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Ct to Bench Block (retake)",
+            "Position": {
+                "X": -1464.0316,
+                "Y": -1792.8312,
+                "Z": -261.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -22.044067,
+                "Y": 120.73013
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Ct to B Short Block (retake)",
+            "Position": {
+                "X": -1464.0316,
+                "Y": -1792.8312,
+                "Z": -261.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -41.249878,
+                "Y": 101.52432
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Ct to Apps",
+            "Position": {
+                "X": -1710.9669,
+                "Y": -1501.2714,
+                "Z": -258.32104
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -27.917969,
+                "Y": 87.730286
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Crouch to Short",
+            "Position": {
+                "X": -1311.9685,
+                "Y": -1022.93616,
+                "Z": -167.96875
+            },
+            "Viewangle": {
+                "X": -3.8939667,
+                "Y": 57.30435
+            }
+        },
+        {
+            "Nade": 48,
+            "Name": "Crouch to Short",
+            "Position": {
+                "X": -1311.9685,
+                "Y": -1022.93616,
+                "Z": -167.96875
+            },
+            "Viewangle": {
+                "X": -3.8939667,
+                "Y": 57.30435
+            }
+        },
+        {
+            "Nade": 44,
+            "Name": "Crouch to Short",
+            "Position": {
+                "X": -1311.9685,
+                "Y": -1022.93616,
+                "Z": -167.96875
+            },
+            "Viewangle": {
+                "X": -3.9598846,
+                "Y": 57.30435
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Window to Under",
+            "Position": {
+                "X": -1120.0313,
+                "Y": -967.4672,
+                "Z": -167.96875
+            },
+            "Viewangle": {
+                "X": -5.2140503,
+                "Y": 116.63843
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Short to Ct",
+            "Position": {
+                "X": -496.03125,
+                "Y": -1309.0321,
+                "Z": -159.96875
+            },
+            "Viewangle": {
+                "X": -42.701797,
+                "Y": -98.917465
+            }
+        },
+        {
+            "Nade": 48,
+            "Name": "Short to Ct",
+            "Position": {
+                "X": -496.03125,
+                "Y": -1309.0321,
+                "Z": -159.96875
+            },
+            "Viewangle": {
+                "X": -10.691757,
+                "Y": -108.35575
+            }
+        },
+        {
+            "Nade": 44,
+            "Name": "Short to Ct",
+            "Position": {
+                "X": -496.03125,
+                "Y": -1309.0321,
+                "Z": -159.96875
+            },
+            "Viewangle": {
+                "X": -11.6819,
+                "Y": -108.35575
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Short to Ct",
+            "Position": {
+                "X": -496.03125,
+                "Y": -1309.0321,
+                "Z": -159.96875
+            },
+            "Viewangle": {
+                "X": -5.8079834,
+                "Y": -108.15765
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "T to Arches",
+            "Position": {
+                "X": 445.96875,
+                "Y": 571.9687,
+                "Z": -257.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -56.825752,
+                "Y": -173.89366
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "T to Arches (left)",
+            "Position": {
+                "X": 445.96875,
+                "Y": 571.9687,
+                "Z": -257.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -56.03405,
+                "Y": -166.43567
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Side Alley to Jungle",
+            "Position": {
+                "X": 399.42578,
+                "Y": 279.06033,
+                "Z": -254.72913
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -29.435806,
+                "Y": -127.49565
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Con to Mid",
+            "Position": {
+                "X": -709.9692,
+                "Y": -1275.1971,
+                "Z": -167.96875
+            },
+            "Viewangle": {
+                "X": 5.41214,
+                "Y": 77.896484
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Con to Lower Con (block)",
+            "Position": {
+                "X": -709.9692,
+                "Y": -1275.1971,
+                "Z": -167.96875
+            },
+            "Viewangle": {
+                "X": 18.1501,
+                "Y": 74.92642
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Short to Under",
+            "Position": {
+                "X": -752.03125,
+                "Y": 292.9686,
+                "Z": -163.4231
+            },
+            "Viewangle": {
+                "X": -16.03798,
+                "Y": -98.98407
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Short to Short (Block)",
+            "Position": {
+                "X": -752.03125,
+                "Y": 292.9686,
+                "Z": -163.4231
+            },
+            "Viewangle": {
+                "X": -18.941803,
+                "Y": -123.73421
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Short to Short (block)",
+            "Position": {
+                "X": -1042.345,
+                "Y": 295.94763,
+                "Z": -159.96875
+            },
+            "Viewangle": {
+                "X": -29.897919,
+                "Y": -58.52623
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Bench to Apps",
+            "Position": {
+                "X": -2635.9685,
+                "Y": 104.028534,
+                "Z": -161.50525
+            },
+            "Viewangle": {
+                "X": -20.723648,
+                "Y": 32.35611
+            }
+        },
+        {
+            "Nade": 48,
+            "Name": "Bench to Apps",
+            "Position": {
+                "X": -2635.9685,
+                "Y": 104.028534,
+                "Z": -161.50525
+            },
+            "Viewangle": {
+                "X": -20.789917,
+                "Y": 32.553864
+            }
+        },
+        {
+            "Nade": 44,
+            "Name": "Bench to Apps",
+            "Position": {
+                "X": -2635.9685,
+                "Y": 104.028534,
+                "Z": -161.50525
+            },
+            "Viewangle": {
+                "X": -20.855835,
+                "Y": 32.620117
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Ct to Ramp",
+            "Position": {
+                "X": -879.89746,
+                "Y": -2263.9866,
+                "Z": -171.08942
+            },
+            "Viewangle": {
+                "X": -9.041748,
+                "Y": 33.11795
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Ct to Midsite Cross",
+            "Position": {
+                "X": -1046.523,
+                "Y": -2232.0313,
+                "Z": -167.96875
+            },
+            "Viewangle": {
+                "X": -52.073822,
+                "Y": -25.454285
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Ct to Cross",
+            "Position": {
+                "X": -1046.523,
+                "Y": -2232.0313,
+                "Z": -167.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -18.083832,
+                "Y": -37.598297
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Ct to Default",
+            "Position": {
+                "X": -1046.523,
+                "Y": -2232.0313,
+                "Z": -167.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -78.86982,
+                "Y": 1.9360046
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Ct to Top Con",
+            "Position": {
+                "X": -1022.8683,
+                "Y": -2269.5212,
+                "Z": -167.96875
+            },
+            "Viewangle": {
+                "X": -68.17772,
+                "Y": 72.028076
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Under to Palace",
+            "Position": {
+                "X": -1071.9668,
+                "Y": -380.0332,
+                "Z": -263.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -33.065765,
+                "Y": -57.30194
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Under to Cross",
+            "Position": {
+                "X": -1047.9683,
+                "Y": -313.57813,
+                "Z": -367.96875
+            },
+            "Type": 2,
+            "Viewangle": {
+                "X": -45.27603,
+                "Y": -47.335968
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "T to Con",
+            "Position": {
+                "X": 393.9687,
+                "Y": 679.96875,
+                "Z": -257.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -56.4299,
+                "Y": -125.978165
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "T to Short",
+            "Position": {
+                "X": 393.9687,
+                "Y": 679.96875,
+                "Z": -257.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -64.086,
+                "Y": -143.00629
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "T to Short",
+            "Position": {
+                "X": 393.9687,
+                "Y": 679.96875,
+                "Z": -257.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -59.795837,
+                "Y": -145.31616
+            }
+        },
+        {
+            "Nade": 46,
+            "Name": "Apps to Market",
+            "Position": {
+                "X": -1952.0297,
+                "Y": 683.7756,
+                "Z": -46.911682
+            },
+            "Viewangle": {
+                "X": -4.8841095,
+                "Y": -88.402176
+            }
+        },
+        {
+            "Nade": 44,
+            "Name": "Apps to Market",
+            "Position": {
+                "X": -1952.0297,
+                "Y": 683.7756,
+                "Z": -46.911682
+            },
+            "Viewangle": {
+                "X": -4.8841095,
+                "Y": -88.402176
+            }
+        },
+        {
+            "Nade": 44,
+            "Name": "Apps to Deep Market",
+            "Position": {
+                "X": -1952.0297,
+                "Y": 683.7756,
+                "Z": -46.911682
+            },
+            "Viewangle": {
+                "X": -7.7879333,
+                "Y": -88.27
+            }
+        },
+        {
+            "Nade": 46,
+            "Name": "Apps to Deep Market",
+            "Position": {
+                "X": -1952.0297,
+                "Y": 683.7756,
+                "Z": -46.911682
+            },
+            "Viewangle": {
+                "X": -7.986023,
+                "Y": -88.468094
+            }
+        },
+        {
+            "Nade": 46,
+            "Name": "Garbage to Apps",
+            "Position": {
+                "X": -2415.9631,
+                "Y": -115.757324,
+                "Z": -161.77252
+            },
+            "Viewangle": {
+                "X": -27.324036,
+                "Y": 44.09604
+            }
+        },
+        {
+            "Nade": 44,
+            "Name": "Garbage to Apps",
+            "Position": {
+                "X": -2415.9631,
+                "Y": -115.757324,
+                "Z": -161.77252
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": 5.9401703,
+                "Y": 50.365784
+            }
+        },
+        {
+            "Nade": 46,
+            "Name": "Garbage to Apps",
+            "Position": {
+                "X": -2415.9631,
+                "Y": -115.757324,
+                "Z": -161.77252
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": 4.290161,
+                "Y": 43.9635
+            }
+        },
+        {
+            "Nade": 43,
+            "Name": "Mid Push flash",
+            "Position": {
+                "X": 236.03215,
+                "Y": 229.80356,
+                "Z": -255.96875
+            },
+            "Viewangle": {
+                "X": -20.723999,
+                "Y": -88.36613
+            }
+        },
+        {
+            "Nade": 43,
+            "Name": "Mid Push Flash",
+            "Position": {
+                "X": 398.96884,
+                "Y": 175.8947,
+                "Z": -247.94
+            },
+            "Viewangle": {
+                "X": -19.866028,
+                "Y": -101.3681
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Tetris to Jungle",
+            "Position": {
+                "X": -30.46875,
+                "Y": -1418.0316,
+                "Z": -167.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -33.725967,
+                "Y": -72.78992
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Tetris to Ct",
+            "Position": {
+                "X": -30.46875,
+                "Y": -1418.0316,
+                "Z": -167.96875
+            },
+            "Viewangle": {
+                "X": -32.405884,
+                "Y": -116.2841
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Tetris to Midsite",
+            "Position": {
+                "X": -30.46875,
+                "Y": -1418.0316,
+                "Z": -167.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": 13.85994,
+                "Y": -136.48007
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "T to Window",
+            "Position": {
+                "X": 1281.0177,
+                "Y": 31.879143,
+                "Z": -167.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -40.1279,
+                "Y": -162.77618
+            }
+        },
+        {
+            "Nade": 46,
+            "Name": "Con to Default",
+            "Position": {
+                "X": -618.0323,
+                "Y": -1274.642,
+                "Z": -167.96875
+            },
+            "Viewangle": {
+                "X": -13.134155,
+                "Y": -70.38254
+            }
+        },
+        {
+            "Nade": 44,
+            "Name": "Con to Default",
+            "Position": {
+                "X": -618.0323,
+                "Y": -1274.642,
+                "Z": -167.96875
+            },
+            "Viewangle": {
+                "X": -13.200073,
+                "Y": -70.38254
+            }
+        },
+        {
+            "Nade": 46,
+            "Name": "Palace to Under",
+            "Position": {
+                "X": 16.037615,
+                "Y": -2359.5552,
+                "Z": -39.96875
+            },
+            "Viewangle": {
+                "X": 9.504211,
+                "Y": 74.061584
+            }
+        },
+        {
+            "Nade": 44,
+            "Name": "Palace to Under",
+            "Position": {
+                "X": 16.037615,
+                "Y": -2359.5552,
+                "Z": -39.96875
+            },
+            "Viewangle": {
+                "X": 9.504211,
+                "Y": 74.061584
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "T to Market Window",
+            "Position": {
+                "X": 420.3308,
+                "Y": 350.03134,
+                "Z": -251.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -43.69194,
+                "Y": -165.58525
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "T to Arches",
+            "Position": {
+                "X": 420.3308,
+                "Y": 350.03134,
+                "Z": -251.96875
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -46.727936,
+                "Y": -179.97322
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Desert to Bench",
+            "Position": {
+                "X": -291.9746,
+                "Y": 655.97034,
+                "Z": -79.93921
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -34.64984,
+                "Y": -172.41394
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Desert to Bench",
+            "Position": {
+                "X": -291.9746,
+                "Y": 655.97034,
+                "Z": -79.93921
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -21.053925,
+                "Y": -173.79993
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Desert to Jungle Cross",
+            "Position": {
+                "X": -291.9746,
+                "Y": 655.97034,
+                "Z": -79.93921
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -51.149933,
+                "Y": -99.8798
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Desert to Tripple",
+            "Position": {
+                "X": -291.9746,
+                "Y": 655.97034,
+                "Z": -79.93921
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -26.267624,
+                "Y": -99.15367
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Desert to Default",
+            "Position": {
+                "X": -291.9746,
+                "Y": 655.97034,
+                "Z": -79.93921
+            },
+            "Viewangle": {
+                "X": -51.21585,
+                "Y": -174.52573
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Desert to Bench",
+            "Position": {
+                "X": -291.9746,
+                "Y": 655.97034,
+                "Z": -79.93921
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -53.063965,
+                "Y": -173.00789
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Desert to Arches",
+            "Position": {
+                "X": -291.9746,
+                "Y": 655.97034,
+                "Z": -79.93921
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -71.675835,
+                "Y": -165.8139
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Desert to Short",
+            "Position": {
+                "X": -291.9746,
+                "Y": 655.97034,
+                "Z": -79.93921
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -73.524284,
+                "Y": -118.49201
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Ct to Ramp",
+            "Position": {
+                "X": -2026.3951,
+                "Y": -2029.9688,
+                "Z": -299.1197
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -30.42595,
+                "Y": 11.438141
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Jungle Oneway",
+            "Position": {
+                "X": -992.03125,
+                "Y": -1304.8337,
+                "Z": -155.61658
+            },
+            "Throw type": 1,
+            "Type": 1,
+            "Viewangle": {
+                "X": -11.880005,
+                "Y": -80.26611
+            }
+        },
+        {
+            "Nade": 48,
+            "Name": "Ct to Default",
+            "Position": {
+                "X": -1547.8822,
+                "Y": -2407.9653,
+                "Z": -240.01819
+            },
+            "Viewangle": {
+                "X": -23.364136,
+                "Y": 10.269806
+            }
+        },
+        {
+            "Nade": 48,
+            "Name": "Ct to Middle Site",
+            "Position": {
+                "X": -1547.8822,
+                "Y": -2407.9653,
+                "Z": -240.01819
+            },
+            "Viewangle": {
+                "X": -19.073975,
+                "Y": 13.041809
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "T to Jungle Cross",
+            "Position": {
+                "X": 1239.6141,
+                "Y": -1024.3397,
+                "Z": -257.5628
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -20.922089,
+                "Y": -163.53802
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "T to Tripple",
+            "Position": {
+                "X": 1239.6141,
+                "Y": -1024.3397,
+                "Z": -257.5628
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -24.024017,
+                "Y": -150.40387
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "T to Tripple",
+            "Position": {
+                "X": 1239.6141,
+                "Y": -1024.3397,
+                "Z": -257.5628
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -17.42398,
+                "Y": -153.7698
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Desert to Short",
+            "Position": {
+                "X": -160.03125,
+                "Y": 887.9683,
+                "Z": -135.32813
+            },
+            "Viewangle": {
+                "X": -46.002167,
+                "Y": -134.56398
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Desert to Jungle Cross",
+            "Position": {
+                "X": -160.03125,
+                "Y": 887.9683,
+                "Z": -135.32813
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -40.260086,
+                "Y": -101.167946
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Desert to Jungle Short",
+            "Position": {
+                "X": -160.03125,
+                "Y": 887.9683,
+                "Z": -135.32813
+            },
+            "Throw type": 2,
+            "Type": 1,
+            "Viewangle": {
+                "X": -49.763947,
+                "Y": -122.35405
+            }
+        },
+        {
+            "Nade": 45,
+            "Name": "Desert to Under",
+            "Position": {
+                "X": -160.03125,
+                "Y": 887.9683,
+                "Z": -135.32813
+            },
+            "Type": 1,
+            "Viewangle": {
+                "X": -10.22998,
+                "Y": -120.70404
+            }
+        }
+    ]
+}
