@@ -8,7 +8,7 @@
                 "Y": -1766.1841,
                 "Z": -298.14417
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -29.435806,
                 "Y": -9.992065
@@ -22,7 +22,7 @@
                 "Y": -1766.1841,
                 "Z": -298.14417
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -46.19992,
                 "Y": -11.246216
@@ -36,7 +36,7 @@
                 "Y": -2029.9688,
                 "Z": -299.1206
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -46.068085,
                 "Y": -3.7882233
@@ -50,7 +50,7 @@
                 "Y": -2029.9688,
                 "Z": -299.1206
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -52.602196,
                 "Y": 15.616028
@@ -64,7 +64,7 @@
                 "Y": -2029.9688,
                 "Z": -299.1206
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -12.936066,
                 "Y": 12.580032
@@ -78,7 +78,7 @@
                 "Y": -2029.9688,
                 "Z": -299.1206
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -34.583923,
                 "Y": -3.1280212
@@ -92,7 +92,7 @@
                 "Y": -1208.0328,
                 "Z": -255.0774
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -55.242004,
                 "Y": -10.586014
@@ -106,7 +106,7 @@
                 "Y": -1201.9081,
                 "Z": -253.70245
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -52.536278,
                 "Y": 97.78589
@@ -120,7 +120,7 @@
                 "Y": -761.03156,
                 "Z": -167.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -24.156189,
                 "Y": -36.655884
@@ -134,7 +134,7 @@
                 "Y": -761.03156,
                 "Z": -167.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -65.0758,
                 "Y": -33.619873
@@ -148,7 +148,7 @@
                 "Y": -761.03156,
                 "Z": -167.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -34.980133,
                 "Y": -36.7218
@@ -162,7 +162,7 @@
                 "Y": -321.37524,
                 "Z": -167.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": 5.8079834,
                 "Y": 71.98001
@@ -189,7 +189,7 @@
                 "Y": -2407.9688,
                 "Z": -240.01154
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -35.309723,
                 "Y": 49.34166
@@ -216,7 +216,7 @@
                 "Y": -47.910156,
                 "Z": -165.71875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -62.963676,
                 "Y": -12.500381
@@ -243,7 +243,7 @@
                 "Y": 450.0351,
                 "Z": -159.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -8.415863,
                 "Y": -140.21027
@@ -309,7 +309,7 @@
                 "Y": 524.03534,
                 "Z": -77.39581
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -26.301956,
                 "Y": 148.77344
@@ -323,7 +323,7 @@
                 "Y": 520.9809,
                 "Z": -76.877075
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -27.687958,
                 "Y": 143.99164
@@ -454,7 +454,7 @@
                 "Y": 782.9485,
                 "Z": -71.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -47.68582,
                 "Y": -94.172745
@@ -468,7 +468,7 @@
                 "Y": 887.96765,
                 "Z": -79.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -40.689926,
                 "Y": -96.28452
@@ -482,7 +482,7 @@
                 "Y": 887.96765,
                 "Z": -79.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -42.9998,
                 "Y": -93.644714
@@ -496,7 +496,7 @@
                 "Y": 887.96686,
                 "Z": -124.97455
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -40.62401,
                 "Y": -93.512535
@@ -510,7 +510,7 @@
                 "Y": 887.96686,
                 "Z": -124.97455
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -42.01001,
                 "Y": -97.01065
@@ -524,7 +524,7 @@
                 "Y": 887.967,
                 "Z": -132.5954
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -42.00966,
                 "Y": -151.1966
@@ -538,7 +538,7 @@
                 "Y": 887.9685,
                 "Z": -135.32813
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -46.035797,
                 "Y": -153.04471
@@ -552,7 +552,7 @@
                 "Y": 887.9685,
                 "Z": -135.32813
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -50.91957,
                 "Y": -146.70868
@@ -579,7 +579,7 @@
                 "Y": 468.8551,
                 "Z": -68.87903
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -59.63173,
                 "Y": -158.25874
@@ -593,7 +593,7 @@
                 "Y": 468.8551,
                 "Z": -68.87903
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -66.09959,
                 "Y": -130.53886
@@ -607,7 +607,7 @@
                 "Y": 468.8551,
                 "Z": -68.87903
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -19.437561,
                 "Y": -161.55876
@@ -621,7 +621,7 @@
                 "Y": 409.6928,
                 "Z": -42.543457
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -50.98584,
                 "Y": -179.70886
@@ -648,7 +648,7 @@
                 "Y": 759.9743,
                 "Z": -134.5863
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -46.959686,
                 "Y": -154.1011
@@ -662,7 +662,7 @@
                 "Y": -30.03125,
                 "Z": -167.7749
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -58.707504,
                 "Y": -53.415184
@@ -702,7 +702,7 @@
                 "Y": 679.9683,
                 "Z": -135.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -51.645355,
                 "Y": -172.21515
@@ -716,7 +716,7 @@
                 "Y": 626.96875,
                 "Z": -210.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -58.047295,
                 "Y": -170.63107
@@ -730,7 +730,7 @@
                 "Y": 639.94446,
                 "Z": -247.49963
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -27.423248,
                 "Y": -153.93288
@@ -744,7 +744,7 @@
                 "Y": 562.9682,
                 "Z": -123.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -47.35553,
                 "Y": -173.46896
@@ -758,7 +758,7 @@
                 "Y": 563.4536,
                 "Z": -123.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -58.971176,
                 "Y": -173.00687
@@ -772,7 +772,7 @@
                 "Y": 574.66876,
                 "Z": -250.34485
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -44.18701,
                 "Y": -158.45065
@@ -786,7 +786,7 @@
                 "Y": 647.97546,
                 "Z": -259.4673
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -31.11911,
                 "Y": -140.99683
@@ -800,7 +800,7 @@
                 "Y": -933.9678,
                 "Z": -39.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -31.713074,
                 "Y": 164.3548
@@ -814,7 +814,7 @@
                 "Y": -933.9678,
                 "Z": -39.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -53.163185,
                 "Y": 159.8006
@@ -828,7 +828,7 @@
                 "Y": -933.9678,
                 "Z": -39.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -31.778992,
                 "Y": 138.08649
@@ -842,7 +842,7 @@
                 "Y": -935.80536,
                 "Z": -166.88403
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -66.890945,
                 "Y": 145.34671
@@ -856,7 +856,7 @@
                 "Y": -935.8058,
                 "Z": -166.88397
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -71.5107,
                 "Y": 161.12067
@@ -870,7 +870,7 @@
                 "Y": -935.8058,
                 "Z": -166.88397
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -70.65273,
                 "Y": 168.4465
@@ -910,7 +910,7 @@
                 "Y": -1526.9688,
                 "Z": -147.46423
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -67.74891,
                 "Y": 0.050125122
@@ -989,7 +989,7 @@
                 "Y": -2134.0754,
                 "Z": -172.94696
             },
-            "Throw type": "2",
+            "Throw type": "StandTrow",
             "Viewangle": {
                 "X": -42.866592,
                 "Y": 111.26062
@@ -1107,8 +1107,8 @@
                 "Y": -1717.9688,
                 "Z": -167.96875
             },
-            "Throw type": "2",
-            "Throw type": "1",
+            "Throw type": "StandTrow",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": 6.962921,
                 "Y": 159.9685
@@ -1122,7 +1122,7 @@
                 "Y": -2254.4397,
                 "Z": -39.96875
             },
-            "Throw type": "2",
+            "Throw type": "StandTrow",
             "Viewangle": {
                 "X": -15.014877,
                 "Y": 22.424805
@@ -1162,7 +1162,7 @@
                 "Y": 36.46866,
                 "Z": -167.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -34.880905,
                 "Y": -164.19308
@@ -1176,7 +1176,7 @@
                 "Y": 36.46866,
                 "Z": -167.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -20.624771,
                 "Y": -164.0609
@@ -1190,7 +1190,7 @@
                 "Y": 36.46866,
                 "Z": -167.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -20.360748,
                 "Y": -158.12106
@@ -1204,7 +1204,7 @@
                 "Y": 70.96781,
                 "Z": -167.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -30.194885,
                 "Y": -163.13702
@@ -1218,7 +1218,7 @@
                 "Y": -55.951904,
                 "Z": -167.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -45.37491,
                 "Y": -177.26132
@@ -1245,7 +1245,7 @@
                 "Y": 29.6298,
                 "Z": -167.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -51.182556,
                 "Y": -156.2074
@@ -1259,7 +1259,7 @@
                 "Y": 29.6298,
                 "Z": -167.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -41.94272,
                 "Y": -171.71735
@@ -1273,7 +1273,7 @@
                 "Y": 34.774975,
                 "Z": -164.79309
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -60.356483,
                 "Y": -166.83322
@@ -1300,7 +1300,7 @@
                 "Y": -15.884399,
                 "Z": -163.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -44.5166,
                 "Y": -163.66539
@@ -1314,7 +1314,7 @@
                 "Y": -15.884399,
                 "Z": -163.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -52.964745,
                 "Y": -156.73508
@@ -1328,7 +1328,7 @@
                 "Y": -15.884399,
                 "Z": -163.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -59.234505,
                 "Y": -167.22943
@@ -1355,7 +1355,7 @@
                 "Y": -113.62634,
                 "Z": -163.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -61.016693,
                 "Y": -170.39761
@@ -1382,7 +1382,7 @@
                 "Y": -113.62634,
                 "Z": -163.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -53.1625,
                 "Y": -159.83734
@@ -1396,7 +1396,7 @@
                 "Y": -113.62634,
                 "Z": -163.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -46.100693,
                 "Y": -165.90935
@@ -1410,7 +1410,7 @@
                 "Y": -210.43567,
                 "Z": -163.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -59.036407,
                 "Y": -174.48932
@@ -1437,7 +1437,7 @@
                 "Y": -210.43567,
                 "Z": -163.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -56.33068,
                 "Y": -162.74152
@@ -1451,7 +1451,7 @@
                 "Y": -210.43567,
                 "Z": -163.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -46.298447,
                 "Y": -168.08739
@@ -1465,7 +1465,7 @@
                 "Y": -181.41724,
                 "Z": -167.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -40.490448,
                 "Y": -168.21957
@@ -1479,7 +1479,7 @@
                 "Y": -153.06946,
                 "Z": -147.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -30.788498,
                 "Y": -172.44347
@@ -1493,7 +1493,7 @@
                 "Y": -153.06946,
                 "Z": -147.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -34.814636,
                 "Y": -168.28549
@@ -1520,7 +1520,7 @@
                 "Y": -153.06946,
                 "Z": -147.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -15.938416,
                 "Y": -162.41158
@@ -1547,7 +1547,7 @@
                 "Y": -304.45654,
                 "Z": -164.81561
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -59.762535,
                 "Y": -177.52533
@@ -1561,7 +1561,7 @@
                 "Y": -304.45654,
                 "Z": -164.81561
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -58.31028,
                 "Y": -164.78737
@@ -1575,7 +1575,7 @@
                 "Y": -354.40662,
                 "Z": -167.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -43.79013,
                 "Y": -171.51924
@@ -1589,7 +1589,7 @@
                 "Y": -367.97205,
                 "Z": -167.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -47.221985,
                 "Y": 177.62079
@@ -1616,7 +1616,7 @@
                 "Y": -367.97205,
                 "Z": -167.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -39.829895,
                 "Y": -172.87537
@@ -1630,7 +1630,7 @@
                 "Y": -790.0812,
                 "Z": -167.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -50.38983,
                 "Y": -165.87914
@@ -1644,7 +1644,7 @@
                 "Y": -790.0812,
                 "Z": -167.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -53.29399,
                 "Y": 169.37073
@@ -1658,7 +1658,7 @@
                 "Y": -790.0812,
                 "Z": -167.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -33.823822,
                 "Y": -159.21318
@@ -1672,7 +1672,7 @@
                 "Y": -790.0812,
                 "Z": -167.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -11.977844,
                 "Y": -144.42935
@@ -1686,7 +1686,7 @@
                 "Y": -871.97095,
                 "Z": -143.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -54.943657,
                 "Y": -158.48773
@@ -1700,7 +1700,7 @@
                 "Y": -871.97095,
                 "Z": -143.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -56.131897,
                 "Y": 166.13629
@@ -1714,7 +1714,7 @@
                 "Y": -871.97095,
                 "Z": -143.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -21.67981,
                 "Y": -143.90167
@@ -1728,7 +1728,7 @@
                 "Y": -927.32886,
                 "Z": -167.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -22.603683,
                 "Y": -146.0138
@@ -1742,7 +1742,7 @@
                 "Y": -1255.9688,
                 "Z": -167.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -26.035538,
                 "Y": 156.36807
@@ -1756,7 +1756,7 @@
                 "Y": -888.3469,
                 "Z": -45.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -39.56555,
                 "Y": 165.806
@@ -1770,7 +1770,7 @@
                 "Y": -888.3469,
                 "Z": -45.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -44.185303,
                 "Y": -169.50977
@@ -1784,7 +1784,7 @@
                 "Y": -888.3469,
                 "Z": -45.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -24.517365,
                 "Y": -162.44797
@@ -1798,7 +1798,7 @@
                 "Y": -888.3469,
                 "Z": -45.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -29.995422,
                 "Y": -147.13611
@@ -1812,7 +1812,7 @@
                 "Y": -888.3469,
                 "Z": -45.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -4.7172546,
                 "Y": -144.56189
@@ -1826,7 +1826,7 @@
                 "Y": -1159.9688,
                 "Z": -246.39447
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -35.011017,
                 "Y": 156.76392
@@ -1840,7 +1840,7 @@
                 "Y": -1159.9688,
                 "Z": -246.39447
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -43.459167,
                 "Y": 168.44617
@@ -1854,7 +1854,7 @@
                 "Y": -1128.1879,
                 "Z": -254.24536
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -58.507004,
                 "Y": -167.0018
@@ -1881,7 +1881,7 @@
                 "Y": -1183.9688,
                 "Z": -256.07043
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -29.137115,
                 "Y": -169.048
@@ -1895,7 +1895,7 @@
                 "Y": -1014.0862,
                 "Z": -257.69336
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -25.57309,
                 "Y": -164.49417
@@ -1909,7 +1909,7 @@
                 "Y": -1014.0862,
                 "Z": -257.69336
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -29.467041,
                 "Y": -143.638
@@ -1923,7 +1923,7 @@
                 "Y": -1009.3789,
                 "Z": -257.11694
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -27.553024,
                 "Y": -144.62814
@@ -1937,7 +1937,7 @@
                 "Y": -1032.0848,
                 "Z": -255.47876
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -28.740921,
                 "Y": -150.76607
@@ -1951,7 +1951,7 @@
                 "Y": -1036.0304,
                 "Z": -251.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -26.6288,
                 "Y": -148.45619
@@ -1965,7 +1965,7 @@
                 "Y": -1036.0304,
                 "Z": -251.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -56.724815,
                 "Y": -161.3919
@@ -1979,7 +1979,7 @@
                 "Y": -1036.0304,
                 "Z": -251.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -65.76691,
                 "Y": -159.54414
@@ -1993,7 +1993,7 @@
                 "Y": -1204.328,
                 "Z": -108.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -9.7332,
                 "Y": -149.90811
@@ -2007,7 +2007,7 @@
                 "Y": -1204.328,
                 "Z": -108.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -66.55895,
                 "Y": -163.6362
@@ -2021,7 +2021,7 @@
                 "Y": -1204.328,
                 "Z": -108.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -69.26502,
                 "Y": -163.90022
@@ -2035,7 +2035,7 @@
                 "Y": -1130.0283,
                 "Z": -127.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -70.32108,
                 "Y": -160.79831
@@ -2088,8 +2088,8 @@
                 "Y": -1548.979,
                 "Z": -108.96875
             },
-            "Throw type": "2",
-            "Throw type": "1",
+            "Throw type": "StandTrow",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -3.3968353,
                 "Y": -179.80637
@@ -2103,7 +2103,7 @@
                 "Y": -1548.979,
                 "Z": -108.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -67.28508,
                 "Y": -176.30826
@@ -2143,7 +2143,7 @@
                 "Y": -1400.2759,
                 "Z": -260.71448
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -68.27522,
                 "Y": -171.22604
@@ -2157,7 +2157,7 @@
                 "Y": -1400.2759,
                 "Z": -260.71448
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -69.793396,
                 "Y": -171.75407
@@ -2171,7 +2171,7 @@
                 "Y": -1914.0313,
                 "Z": -167.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -6.961212,
                 "Y": -104.33235
@@ -2237,7 +2237,7 @@
                 "Y": 831.96875,
                 "Z": -121.504456
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -70.18925,
                 "Y": -29.386368
@@ -2251,7 +2251,7 @@
                 "Y": 831.96875,
                 "Z": -121.504456
             },
-            "Throw type": "2",
+            "Throw type": "StandTrow",
             "Viewangle": {
                 "X": -62.401314,
                 "Y": 35.09549
@@ -2317,7 +2317,7 @@
                 "Y": -1914.0302,
                 "Z": -167.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -6.961212,
                 "Y": -104.23073
@@ -2344,7 +2344,7 @@
                 "Y": -2269.5212,
                 "Z": -167.96875
             },
-            "Throw type": "2",
+            "Throw type": "StandTrow",
             "Viewangle": {
                 "X": -74.74342,
                 "Y": 5.8272095
@@ -2384,7 +2384,7 @@
                 "Y": -1384.3506,
                 "Z": -121.27954
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -12.571106,
                 "Y": 90.01306
@@ -2398,7 +2398,7 @@
                 "Y": -1358.4573,
                 "Z": -141.99414
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -23.329132,
                 "Y": 88.098694
@@ -2425,7 +2425,7 @@
                 "Y": -1358.4573,
                 "Z": -141.99414
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -30.457184,
                 "Y": 88.62671
@@ -2452,7 +2452,7 @@
                 "Y": -1324.7181,
                 "Z": -159.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -27.618942,
                 "Y": 88.032776
@@ -2479,7 +2479,7 @@
                 "Y": -1324.7181,
                 "Z": -159.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -47.683075,
                 "Y": 86.84485
@@ -2506,7 +2506,7 @@
                 "Y": -1527.9688,
                 "Z": -159.0495
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": 7.955139,
                 "Y": 0.054595947
@@ -2559,8 +2559,8 @@
                 "Y": 450.03125,
                 "Z": -159.96875
             },
-            "Throw type": "2",
-            "Throw type": "1",
+            "Throw type": "StandTrow",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": 6.6354065,
                 "Y": -86.53759
@@ -2574,8 +2574,8 @@
                 "Y": 450.03125,
                 "Z": -159.96875
             },
-            "Throw type": "2",
-            "Throw type": "1",
+            "Throw type": "StandTrow",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": 9.407379,
                 "Y": -115.379105
@@ -2615,7 +2615,7 @@
                 "Y": 711.04144,
                 "Z": -101.79144
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": 14.555847,
                 "Y": 0.22213745
@@ -2681,7 +2681,7 @@
                 "Y": -868.93726,
                 "Z": -249.49646
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": 5.777771,
                 "Y": 37.554016
@@ -2747,7 +2747,7 @@
                 "Y": -1393.6555,
                 "Z": -167.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": 5.646286,
                 "Y": -47.585907
@@ -2787,7 +2787,7 @@
                 "Y": -1527.9688,
                 "Z": -159.04944
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": 6.9001007,
                 "Y": 0.1980896
@@ -2892,7 +2892,7 @@
                 "Y": -1375.9113,
                 "Z": -128.031
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": 11.846008,
                 "Y": -76.944466
@@ -2906,7 +2906,7 @@
                 "Y": -1375.9113,
                 "Z": -128.031
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": 17.588074,
                 "Y": -75.62439
@@ -2946,8 +2946,8 @@
                 "Y": -2282.3572,
                 "Z": -191.18188
             },
-            "Throw type": "2",
-            "Throw type": "1",
+            "Throw type": "StandTrow",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": 3.2660217,
                 "Y": 5.1954956
@@ -2961,7 +2961,7 @@
                 "Y": -2544.5957,
                 "Z": -167.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": 3.992157,
                 "Y": 52.319305
@@ -3092,7 +3092,7 @@
                 "Y": -1914.0319,
                 "Z": -167.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -6.897705,
                 "Y": -104.32308
@@ -3145,7 +3145,7 @@
                 "Y": 708.0692,
                 "Z": -101.79144
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": 14.552429,
                 "Y": 0.2506256
@@ -3159,8 +3159,8 @@
                 "Y": 450.03125,
                 "Z": -159.96875
             },
-            "Throw type": "2",
-            "Throw type": "1",
+            "Throw type": "StandTrow",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": 6.698227,
                 "Y": -86.53965
@@ -3174,8 +3174,8 @@
                 "Y": 450.03125,
                 "Z": -159.96875
             },
-            "Throw type": "2",
-            "Throw type": "1",
+            "Throw type": "StandTrow",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": 8.414154,
                 "Y": -116.89968
@@ -3332,7 +3332,7 @@
                 "Y": -1398.0537,
                 "Z": -167.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": 5.642853,
                 "Y": -47.594482
@@ -3489,7 +3489,7 @@
                 "Y": -1914.2426,
                 "Z": -167.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -6.962921,
                 "Y": -104.21665
@@ -3516,7 +3516,7 @@
                 "Y": -1766.4891,
                 "Z": -300.43164
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -37.22374,
                 "Y": 4.503708
@@ -3530,7 +3530,7 @@
                 "Y": -1766.489,
                 "Z": -300.43152
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -23.957748,
                 "Y": 5.29541
@@ -3544,7 +3544,7 @@
                 "Y": -2029.9675,
                 "Z": -299.12
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -23.16571,
                 "Y": 11.565521
@@ -3558,7 +3558,7 @@
                 "Y": -2029.9675,
                 "Z": -299.12
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -19.403564,
                 "Y": -2.8224487
@@ -3572,7 +3572,7 @@
                 "Y": -1735.6642,
                 "Z": -264.82043
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -52.07348,
                 "Y": 4.569275
@@ -3586,7 +3586,7 @@
                 "Y": -1737.941,
                 "Z": -264.87256
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -62.76558,
                 "Y": 6.5495605
@@ -3600,7 +3600,7 @@
                 "Y": -1737.941,
                 "Z": -264.87256
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -49.037476,
                 "Y": -12.854691
@@ -3614,7 +3614,7 @@
                 "Y": -1737.941,
                 "Z": -264.87256
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -46.991608,
                 "Y": 23.511429
@@ -3628,7 +3628,7 @@
                 "Y": -1208.0313,
                 "Z": -255.07703
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -57.551537,
                 "Y": 11.037476
@@ -3642,7 +3642,7 @@
                 "Y": -1208.0313,
                 "Z": -255.07703
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -65.60314,
                 "Y": 14.073486
@@ -3656,7 +3656,7 @@
                 "Y": -1208.0326,
                 "Z": -255.07733
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -52.667084,
                 "Y": 88.45575
@@ -3670,7 +3670,7 @@
                 "Y": -1180.2106,
                 "Z": -187.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -52.40307,
                 "Y": -10.214539
@@ -3684,7 +3684,7 @@
                 "Y": -1180.2106,
                 "Z": -187.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -44.35112,
                 "Y": -28.496475
@@ -3698,7 +3698,7 @@
                 "Y": -1180.2106,
                 "Z": -187.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -35.77115,
                 "Y": 8.133316
@@ -3712,7 +3712,7 @@
                 "Y": -2029.9702,
                 "Z": -264.7599
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -52.79892,
                 "Y": -4.0766144
@@ -3726,7 +3726,7 @@
                 "Y": -2407.9673,
                 "Z": -240.01917
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -6.2690735,
                 "Y": 9.321213
@@ -3740,7 +3740,7 @@
                 "Y": -2407.9692,
                 "Z": -240.01123
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -42.10681,
                 "Y": 41.85962
@@ -3754,7 +3754,7 @@
                 "Y": -1208.8365,
                 "Z": -108.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -50.48871,
                 "Y": 153.63348
@@ -3768,7 +3768,7 @@
                 "Y": -1208.8365,
                 "Z": -108.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -55.76866,
                 "Y": 165.51349
@@ -3782,7 +3782,7 @@
                 "Y": -1255.3915,
                 "Z": -108.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -32.668533,
                 "Y": -146.04263
@@ -3796,7 +3796,7 @@
                 "Y": -1128.0313,
                 "Z": -127.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -71.80664,
                 "Y": -156.86623
@@ -3810,7 +3810,7 @@
                 "Y": -1128.0313,
                 "Z": -127.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -65.734634,
                 "Y": -141.22409
@@ -3824,7 +3824,7 @@
                 "Y": -1190.5416,
                 "Z": -45.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -25.474548,
                 "Y": 167.7221
@@ -3838,7 +3838,7 @@
                 "Y": -1190.5416,
                 "Z": -45.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -4.288788,
                 "Y": 155.24814
@@ -3852,7 +3852,7 @@
                 "Y": -1219.9686,
                 "Z": -201.97174
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -44.08676,
                 "Y": 166.99597
@@ -3866,7 +3866,7 @@
                 "Y": -1219.9686,
                 "Z": -201.97174
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -34.12079,
                 "Y": 157.29367
@@ -3880,7 +3880,7 @@
                 "Y": -696.77435,
                 "Z": -167.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": 4.159363,
                 "Y": 1.071167
@@ -3894,7 +3894,7 @@
                 "Y": -551.0253,
                 "Z": -167.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": 4.2915344,
                 "Y": -4.472809
@@ -3908,7 +3908,7 @@
                 "Y": -870.8024,
                 "Z": -111.22955
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -58.738403,
                 "Y": -49.779053
@@ -3922,7 +3922,7 @@
                 "Y": -870.8024,
                 "Z": -111.22955
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -68.86986,
                 "Y": 114.891235
@@ -3949,7 +3949,7 @@
                 "Y": -870.8024,
                 "Z": -111.22955
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -59.03572,
                 "Y": -20.606918
@@ -3963,7 +3963,7 @@
                 "Y": -870.8024,
                 "Z": -111.22955
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -67.417946,
                 "Y": -29.252808
@@ -3977,7 +3977,7 @@
                 "Y": -918.97974,
                 "Z": -167.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -55.603867,
                 "Y": -38.852814
@@ -3991,7 +3991,7 @@
                 "Y": -918.97974,
                 "Z": -167.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -58.04592,
                 "Y": -19.184875
@@ -4005,7 +4005,7 @@
                 "Y": -918.97974,
                 "Z": -167.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -66.69216,
                 "Y": -26.444778
@@ -4019,7 +4019,7 @@
                 "Y": -918.97974,
                 "Z": -167.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -61.214104,
                 "Y": -48.422928
@@ -4033,7 +4033,7 @@
                 "Y": -918.97974,
                 "Z": -167.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -67.22019,
                 "Y": 112.15497
@@ -4047,7 +4047,7 @@
                 "Y": -1173.9685,
                 "Z": -167.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -55.340195,
                 "Y": 95.65521
@@ -4061,7 +4061,7 @@
                 "Y": -1173.9685,
                 "Z": -167.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -53.82202,
                 "Y": 104.16928
@@ -4075,7 +4075,7 @@
                 "Y": -1173.9685,
                 "Z": -167.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -62.666016,
                 "Y": 11.57135
@@ -4089,7 +4089,7 @@
                 "Y": -968.00275,
                 "Z": -190.69922
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -40.819702,
                 "Y": -32.876587
@@ -4103,7 +4103,7 @@
                 "Y": -968.00275,
                 "Z": -190.69922
             },
-            "Throw type": "3",
+            "Throw type": "Crouch + JumpTrow",
             "Viewangle": {
                 "X": -58.837624,
                 "Y": -41.25882
@@ -4117,7 +4117,7 @@
                 "Y": -968.00275,
                 "Z": -190.69922
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -52.30385,
                 "Y": -16.838608
@@ -4131,7 +4131,7 @@
                 "Y": -968.00275,
                 "Z": -190.69922
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -61.939888,
                 "Y": -20.996582
@@ -4145,7 +4145,7 @@
                 "Y": -895.9891,
                 "Z": -175.69543
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -38.90602,
                 "Y": -34.592163
@@ -4159,7 +4159,7 @@
                 "Y": -895.9891,
                 "Z": -175.69543
             },
-            "Throw type": "3",
+            "Throw type": "Crouch + JumpTrow",
             "Viewangle": {
                 "X": -55.07618,
                 "Y": -43.17215
@@ -4173,7 +4173,7 @@
                 "Y": -895.9891,
                 "Z": -175.69543
             },
-            "Throw type": "3",
+            "Throw type": "Crouch + JumpTrow",
             "Viewangle": {
                 "X": -51.578064,
                 "Y": -17.696228
@@ -4187,7 +4187,7 @@
                 "Y": -895.9891,
                 "Z": -175.69543
             },
-            "Throw type": "3",
+            "Throw type": "Crouch + JumpTrow",
             "Viewangle": {
                 "X": -61.6103,
                 "Y": -23.57048
@@ -4201,7 +4201,7 @@
                 "Y": -895.9891,
                 "Z": -175.69543
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -36.39804,
                 "Y": 0.9815674
@@ -4215,7 +4215,7 @@
                 "Y": -1962.0225,
                 "Z": -300.43115
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -32.50409,
                 "Y": -4.9884796
@@ -4229,7 +4229,7 @@
                 "Y": -1962.0225,
                 "Z": -300.43115
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -28.940048,
                 "Y": 9.861603
@@ -4243,7 +4243,7 @@
                 "Y": -1819.9756,
                 "Z": -300.4311
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -37.91588,
                 "Y": -9.248077
@@ -4257,7 +4257,7 @@
                 "Y": -1819.9756,
                 "Z": -300.4311
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -37.256012,
                 "Y": 6.3277893
@@ -4271,7 +4271,7 @@
                 "Y": -1819.9756,
                 "Z": -300.4311
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -26.69574,
                 "Y": 6.525879
@@ -4285,7 +4285,7 @@
                 "Y": -2603.0774,
                 "Z": -167.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -64.84371,
                 "Y": 43.61743
@@ -4325,7 +4325,7 @@
                 "Y": -499.96973,
                 "Z": -93.98602
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -56.263733,
                 "Y": -60.98751
@@ -4352,7 +4352,7 @@
                 "Y": -427.9007,
                 "Z": -158.55273
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -29.269638,
                 "Y": -75.639496
@@ -4366,7 +4366,7 @@
                 "Y": -427.9007,
                 "Z": -158.55273
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -27.355621,
                 "Y": -59.40342
@@ -4380,7 +4380,7 @@
                 "Y": -427.9007,
                 "Z": -158.55273
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -64.05201,
                 "Y": -43.95938
@@ -4394,7 +4394,7 @@
                 "Y": -490.7309,
                 "Z": -163.72449
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -47.683746,
                 "Y": -60.789413
@@ -4408,7 +4408,7 @@
                 "Y": -490.7309,
                 "Z": -163.72449
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -65.6361,
                 "Y": -44.685516
@@ -4422,7 +4422,7 @@
                 "Y": -647.96875,
                 "Z": -263.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -63.194046,
                 "Y": -34.059677
@@ -4436,7 +4436,7 @@
                 "Y": 519.96875,
                 "Z": -258.83752
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -39.634216,
                 "Y": -160.6177
@@ -4450,7 +4450,7 @@
                 "Y": 519.96875,
                 "Z": -258.83752
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -37.25807,
                 "Y": -146.29565
@@ -4464,7 +4464,7 @@
                 "Y": -1200.0314,
                 "Z": -223.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -71.842,
                 "Y": -159.23138
@@ -4478,7 +4478,7 @@
                 "Y": -1200.0314,
                 "Z": -223.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -65.90183,
                 "Y": -144.71123
@@ -4492,7 +4492,7 @@
                 "Y": -1200.0314,
                 "Z": -223.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -69.26777,
                 "Y": -160.22118
@@ -4506,7 +4506,7 @@
                 "Y": -1200.0282,
                 "Z": -223.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -65.10944,
                 "Y": 149.42126
@@ -4520,7 +4520,7 @@
                 "Y": -1200.0313,
                 "Z": -255.20367
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -64.1193,
                 "Y": 148.89359
@@ -4534,7 +4534,7 @@
                 "Y": -1200.0313,
                 "Z": -255.20367
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -71.577644,
                 "Y": -162.00269
@@ -4548,7 +4548,7 @@
                 "Y": -1200.0313,
                 "Z": -255.20367
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -68.93749,
                 "Y": -161.47464
@@ -4562,7 +4562,7 @@
                 "Y": -1200.0313,
                 "Z": -255.20367
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -64.84577,
                 "Y": -144.51279
@@ -4576,7 +4576,7 @@
                 "Y": -416.9734,
                 "Z": -163.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -56.397972,
                 "Y": 177.86694
@@ -4590,7 +4590,7 @@
                 "Y": -416.9734,
                 "Z": -163.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -46.365738,
                 "Y": -173.81711
@@ -4604,7 +4604,7 @@
                 "Y": -248.03125,
                 "Z": -167.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -36.069824,
                 "Y": -178.70053
@@ -4618,7 +4618,7 @@
                 "Y": -248.03125,
                 "Z": -167.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -38.643723,
                 "Y": -170.18646
@@ -4632,7 +4632,7 @@
                 "Y": -248.03125,
                 "Z": -167.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -27.291748,
                 "Y": -174.74063
@@ -4646,7 +4646,7 @@
                 "Y": 114.80984,
                 "Z": -167.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -36.927795,
                 "Y": -169.55681
@@ -4660,7 +4660,7 @@
                 "Y": 114.80984,
                 "Z": -167.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -36.795624,
                 "Y": -161.70296
@@ -4674,7 +4674,7 @@
                 "Y": 622.0432,
                 "Z": -80.65088
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -53.493805,
                 "Y": -175.49698
@@ -4688,7 +4688,7 @@
                 "Y": 622.0432,
                 "Z": -80.65088
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -45.17784,
                 "Y": -173.91289
@@ -4702,8 +4702,8 @@
                 "Y": 622.0432,
                 "Z": -80.65088
             },
-            "Throw type": "2",
-            "Throw type": "1",
+            "Throw type": "StandTrow",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -56.265793,
                 "Y": -167.70905
@@ -4730,7 +4730,7 @@
                 "Y": -247.96765,
                 "Z": -164.99402
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": 7.9527283,
                 "Y": 65.07271
@@ -4744,7 +4744,7 @@
                 "Y": -247.96765,
                 "Z": -164.99402
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": 7.9527283,
                 "Y": 65.07271
@@ -4771,7 +4771,7 @@
                 "Y": -247.96875,
                 "Z": -164.9942
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": 5.2466583,
                 "Y": 50.02487
@@ -4785,7 +4785,7 @@
                 "Y": -247.96875,
                 "Z": -164.9942
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": 5.7746887,
                 "Y": 55.106735
@@ -4799,7 +4799,7 @@
                 "Y": -247.96875,
                 "Z": -164.9942
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": 5.7746887,
                 "Y": 55.106735
@@ -4813,7 +4813,7 @@
                 "Y": -247.96875,
                 "Z": -164.9942
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": 7.9527283,
                 "Y": 64.94087
@@ -4840,7 +4840,7 @@
                 "Y": -1313.9481,
                 "Z": -167.96875
             },
-            "Throw type": "3",
+            "Throw type": "Crouch + JumpTrow",
             "Viewangle": {
                 "X": 5.3784943,
                 "Y": -50.75717
@@ -4854,7 +4854,7 @@
                 "Y": -1313.9481,
                 "Z": -167.96875
             },
-            "Throw type": "3",
+            "Throw type": "Crouch + JumpTrow",
             "Viewangle": {
                 "X": 5.3784943,
                 "Y": -50.75717
@@ -4868,7 +4868,7 @@
                 "Y": -115.75818,
                 "Z": -161.7721
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": 4.3220825,
                 "Y": 61.052734
@@ -4882,7 +4882,7 @@
                 "Y": -115.75818,
                 "Z": -161.7721
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": 6.4997864,
                 "Y": 61.316757
@@ -4896,7 +4896,7 @@
                 "Y": -1208.0313,
                 "Z": -255.07703
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -39.137756,
                 "Y": 67.558014
@@ -4949,7 +4949,7 @@
                 "Y": -1173.969,
                 "Z": -167.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -54.515877,
                 "Y": 100.88812
@@ -4963,7 +4963,7 @@
                 "Y": -1173.969,
                 "Z": -167.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -54.97799,
                 "Y": 95.87186
@@ -4977,7 +4977,7 @@
                 "Y": -761.03125,
                 "Z": -167.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -27.785797,
                 "Y": -38.89984
@@ -5004,7 +5004,7 @@
                 "Y": 808.3841,
                 "Z": -80.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -18.14975,
                 "Y": -42.75775
@@ -5018,7 +5018,7 @@
                 "Y": 576.3819,
                 "Z": -69.767334
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -7.6557617,
                 "Y": -153.3743
@@ -5032,7 +5032,7 @@
                 "Y": 576.3819,
                 "Z": -69.767334
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -7.8538513,
                 "Y": -154.69437
@@ -5046,7 +5046,7 @@
                 "Y": 576.3819,
                 "Z": -69.767334
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -46.793854,
                 "Y": -158.91827
@@ -5060,7 +5060,7 @@
                 "Y": 887.96875,
                 "Z": -124.97461
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -15.773956,
                 "Y": -93.64403
@@ -5087,8 +5087,8 @@
                 "Y": -924.03125,
                 "Z": -167.96875
             },
-            "Throw type": "1",
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": 22.572098,
                 "Y": 58.45517
@@ -5102,8 +5102,8 @@
                 "Y": -924.03314,
                 "Z": -167.96875
             },
-            "Throw type": "1",
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": 22.540161,
                 "Y": 58.521088
@@ -5195,7 +5195,7 @@
                 "Y": -1475.5326,
                 "Z": -167.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -74.01798,
                 "Y": 174.25449
@@ -5235,7 +5235,7 @@
                 "Y": -1418.0305,
                 "Z": -115.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -33.49388,
                 "Y": -63.777695
@@ -5275,7 +5275,7 @@
                 "Y": -1717.9688,
                 "Z": -167.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": 3.5980225,
                 "Y": 163.10028
@@ -5289,8 +5289,8 @@
                 "Y": -1717.9688,
                 "Z": -167.96875
             },
-            "Throw type": "2",
-            "Throw type": "1",
+            "Throw type": "StandTrow",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -5.906189,
                 "Y": 164.55255
@@ -5304,7 +5304,7 @@
                 "Y": -1811.9688,
                 "Z": -63.09375
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -35.144226,
                 "Y": 125.48001
@@ -5344,7 +5344,7 @@
                 "Y": -1209.8475,
                 "Z": -108.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -21.35022,
                 "Y": 165.87225
@@ -5371,7 +5371,7 @@
                 "Y": 510.07373,
                 "Z": -255.45782
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -49.664032,
                 "Y": 179.63608
@@ -5385,7 +5385,7 @@
                 "Y": 729.67725,
                 "Z": -125.207275
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -49.7303,
                 "Y": -172.6419
@@ -5399,7 +5399,7 @@
                 "Y": 689.40515,
                 "Z": -71.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -49.201935,
                 "Y": -173.89572
@@ -5426,7 +5426,7 @@
                 "Y": 689.40515,
                 "Z": -71.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -62.46826,
                 "Y": -123.34007
@@ -5440,7 +5440,7 @@
                 "Y": 689.40515,
                 "Z": -71.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -47.485992,
                 "Y": -156.07623
@@ -5454,7 +5454,7 @@
                 "Y": -499.96606,
                 "Z": -143.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -47.22232,
                 "Y": -90.07622
@@ -5468,7 +5468,7 @@
                 "Y": -499.96606,
                 "Z": -143.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -59.96029,
                 "Y": 152.24579
@@ -5482,7 +5482,7 @@
                 "Y": -40.799072,
                 "Z": -166.46954
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -43.032074,
                 "Y": -164.39186
@@ -5496,7 +5496,7 @@
                 "Y": -227.55518,
                 "Z": -167.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -42.30594,
                 "Y": -169.34222
@@ -5510,7 +5510,7 @@
                 "Y": -137.34412,
                 "Z": -167.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -43.890045,
                 "Y": -166.63617
@@ -5524,7 +5524,7 @@
                 "Y": 39.168312,
                 "Z": -164.47699
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -46.39801,
                 "Y": -161.81763
@@ -5538,7 +5538,7 @@
                 "Y": 512.68335,
                 "Z": -262.37726
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -46.26584,
                 "Y": -159.6389
@@ -5552,8 +5552,8 @@
                 "Y": -924.0345,
                 "Z": -167.96875
             },
-            "Throw type": "1",
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": 22.572098,
                 "Y": 57.60373
@@ -5580,7 +5580,7 @@
                 "Y": -64.41321,
                 "Z": -160.00208
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -14.850082,
                 "Y": -135.35019
@@ -5594,7 +5594,7 @@
                 "Y": -1253.9688,
                 "Z": -151.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -17.490234,
                 "Y": -178.44785
@@ -5608,7 +5608,7 @@
                 "Y": -211.031,
                 "Z": -163.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -54.91207,
                 "Y": -162.24026
@@ -5635,7 +5635,7 @@
                 "Y": -1418.0313,
                 "Z": -167.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": 3.1678467,
                 "Y": -130.7222
@@ -5649,8 +5649,8 @@
                 "Y": -1418.0313,
                 "Z": -167.96875
             },
-            "Throw type": "2",
-            "Throw type": "1",
+            "Throw type": "StandTrow",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -13.200073,
                 "Y": -130.85403
@@ -5677,8 +5677,8 @@
                 "Y": -788.96454,
                 "Z": -261.96875
             },
-            "Throw type": "1",
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": 7.8538513,
                 "Y": 161.16602
@@ -5705,7 +5705,7 @@
                 "Y": 719.7343,
                 "Z": -79.96875
             },
-            "Throw type": "2",
+            "Throw type": "StandTrow",
             "Viewangle": {
                 "X": -11.615982,
                 "Y": -179.99382
@@ -5719,7 +5719,7 @@
                 "Y": -1792.8312,
                 "Z": -261.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -22.044067,
                 "Y": 120.73013
@@ -5733,7 +5733,7 @@
                 "Y": -1792.8312,
                 "Z": -261.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -41.249878,
                 "Y": 101.52432
@@ -5747,7 +5747,7 @@
                 "Y": -1501.2714,
                 "Z": -258.32104
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -27.917969,
                 "Y": 87.730286
@@ -5865,7 +5865,7 @@
                 "Y": 571.9687,
                 "Z": -257.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -56.825752,
                 "Y": -173.89366
@@ -5879,7 +5879,7 @@
                 "Y": 571.9687,
                 "Z": -257.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -56.03405,
                 "Y": -166.43567
@@ -5893,7 +5893,7 @@
                 "Y": 279.06033,
                 "Z": -254.72913
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -29.435806,
                 "Y": -127.49565
@@ -6037,7 +6037,7 @@
                 "Y": -2232.0313,
                 "Z": -167.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -18.083832,
                 "Y": -37.598297
@@ -6051,7 +6051,7 @@
                 "Y": -2232.0313,
                 "Z": -167.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -78.86982,
                 "Y": 1.9360046
@@ -6078,7 +6078,7 @@
                 "Y": -380.0332,
                 "Z": -263.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -33.065765,
                 "Y": -57.30194
@@ -6092,7 +6092,7 @@
                 "Y": -313.57813,
                 "Z": -367.96875
             },
-            "Throw type": "2",
+            "Throw type": "StandTrow",
             "Viewangle": {
                 "X": -45.27603,
                 "Y": -47.335968
@@ -6106,7 +6106,7 @@
                 "Y": 679.96875,
                 "Z": -257.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -56.4299,
                 "Y": -125.978165
@@ -6120,7 +6120,7 @@
                 "Y": 679.96875,
                 "Z": -257.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -64.086,
                 "Y": -143.00629
@@ -6134,7 +6134,7 @@
                 "Y": 679.96875,
                 "Z": -257.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -59.795837,
                 "Y": -145.31616
@@ -6213,7 +6213,7 @@
                 "Y": -115.757324,
                 "Z": -161.77252
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": 5.9401703,
                 "Y": 50.365784
@@ -6227,7 +6227,7 @@
                 "Y": -115.757324,
                 "Z": -161.77252
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": 4.290161,
                 "Y": 43.9635
@@ -6267,7 +6267,7 @@
                 "Y": -1418.0316,
                 "Z": -167.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -33.725967,
                 "Y": -72.78992
@@ -6294,7 +6294,7 @@
                 "Y": -1418.0316,
                 "Z": -167.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": 13.85994,
                 "Y": -136.48007
@@ -6308,7 +6308,7 @@
                 "Y": 31.879143,
                 "Z": -167.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -40.1279,
                 "Y": -162.77618
@@ -6374,7 +6374,7 @@
                 "Y": 350.03134,
                 "Z": -251.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -43.69194,
                 "Y": -165.58525
@@ -6388,7 +6388,7 @@
                 "Y": 350.03134,
                 "Z": -251.96875
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -46.727936,
                 "Y": -179.97322
@@ -6402,7 +6402,7 @@
                 "Y": 655.97034,
                 "Z": -79.93921
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -34.64984,
                 "Y": -172.41394
@@ -6416,7 +6416,7 @@
                 "Y": 655.97034,
                 "Z": -79.93921
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -21.053925,
                 "Y": -173.79993
@@ -6430,7 +6430,7 @@
                 "Y": 655.97034,
                 "Z": -79.93921
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -51.149933,
                 "Y": -99.8798
@@ -6444,7 +6444,7 @@
                 "Y": 655.97034,
                 "Z": -79.93921
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -26.267624,
                 "Y": -99.15367
@@ -6471,7 +6471,7 @@
                 "Y": 655.97034,
                 "Z": -79.93921
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -53.063965,
                 "Y": -173.00789
@@ -6485,7 +6485,7 @@
                 "Y": 655.97034,
                 "Z": -79.93921
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -71.675835,
                 "Y": -165.8139
@@ -6499,7 +6499,7 @@
                 "Y": 655.97034,
                 "Z": -79.93921
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -73.524284,
                 "Y": -118.49201
@@ -6513,7 +6513,7 @@
                 "Y": -2029.9688,
                 "Z": -299.1197
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -30.42595,
                 "Y": 11.438141
@@ -6527,8 +6527,8 @@
                 "Y": -1304.8337,
                 "Z": -155.61658
             },
-            "Throw type": "1",
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -11.880005,
                 "Y": -80.26611
@@ -6568,7 +6568,7 @@
                 "Y": -1024.3397,
                 "Z": -257.5628
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -20.922089,
                 "Y": -163.53802
@@ -6582,7 +6582,7 @@
                 "Y": -1024.3397,
                 "Z": -257.5628
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -24.024017,
                 "Y": -150.40387
@@ -6596,7 +6596,7 @@
                 "Y": -1024.3397,
                 "Z": -257.5628
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -17.42398,
                 "Y": -153.7698
@@ -6623,7 +6623,7 @@
                 "Y": 887.9683,
                 "Z": -135.32813
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -40.260086,
                 "Y": -101.167946
@@ -6637,8 +6637,8 @@
                 "Y": 887.9683,
                 "Z": -135.32813
             },
-            "Throw type": "2",
-            "Throw type": "1",
+            "Throw type": "StandTrow",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -49.763947,
                 "Y": -122.35405
@@ -6652,7 +6652,7 @@
                 "Y": 887.9683,
                 "Z": -135.32813
             },
-            "Throw type": "1",
+            "Throw type": "JumpTrow",
             "Viewangle": {
                 "X": -10.22998,
                 "Y": -120.70404
