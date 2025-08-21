@@ -1,226 +1,450 @@
 [
-  {
-    "Name": "Test1",
-    "Map": "de_mirage",
-    "ThrowType": "Throw",
-    "GrenadeType": "Smoke",
-    "Position": [1422.97, 36.47, -167.969],
-    "ViewAngles": [-40.47, -164.41, 0.0]
-  },
-  {
-    "Name": "Test2",
-    "Map": "de_mirage",
-    "ThrowType": "Throw",
-    "GrenadeType": "Flashbang",
-    "Position": [-879.969, -1306.03, -167.969],
-    "ViewAngles": [-27.3858, -27.9901, 0.0]
-  },
-  {
-    "Name": "Test3",
-    "Map": "de_mirage",
-    "ThrowType": "JumpThrow+D",
-    "GrenadeType": "Smoke",
-    "Position": [1389.47, 70.9687, -167.969],
-    "ViewAngles": [-36.2164, -163.811, 0.0]
-  },
-  {
-    "Name": "Test4",
-    "Map": "de_mirage",
-    "ThrowType": "JumpThrow",
-    "GrenadeType": "Smoke",
-    "Position": [1089.77, -1014.28, -257.717],
-    "ViewAngles": [-29.1199, -143.65, 0.0]
-  },
-  {
-    "Name": "Test5",
-    "Map": "de_mirage",
-    "ThrowType": "JumpThrow",
-    "GrenadeType": "Smoke",
-    "Position": [1089.77, -1014.28, -257.717],
-    "ViewAngles": [-29.1199, -143.65, 0.0]
-  },
-  {
-    "Name": "Test6",
-    "Map": "de_mirage",
-    "ThrowType": "Throw",
-    "GrenadeType": "Flashbang",
-    "Position": [821.718, -1036.03, -251.969],
-    "ViewAngles": [-35.7729, -145.263, 0.0]
-  },
-  {
-    "Name": "Test7",
-    "Map": "de_mirage",
-    "ThrowType": "JumpThrow",
-    "GrenadeType": "Smoke",
-    "Position": [911.797, -1036.03, -251.969],
-    "ViewAngles": [-57.3047, -161.311, 0.0]
-  },
-  {
-    "Name": "Test8",
-    "Map": "de_mirage",
-    "ThrowType": "JumpThrow",
-    "GrenadeType": "Smoke",
-    "Position": [911.797, -1036.03, -251.969],
-    "ViewAngles": [-64.5041, -160.585, 0.0]
-  },
-  {
-    "Name": "Test9",
-    "Map": "de_mirage",
-    "ThrowType": "JumpThrow",
-    "GrenadeType": "Smoke",
-    "Position": [1127.97, -1210.05, -108.969],
-    "ViewAngles": [-22.6906, 165.908, 0.0]
-  },
-  {
-    "Name": "Test10",
-    "Map": "de_mirage",
-    "ThrowType": "Throw",
-    "GrenadeType": "Flashbang",
-    "Position": [240.721, -2280.03, -39.9688],
-    "ViewAngles": [-9.66684, -154.415, 0.0]
-  },
-  {
-    "Name": "Test11",
-    "Map": "de_mirage",
-    "ThrowType": "JumpThrow",
-    "GrenadeType": "Smoke",
-    "Position": [-2026.4, -2029.97, -299.121],
-    "ViewAngles": [-30.9163, -3.20954, 0.0]
-  },
-  {
-    "Name": "Test12",
-    "Map": "de_mirage",
-    "ThrowType": "JumpThrow+D",
-    "GrenadeType": "Smoke",
-    "Position": [-2026.4, -2029.97, -299.12],
-    "ViewAngles": [-35.0291, 30.6206, 0.0]
-  },
-  {
-    "Name": "Test13",
-    "Map": "de_mirage",
-    "ThrowType": "JumpThrow",
-    "GrenadeType": "Smoke",
-    "Position": [-160.031, 887.969, -135.328],
-    "ViewAngles": [-47.3271, -152.882, 0.0]
-  },
-  {
-    "Name": "Test14",
-    "Map": "de_mirage",
-    "ThrowType": "JumpThrow",
-    "GrenadeType": "Smoke",
-    "Position": [-161.151, 576.144, -69.7766],
-    "ViewAngles": [-6.80395, -154.243, 0.0]
-  },
-  {
-    "Name": "Test15",
-    "Map": "de_mirage",
-    "ThrowType": "Throw",
-    "GrenadeType": "Incendiary",
-    "Position": [-1167.02, 663.612, -79.9688],
-    "ViewAngles": [-9.54583, 173.208, 0.0]
-  },
-  {
-    "Name": "Test16",
-    "Map": "de_mirage",
-    "ThrowType": "JumpThrow",
-    "GrenadeType": "Smoke",
-    "Position": [1422.97, 36.4688, -167.969],
-    "ViewAngles": [-20.5536, -158.222, 0.0]
-  },
-  {
-    "Name": "Test17",
-    "Map": "de_mirage",
-    "ThrowType": "Throw",
-    "GrenadeType": "Flashbang",
-    "Position": [418.91, 382.36, -257.456],
-    "ViewAngles": [-22.8519, -110.128, 0.0]
-  },
-  {
-    "Name": "Test18",
-    "Map": "de_mirage",
-    "ThrowType": "Throw",
-    "GrenadeType": "Smoke",
-    "Position": [360.075, -691.969, -163.355],
-    "ViewAngles": [-41.1669, -153.352, 0.0]
-  },
-  {
-    "Name": "Test19",
-    "Map": "de_mirage",
-    "ThrowType": "Throw",
-    "GrenadeType": "Smoke",
-    "Position": [360.075, -691.969, -163.355],
-    "ViewAngles": [-24.9576, 160.923, 0.0]
-  },
-  {
-    "Name": "Test20",
-    "Map": "de_mirage",
-    "ThrowType": "Throw",
-    "GrenadeType": "Flashbang",
-    "Position": [343.302, -621.619, -162.332],
-    "ViewAngles": [-9.59782, -169.115, 0.0]
-  },
-  {
-    "Name": "Test21",
-    "Map": "de_mirage",
-    "ThrowType": "Throw",
-    "GrenadeType": "Flashbang",
-    "Position": [343.302, -621.619, -162.332],
-    "ViewAngles": [-10.1623, -169.679, 0.0]
-  },
-  {
-    "Name": "Test22",
-    "Map": "de_mirage",
-    "ThrowType": "RunThrow",
-    "GrenadeType": "Incendiary",
-    "Position": [-1343.8, 815.972, -79.9688],
-    "ViewAngles": [-5.08179, -159.841, 0.0]
-  },
-  {
-    "Name": "Test23",
-    "Map": "de_mirage",
-    "ThrowType": "Throw",
-    "GrenadeType": "Incendiary",
-    "Position": [23.8356, -2367.79, -39.9688],
-    "ViewAngles": [9.39365, 75.4853, 0.0]
-  },
-  {
-    "Name": "Test24",
-    "Map": "de_mirage",
-    "ThrowType": "RunJumpThrow",
-    "GrenadeType": "Flashbang",
-    "Position": [-747.98, -2095.37, -179.969],
-    "ViewAngles": [-18.1863, 69.2356, 0.0]
-  },
-  {
-    "Name": "Test25",
-    "Map": "de_mirage",
-    "ThrowType": "Throw",
-    "GrenadeType": "Smoke",
-    "Position": [-661.382, -1419, -167.969],
-    "ViewAngles": [-21.291, -46.1554, 0.0]
-  },
-  {
-    "Name": "Test26",
-    "Map": "de_mirage",
-    "ThrowType": "Throw",
-    "GrenadeType": "Incendiary",
-    "Position": [-661.382, -1419, -167.969],
-    "ViewAngles": [-21.8555, -48.2118, 0.0]
-  },
-  {
-    "Name": "Test27",
-    "Map": "de_mirage",
-    "ThrowType": "Throw",
-    "GrenadeType": "Flashbang",
-    "Position": [-1447.5, 108.032, -165.526],
-    "ViewAngles": [-11.3388, 132.475, 0.0]
-  },
-  {
-    "Name": "Test28",
-    "Map": "de_mirage",
-    "ThrowType": "Jumpthrow",
-    "GrenadeType": "Smoke",
-    "Position": [-694.241, 615.967, -80.1671],
-    "ViewAngles": [-39.1138, -96.0798, 0.0]
-  }
+    {
+        "Name": "Test1",
+        "Map": "de_mirage",
+        "ThrowType": "Throw",
+        "GrenadeType": "Smoke",
+        "Position": [
+            1422.97,
+            36.47,
+            -167.969
+        ],
+        "ViewAngles": [
+            -40.47,
+            -164.41,
+            0
+        ]
+    },
+    {
+        "Name": "Test2",
+        "Map": "de_mirage",
+        "ThrowType": "Throw",
+        "GrenadeType": "Flashbang",
+        "Position": [
+            -879.969,
+            -1306.03,
+            -167.969
+        ],
+        "ViewAngles": [
+            -27.3858,
+            -27.9901,
+            0
+        ]
+    },
+    {
+        "Name": "Test3",
+        "Map": "de_mirage",
+        "ThrowType": "JumpThrow+D",
+        "GrenadeType": "Smoke",
+        "Position": [
+            1389.47,
+            70.9687,
+            -167.969
+        ],
+        "ViewAngles": [
+            -36.2164,
+            -163.811,
+            0
+        ]
+    },
+    {
+        "Name": "Test4",
+        "Map": "de_mirage",
+        "ThrowType": "JumpThrow",
+        "GrenadeType": "Smoke",
+        "Position": [
+            1089.77,
+            -1014.28,
+            -257.717
+        ],
+        "ViewAngles": [
+            -29.1199,
+            -143.65,
+            0
+        ]
+    },
+    {
+        "Name": "Test5",
+        "Map": "de_mirage",
+        "ThrowType": "JumpThrow",
+        "GrenadeType": "Smoke",
+        "Position": [
+            1089.77,
+            -1014.28,
+            -257.717
+        ],
+        "ViewAngles": [
+            -29.1199,
+            -143.65,
+            0
+        ]
+    },
+    {
+        "Name": "Test6",
+        "Map": "de_mirage",
+        "ThrowType": "Throw",
+        "GrenadeType": "Flashbang",
+        "Position": [
+            821.718,
+            -1036.03,
+            -251.969
+        ],
+        "ViewAngles": [
+            -35.7729,
+            -145.263,
+            0
+        ]
+    },
+    {
+        "Name": "Test7",
+        "Map": "de_mirage",
+        "ThrowType": "JumpThrow",
+        "GrenadeType": "Smoke",
+        "Position": [
+            911.797,
+            -1036.03,
+            -251.969
+        ],
+        "ViewAngles": [
+            -57.3047,
+            -161.311,
+            0
+        ]
+    },
+    {
+        "Name": "Test8",
+        "Map": "de_mirage",
+        "ThrowType": "JumpThrow",
+        "GrenadeType": "Smoke",
+        "Position": [
+            911.797,
+            -1036.03,
+            -251.969
+        ],
+        "ViewAngles": [
+            -64.5041,
+            -160.585,
+            0
+        ]
+    },
+    {
+        "Name": "Test9",
+        "Map": "de_mirage",
+        "ThrowType": "JumpThrow",
+        "GrenadeType": "Smoke",
+        "Position": [
+            1127.97,
+            -1210.05,
+            -108.969
+        ],
+        "ViewAngles": [
+            -22.6906,
+            165.908,
+            0
+        ]
+    },
+    {
+        "Name": "Test10",
+        "Map": "de_mirage",
+        "ThrowType": "Throw",
+        "GrenadeType": "Flashbang",
+        "Position": [
+            240.721,
+            -2280.03,
+            -39.9688
+        ],
+        "ViewAngles": [
+            -9.66684,
+            -154.415,
+            0
+        ]
+    },
+    {
+        "Name": "Test11",
+        "Map": "de_mirage",
+        "ThrowType": "JumpThrow",
+        "GrenadeType": "Smoke",
+        "Position": [
+            -2026.4,
+            -2029.97,
+            -299.121
+        ],
+        "ViewAngles": [
+            -30.9163,
+            -3.20954,
+            0
+        ]
+    },
+    {
+        "Name": "Test12",
+        "Map": "de_mirage",
+        "ThrowType": "JumpThrow+D",
+        "GrenadeType": "Smoke",
+        "Position": [
+            -2026.4,
+            -2029.97,
+            -299.12
+        ],
+        "ViewAngles": [
+            -35.0291,
+            30.6206,
+            0
+        ]
+    },
+    {
+        "Name": "Test13",
+        "Map": "de_mirage",
+        "ThrowType": "JumpThrow",
+        "GrenadeType": "Smoke",
+        "Position": [
+            -160.031,
+            887.969,
+            -135.328
+        ],
+        "ViewAngles": [
+            -47.3271,
+            -152.882,
+            0
+        ]
+    },
+    {
+        "Name": "Test14",
+        "Map": "de_mirage",
+        "ThrowType": "JumpThrow",
+        "GrenadeType": "Smoke",
+        "Position": [
+            -161.151,
+            576.144,
+            -69.7766
+        ],
+        "ViewAngles": [
+            -6.80395,
+            -154.243,
+            0
+        ]
+    },
+    {
+        "Name": "Test15",
+        "Map": "de_mirage",
+        "ThrowType": "Throw",
+        "GrenadeType": "Incendiary",
+        "Position": [
+            -1167.02,
+            663.612,
+            -79.9688
+        ],
+        "ViewAngles": [
+            -9.54583,
+            173.208,
+            0
+        ]
+    },
+    {
+        "Name": "Test16",
+        "Map": "de_mirage",
+        "ThrowType": "JumpThrow",
+        "GrenadeType": "Smoke",
+        "Position": [
+            1422.97,
+            36.4688,
+            -167.969
+        ],
+        "ViewAngles": [
+            -20.5536,
+            -158.222,
+            0
+        ]
+    },
+    {
+        "Name": "Test17",
+        "Map": "de_mirage",
+        "ThrowType": "Throw",
+        "GrenadeType": "Flashbang",
+        "Position": [
+            418.91,
+            382.36,
+            -257.456
+        ],
+        "ViewAngles": [
+            -22.8519,
+            -110.128,
+            0
+        ]
+    },
+    {
+        "Name": "Test18",
+        "Map": "de_mirage",
+        "ThrowType": "Throw",
+        "GrenadeType": "Smoke",
+        "Position": [
+            360.075,
+            -691.969,
+            -163.355
+        ],
+        "ViewAngles": [
+            -41.1669,
+            -153.352,
+            0
+        ]
+    },
+    {
+        "Name": "Test19",
+        "Map": "de_mirage",
+        "ThrowType": "Throw",
+        "GrenadeType": "Smoke",
+        "Position": [
+            360.075,
+            -691.969,
+            -163.355
+        ],
+        "ViewAngles": [
+            -24.9576,
+            160.923,
+            0
+        ]
+    },
+    {
+        "Name": "Test20",
+        "Map": "de_mirage",
+        "ThrowType": "Throw",
+        "GrenadeType": "Flashbang",
+        "Position": [
+            343.302,
+            -621.619,
+            -162.332
+        ],
+        "ViewAngles": [
+            -9.59782,
+            -169.115,
+            0
+        ]
+    },
+    {
+        "Name": "Test21",
+        "Map": "de_mirage",
+        "ThrowType": "Throw",
+        "GrenadeType": "Flashbang",
+        "Position": [
+            343.302,
+            -621.619,
+            -162.332
+        ],
+        "ViewAngles": [
+            -10.1623,
+            -169.679,
+            0
+        ]
+    },
+    {
+        "Name": "Test22",
+        "Map": "de_mirage",
+        "ThrowType": "RunThrow",
+        "GrenadeType": "Incendiary",
+        "Position": [
+            -1343.8,
+            815.972,
+            -79.9688
+        ],
+        "ViewAngles": [
+            -5.08179,
+            -159.841,
+            0
+        ]
+    },
+    {
+        "Name": "Test23",
+        "Map": "de_mirage",
+        "ThrowType": "Throw",
+        "GrenadeType": "Incendiary",
+        "Position": [
+            23.8356,
+            -2367.79,
+            -39.9688
+        ],
+        "ViewAngles": [
+            9.39365,
+            75.4853,
+            0
+        ]
+    },
+    {
+        "Name": "Test24",
+        "Map": "de_mirage",
+        "ThrowType": "RunJumpThrow",
+        "GrenadeType": "Flashbang",
+        "Position": [
+            -747.98,
+            -2095.37,
+            -179.969
+        ],
+        "ViewAngles": [
+            -18.1863,
+            69.2356,
+            0
+        ]
+    },
+    {
+        "Name": "Test25",
+        "Map": "de_mirage",
+        "ThrowType": "Throw",
+        "GrenadeType": "Smoke",
+        "Position": [
+            -661.382,
+            -1419,
+            -167.969
+        ],
+        "ViewAngles": [
+            -21.291,
+            -46.1554,
+            0
+        ]
+    },
+    {
+        "Name": "Test26",
+        "Map": "de_mirage",
+        "ThrowType": "Throw",
+        "GrenadeType": "Incendiary",
+        "Position": [
+            -661.382,
+            -1419,
+            -167.969
+        ],
+        "ViewAngles": [
+            -21.8555,
+            -48.2118,
+            0
+        ]
+    },
+    {
+        "Name": "Test27",
+        "Map": "de_mirage",
+        "ThrowType": "Throw",
+        "GrenadeType": "Flashbang",
+        "Position": [
+            -1447.5,
+            108.032,
+            -165.526
+        ],
+        "ViewAngles": [
+            -11.3388,
+            132.475,
+            0
+        ]
+    },
+    {
+        "Name": "Test28",
+        "Map": "de_mirage",
+        "ThrowType": "Jumpthrow",
+        "GrenadeType": "Smoke",
+        "Position": [
+            -694.241,
+            615.967,
+            -80.1671
+        ],
+        "ViewAngles": [
+            -39.1138,
+            -96.0798,
+            0
+        ]
+    }
 ]
