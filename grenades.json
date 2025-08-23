@@ -2,6 +2,30 @@
     "de_mirage": [
         {
             "Nade": 45,
+            "Name": "Tspawn To Stairs",
+            "Position": {
+                "X": 1422.96875,
+                "Y": -248.054443,
+                "Z": -103.96875
+            },
+            "EndPosition": {
+                "X": -838.977173,
+                "Y": -1380.801514,
+                "Z": -103.96875
+            },
+            "Type": 0,
+            "Throw type": 1,
+            "Viewangle": {
+                "X": -40.574558,
+                "Y": -145.551636
+            },
+            "EndViewangle": {
+                "X": -10.611543,
+                "Y": -28.328529
+            }
+        },
+        {
+            "Nade": 45,
             "Name": "window smoke d + jump",
             "Position": {
                 "X": 1422.9567,
